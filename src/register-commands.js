@@ -1,11 +1,35 @@
 require("dotenv").config();
-const { REST, Routes } = require("discord.js");
+const { ApplicationCommandOptionType, REST, Routes } = require("discord.js");
 
 // define commands
 const commands = [
   {
     name: "annie",
     description: "replies with annie special message",
+  },
+  {
+    name: "add",
+    description: "add 3 numbers",
+    options: [
+      {
+        name: "first-number",
+        description: "The first number",
+        type: ApplicationCommandOptionType.Number,
+        required: true,
+      },
+      {
+        name: "second-number",
+        description: "The second number",
+        type: ApplicationCommandOptionType.Number,
+        required: true,
+      },
+      {
+        name: "third-number",
+        description: "The third number",
+        type: ApplicationCommandOptionType.Number,
+        required: true,
+      },
+    ],
   },
 ];
 
@@ -27,3 +51,5 @@ const rest = new REST({ version: "10" }).setToken(
     console.error(`Error: ${error}`);
   }
 })();
+
+// Run the command by typing `node src/register-commands.js` to register the new discord bot command(s)

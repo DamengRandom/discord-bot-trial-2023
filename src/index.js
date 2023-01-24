@@ -33,6 +33,16 @@ client.on("interactionCreate", (interaction) => {
   if (interaction.commandName === "annie") {
     interaction.reply("I love you annie !!");
   }
+
+  if (interaction.commandName === "add") {
+    const num1 = interaction.options.get("first-number").value;
+    const num2 = interaction.options.get("second-number").value;
+    const num3 = interaction.options.get("third-number").value;
+
+    interaction.reply(
+      `Numbers mod results: ${num1 % 8}, ${num2 % 8}, ${num3 % 6}`
+    );
+  }
 });
 
 client.login(process.env.DISCORD_BOT_TOKEN);
