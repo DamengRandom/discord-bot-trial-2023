@@ -31,6 +31,14 @@ const commands = [
       },
     ],
   },
+  {
+    name: "embed",
+    description: "Send an embed!",
+  },
+  {
+    name: "support",
+    description: "If you like to support the server owner for donating $5?",
+  },
 ];
 
 const rest = new REST({ version: "10" }).setToken(
