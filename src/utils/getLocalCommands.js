@@ -17,9 +17,7 @@ module.exports = (exceptions = []) => {
     for (const commandCategoryFile of commandCategoryFiles) {
       const commandObject = require(commandCategoryFile);
 
-      if (exceptions.includes(commandObject.name)) {
-        continue;
-      }
+      if (exceptions.includes(commandObject.name)) continue;
 
       localCommands.push(commandObject);
     }
