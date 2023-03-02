@@ -1,10 +1,32 @@
 const {
   ApplicationCommandOptionType,
   EmbedBuilder,
-  ButtonBuilder,
-  ButtonStyle,
-  ActionRowBuilder,
+  // ButtonBuilder,
+  // ButtonStyle,
+  // ActionRowBuilder,
 } = require("discord.js");
+const {
+  convertToGua,
+  convertToYao,
+  allGuas,
+  allYaos,
+  answers,
+} = require("../../utils/zhouyi");
+
+function request(data) {
+  // calculate the gua & yao
+  const xiaGua = convertToGua(data["xia"] % 8);
+  const shangGua = convertToGua(data["shang"] % 8);
+  const yaoCi = convertToYao(data["yao"] % 6);
+
+  // convert gua & yao to one of 64 varients
+  const gua = allGuas(`${shangGua}-${xiaGua}`);
+  const yao = allYaos(gua)?.[yaoCi];
+
+  // release final result answer
+  // const finalResult = answer(`${gua}${yao}`); // single result
+  return answers(`${gua}${yao}`); // multiple results
+}
 
 module.exports = {
   name: "calculate",
@@ -35,43 +57,66 @@ module.exports = {
     const thirdNumber = interaction.options.get("third-number").value % 6;
 
     // calculation algorithm
+    const result = request({
+      xia: firstNumber,
+      shang: secondNumber,
+      yao: thirdNumber,
+    });
 
-    const liteButton = new ButtonBuilder()
-      .setCustomId("lite")
-      .setLabel("Lite Version")
-      .setStyle(ButtonStyle.Secondary);
+    // const liteButton = new ButtonBuilder()
+    //   .setCustomId("lite")
+    //   .setLabel("Lite Version")
+    //   .setStyle(ButtonStyle.Secondary);
 
-    const fullButton = new ButtonBuilder()
-      .setCustomId("full")
-      .setLabel("Full Version")
-      .setStyle(ButtonStyle.Primary);
+    // const fullButton = new ButtonBuilder()
+    //   .setCustomId("full")
+    //   .setLabel("Full Version")
+    //   .setStyle(ButtonStyle.Primary);
 
     const resultCard = new EmbedBuilder()
-      .setTitle("Show time [RESULT]")
+      .setTitle("此卦爻为 [结果]")
       .setDescription(
-        `It's time to show the forcast result, and you will be able to view the final result below ☯️: ${firstNumber}:${secondNumber}:${thirdNumber}`
+        `易经数字卦是一种占问的方式\n(请务必做到 不诚不占 不义不占 不疑不占) ☯️☯️☯️`
       )
+      .setAuthor({
+        name: "Damengrandom",
+        url: "https://github.com/DamengRandom",
+      })
       .setColor("Random")
       .addFields(
         {
-          name: "Top result (Shang Gua)",
-          value: `${firstNumber}`,
+          name: "卦名",
+          value: `${result.gua}`,
         },
         {
-          name: "Bottom result (Xia Gua)",
-          value: `${secondNumber}`,
+          name: "爻辞",
+          value: `${result.yao}`,
         },
         {
-          name: "Variant result (Yao Ci)",
-          value: `${thirdNumber}`,
+          name: "大象",
+          value: `${result.daXiang}`,
+        },
+        {
+          name: "小象",
+          value: `${result.xiaoXiang}`,
+        },
+        {
+          name: "原文",
+          value: `${result.origin}`,
+        },
+        {
+          name: "解释",
+          value: `${result.meaning}`,
         }
-      );
+      )
+      .setTimestamp();
 
-    const actionRow = new ActionRowBuilder().addComponents([
-      liteButton,
-      fullButton,
-    ]);
+    // const actionRow = new ActionRowBuilder().addComponents([
+    //   liteButton,
+    //   fullButton,
+    // ]);
 
-    await interaction.reply({ embeds: [resultCard], components: [actionRow] });
+    // await interaction.reply({ embeds: [resultCard], components: [actionRow] });
+    await interaction.reply({ embeds: [resultCard] });
   },
 };
