@@ -1,9 +1,7 @@
 const {
   ApplicationCommandOptionType,
   EmbedBuilder,
-  // ButtonBuilder,
-  // ButtonStyle,
-  // ActionRowBuilder,
+  hyperlink,
 } = require("discord.js");
 const {
   convertToGua,
@@ -63,15 +61,7 @@ module.exports = {
       yao: thirdNumber,
     });
 
-    // const liteButton = new ButtonBuilder()
-    //   .setCustomId("lite")
-    //   .setLabel("Lite Version")
-    //   .setStyle(ButtonStyle.Secondary);
-
-    // const fullButton = new ButtonBuilder()
-    //   .setCustomId("full")
-    //   .setLabel("Full Version")
-    //   .setStyle(ButtonStyle.Primary);
+    const zhouYiLink = hyperlink("周易数字卦", "https://zhouyi.netlify.app/");
 
     const resultCard = new EmbedBuilder()
       .setTitle("此卦爻为 [结果]")
@@ -107,16 +97,14 @@ module.exports = {
         {
           name: "解释",
           value: `${result.meaning}`,
+        },
+        {
+          name: "网站",
+          value: zhouYiLink,
         }
       )
       .setTimestamp();
 
-    // const actionRow = new ActionRowBuilder().addComponents([
-    //   liteButton,
-    //   fullButton,
-    // ]);
-
-    // await interaction.reply({ embeds: [resultCard], components: [actionRow] });
     await interaction.reply({ embeds: [resultCard] });
   },
 };
