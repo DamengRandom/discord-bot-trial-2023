@@ -8,4 +8,6 @@ npm run dev
 
 ### References
 
-1). <a href="https://discordjs.guide/popular-topics/builders.html#basic-markdown" target="_blank">Referenec One</a>
+1). <a href="https://discordjs.guide/popular-topics/builders.html#basic-markdown" target="_blank">Discord builders</a>
+
+2). <a href="" target="_blank"></a>
