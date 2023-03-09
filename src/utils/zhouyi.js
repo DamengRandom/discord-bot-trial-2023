@@ -1165,6 +1165,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_dQstnEWEnQ",
           "https://www.youtube.com/embed/u74Kvtw-V60",
           "https://www.youtube.com/embed/c0Bv63B6hZU",
+          "https://www.youtube.com/embed/bnKBiVKRBpA",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/IqJOQWiAp6c",
+          "https://www.youtube.com/embed/LW4wOQ-pBJE",
         ],
         references: [
           "http://ly.yishihui.net/12820.htm",
@@ -1191,6 +1195,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_dQstnEWEnQ",
           "https://www.youtube.com/embed/u74Kvtw-V60",
           "https://www.youtube.com/embed/c0Bv63B6hZU",
+          "https://www.youtube.com/embed/bnKBiVKRBpA",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/IqJOQWiAp6c",
+          "https://www.youtube.com/embed/LW4wOQ-pBJE",
         ],
         references: [
           "http://ly.yishihui.net/12818.htm",
@@ -1217,6 +1225,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_dQstnEWEnQ",
           "https://www.youtube.com/embed/u74Kvtw-V60",
           "https://www.youtube.com/embed/c0Bv63B6hZU",
+          "https://www.youtube.com/embed/bnKBiVKRBpA",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/IqJOQWiAp6c",
+          "https://www.youtube.com/embed/LW4wOQ-pBJE",
         ],
         references: [
           "http://ly.yishihui.net/12816.htm",
@@ -1243,6 +1255,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_dQstnEWEnQ",
           "https://www.youtube.com/embed/u74Kvtw-V60",
           "https://www.youtube.com/embed/c0Bv63B6hZU",
+          "https://www.youtube.com/embed/bnKBiVKRBpA",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/IqJOQWiAp6c",
+          "https://www.youtube.com/embed/LW4wOQ-pBJE",
         ],
         references: [
           "http://ly.yishihui.net/12814.htm",
@@ -1269,6 +1285,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_dQstnEWEnQ",
           "https://www.youtube.com/embed/u74Kvtw-V60",
           "https://www.youtube.com/embed/c0Bv63B6hZU",
+          "https://www.youtube.com/embed/bnKBiVKRBpA",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/IqJOQWiAp6c",
+          "https://www.youtube.com/embed/LW4wOQ-pBJE",
         ],
         references: [
           "http://ly.yishihui.net/12812.htm",
@@ -1295,6 +1315,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_dQstnEWEnQ",
           "https://www.youtube.com/embed/u74Kvtw-V60",
           "https://www.youtube.com/embed/c0Bv63B6hZU",
+          "https://www.youtube.com/embed/bnKBiVKRBpA",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/IqJOQWiAp6c",
+          "https://www.youtube.com/embed/LW4wOQ-pBJE",
         ],
         references: [
           "http://ly.yishihui.net/12810.htm",
@@ -1319,6 +1343,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/o-cwrgmtSg8",
           "https://www.youtube.com/embed/9bWFV-W25tU",
           "https://www.youtube.com/embed/KNU8sWEAfFc",
+          "https://www.youtube.com/embed/8dRInl5MNg4",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/BKlQ3VdAuvQ",
+          "https://www.youtube.com/embed/lRbEBt2saJs",
         ],
         references: [
           "http://ly.yishihui.net/12843.htm",
@@ -1344,6 +1372,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/o-cwrgmtSg8",
           "https://www.youtube.com/embed/9bWFV-W25tU",
           "https://www.youtube.com/embed/KNU8sWEAfFc",
+          "https://www.youtube.com/embed/8dRInl5MNg4",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/BKlQ3VdAuvQ",
+          "https://www.youtube.com/embed/lRbEBt2saJs",
         ],
         references: [
           "http://ly.yishihui.net/12841.htm",
@@ -1369,6 +1401,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/o-cwrgmtSg8",
           "https://www.youtube.com/embed/9bWFV-W25tU",
           "https://www.youtube.com/embed/KNU8sWEAfFc",
+          "https://www.youtube.com/embed/8dRInl5MNg4",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/BKlQ3VdAuvQ",
+          "https://www.youtube.com/embed/lRbEBt2saJs",
         ],
         references: [
           "http://ly.yishihui.net/12839.htm",
@@ -1393,6 +1429,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/o-cwrgmtSg8",
           "https://www.youtube.com/embed/9bWFV-W25tU",
           "https://www.youtube.com/embed/KNU8sWEAfFc",
+          "https://www.youtube.com/embed/8dRInl5MNg4",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/BKlQ3VdAuvQ",
+          "https://www.youtube.com/embed/lRbEBt2saJs",
         ],
         references: [
           "http://ly.yishihui.net/12837.htm",
@@ -1417,6 +1457,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/o-cwrgmtSg8",
           "https://www.youtube.com/embed/9bWFV-W25tU",
           "https://www.youtube.com/embed/KNU8sWEAfFc",
+          "https://www.youtube.com/embed/8dRInl5MNg4",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/BKlQ3VdAuvQ",
+          "https://www.youtube.com/embed/lRbEBt2saJs",
         ],
         references: [
           "http://ly.yishihui.net/12835.htm",
@@ -1441,6 +1485,10 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/o-cwrgmtSg8",
           "https://www.youtube.com/embed/9bWFV-W25tU",
           "https://www.youtube.com/embed/KNU8sWEAfFc",
+          "https://www.youtube.com/embed/8dRInl5MNg4",
+          "https://www.youtube.com/embed/86A1yIjoMFA",
+          "https://www.youtube.com/embed/BKlQ3VdAuvQ",
+          "https://www.youtube.com/embed/lRbEBt2saJs",
         ],
         references: [
           "http://ly.yishihui.net/12833.htm",
@@ -1464,6 +1512,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/tUBMaiZ046c",
           "https://www.youtube.com/embed/y3ixbImhxmI",
           "https://www.youtube.com/embed/jvRUnEYBKgE",
+          "https://www.youtube.com/embed/tImJu2Vitv8",
+          "https://www.youtube.com/embed/j-XlklJ0Ebo",
         ],
         references: [
           "http://ly.yishihui.net/12855.htm",
@@ -1486,6 +1536,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/tUBMaiZ046c",
           "https://www.youtube.com/embed/y3ixbImhxmI",
           "https://www.youtube.com/embed/jvRUnEYBKgE",
+          "https://www.youtube.com/embed/tImJu2Vitv8",
+          "https://www.youtube.com/embed/j-XlklJ0Ebo",
         ],
         references: [
           "http://ly.yishihui.net/12853.htm",
@@ -1508,6 +1560,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/tUBMaiZ046c",
           "https://www.youtube.com/embed/y3ixbImhxmI",
           "https://www.youtube.com/embed/jvRUnEYBKgE",
+          "https://www.youtube.com/embed/tImJu2Vitv8",
+          "https://www.youtube.com/embed/j-XlklJ0Ebo",
         ],
         references: [
           "http://ly.yishihui.net/12851.htm",
@@ -1530,6 +1584,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/tUBMaiZ046c",
           "https://www.youtube.com/embed/y3ixbImhxmI",
           "https://www.youtube.com/embed/jvRUnEYBKgE",
+          "https://www.youtube.com/embed/tImJu2Vitv8",
+          "https://www.youtube.com/embed/j-XlklJ0Ebo",
         ],
         references: [
           "http://ly.yishihui.net/12849.htm",
@@ -1552,6 +1608,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/tUBMaiZ046c",
           "https://www.youtube.com/embed/y3ixbImhxmI",
           "https://www.youtube.com/embed/jvRUnEYBKgE",
+          "https://www.youtube.com/embed/tImJu2Vitv8",
+          "https://www.youtube.com/embed/j-XlklJ0Ebo",
         ],
         references: [
           "http://ly.yishihui.net/12847.htm",
@@ -1574,6 +1632,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/tUBMaiZ046c",
           "https://www.youtube.com/embed/y3ixbImhxmI",
           "https://www.youtube.com/embed/jvRUnEYBKgE",
+          "https://www.youtube.com/embed/tImJu2Vitv8",
+          "https://www.youtube.com/embed/j-XlklJ0Ebo",
         ],
         references: [
           "http://ly.yishihui.net/12845.htm",
@@ -1597,6 +1657,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/c8yHbxAzkO02",
           "https://www.youtube.com/embed/68AaET1tBNA",
           "https://www.youtube.com/embed/_r3DZjJw7wk",
+          "https://www.youtube.com/embed/uYFgT_t-j5E",
+          "https://www.youtube.com/embed/T1TU-wmo9h0",
+          "https://www.youtube.com/embed/oRNd21qAVss",
         ],
         references: [
           "http://ly.yishihui.net/12867.htm",
@@ -1619,6 +1682,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/c8yHbxAzkO02",
           "https://www.youtube.com/embed/68AaET1tBNA",
           "https://www.youtube.com/embed/_r3DZjJw7wk",
+          "https://www.youtube.com/embed/uYFgT_t-j5E",
+          "https://www.youtube.com/embed/T1TU-wmo9h0",
+          "https://www.youtube.com/embed/oRNd21qAVss",
         ],
         references: [
           "http://ly.yishihui.net/12865.htm",
@@ -1641,6 +1707,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/c8yHbxAzkO02",
           "https://www.youtube.com/embed/68AaET1tBNA",
           "https://www.youtube.com/embed/_r3DZjJw7wk",
+          "https://www.youtube.com/embed/uYFgT_t-j5E",
+          "https://www.youtube.com/embed/T1TU-wmo9h0",
+          "https://www.youtube.com/embed/oRNd21qAVss",
         ],
         references: [
           "http://ly.yishihui.net/12863.htm",
@@ -1663,6 +1732,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/c8yHbxAzkO02",
           "https://www.youtube.com/embed/68AaET1tBNA",
           "https://www.youtube.com/embed/_r3DZjJw7wk",
+          "https://www.youtube.com/embed/uYFgT_t-j5E",
+          "https://www.youtube.com/embed/T1TU-wmo9h0",
+          "https://www.youtube.com/embed/oRNd21qAVss",
         ],
         references: [
           "http://ly.yishihui.net/12861.htm",
@@ -1685,6 +1757,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/c8yHbxAzkO02",
           "https://www.youtube.com/embed/68AaET1tBNA",
           "https://www.youtube.com/embed/_r3DZjJw7wk",
+          "https://www.youtube.com/embed/uYFgT_t-j5E",
+          "https://www.youtube.com/embed/T1TU-wmo9h0",
+          "https://www.youtube.com/embed/oRNd21qAVss",
         ],
         references: [
           "http://ly.yishihui.net/12859.htm",
@@ -1707,6 +1782,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/c8yHbxAzkO02",
           "https://www.youtube.com/embed/68AaET1tBNA",
           "https://www.youtube.com/embed/_r3DZjJw7wk",
+          "https://www.youtube.com/embed/uYFgT_t-j5E",
+          "https://www.youtube.com/embed/T1TU-wmo9h0",
+          "https://www.youtube.com/embed/oRNd21qAVss",
         ],
         references: [
           "http://ly.yishihui.net/12857.htm",
@@ -1729,6 +1807,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/eOrljm6Pmys",
           "https://www.youtube.com/embed/VTctxzdF7IE",
           "https://www.youtube.com/embed/QXV4cw9ugAc",
+          "https://www.youtube.com/embed/f-PnGIr-phY",
+          "https://www.youtube.com/embed/aJWUjMr4VS0",
         ],
         references: [
           "http://ly.yishihui.net/12879.htm",
@@ -1751,6 +1831,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/eOrljm6Pmys",
           "https://www.youtube.com/embed/VTctxzdF7IE",
           "https://www.youtube.com/embed/QXV4cw9ugAc",
+          "https://www.youtube.com/embed/f-PnGIr-phY",
+          "https://www.youtube.com/embed/aJWUjMr4VS0",
         ],
         references: [
           "http://ly.yishihui.net/12877.htm",
@@ -1773,6 +1855,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/eOrljm6Pmys",
           "https://www.youtube.com/embed/VTctxzdF7IE",
           "https://www.youtube.com/embed/QXV4cw9ugAc",
+          "https://www.youtube.com/embed/f-PnGIr-phY",
+          "https://www.youtube.com/embed/aJWUjMr4VS0",
         ],
         references: [
           "http://ly.yishihui.net/12875.htm",
@@ -1795,6 +1879,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/eOrljm6Pmys",
           "https://www.youtube.com/embed/VTctxzdF7IE",
           "https://www.youtube.com/embed/QXV4cw9ugAc",
+          "https://www.youtube.com/embed/f-PnGIr-phY",
+          "https://www.youtube.com/embed/aJWUjMr4VS0",
         ],
         references: [
           "http://ly.yishihui.net/12873.htm",
@@ -1817,6 +1903,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/eOrljm6Pmys",
           "https://www.youtube.com/embed/VTctxzdF7IE",
           "https://www.youtube.com/embed/QXV4cw9ugAc",
+          "https://www.youtube.com/embed/f-PnGIr-phY",
+          "https://www.youtube.com/embed/aJWUjMr4VS0",
         ],
         references: [
           "http://ly.yishihui.net/12871.htm",
@@ -1839,6 +1927,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/eOrljm6Pmys",
           "https://www.youtube.com/embed/VTctxzdF7IE",
           "https://www.youtube.com/embed/QXV4cw9ugAc",
+          "https://www.youtube.com/embed/f-PnGIr-phY",
+          "https://www.youtube.com/embed/aJWUjMr4VS0",
         ],
         references: [
           "http://ly.yishihui.net/12869.htm",
@@ -1861,6 +1951,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/KFL3fWs5vJQ",
           "https://www.youtube.com/embed/39uhZsS9xE",
           "https://www.youtube.com/embed/eo6pO9YNbiI",
+          "https://www.youtube.com/embed/xGEZCzbn8Rw",
+          "https://www.youtube.com/embed/KBxxv2zftZ0",
         ],
         references: [
           "http://ly.yishihui.net/12933.htm",
@@ -1883,6 +1975,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/KFL3fWs5vJQ",
           "https://www.youtube.com/embed/39uhZsS9xE",
           "https://www.youtube.com/embed/eo6pO9YNbiI",
+          "https://www.youtube.com/embed/xGEZCzbn8Rw",
+          "https://www.youtube.com/embed/KBxxv2zftZ0",
         ],
         references: [
           "http://ly.yishihui.net/12929.htm",
@@ -1906,6 +2000,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/KFL3fWs5vJQ",
           "https://www.youtube.com/embed/39uhZsS9xE",
           "https://www.youtube.com/embed/eo6pO9YNbiI",
+          "https://www.youtube.com/embed/xGEZCzbn8Rw",
+          "https://www.youtube.com/embed/KBxxv2zftZ0",
         ],
         references: [
           "http://ly.yishihui.net/12931.htm",
@@ -1928,6 +2024,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/KFL3fWs5vJQ",
           "https://www.youtube.com/embed/39uhZsS9xE",
           "https://www.youtube.com/embed/eo6pO9YNbiI",
+          "https://www.youtube.com/embed/xGEZCzbn8Rw",
+          "https://www.youtube.com/embed/KBxxv2zftZ0",
         ],
         references: [
           "http://ly.yishihui.net/12925.htm",
@@ -1950,6 +2048,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/KFL3fWs5vJQ",
           "https://www.youtube.com/embed/39uhZsS9xE",
           "https://www.youtube.com/embed/eo6pO9YNbiI",
+          "https://www.youtube.com/embed/xGEZCzbn8Rw",
+          "https://www.youtube.com/embed/KBxxv2zftZ0",
         ],
         references: [
           "http://ly.yishihui.net/12927.htm",
@@ -1972,6 +2072,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/KFL3fWs5vJQ",
           "https://www.youtube.com/embed/39uhZsS9xE",
           "https://www.youtube.com/embed/eo6pO9YNbiI",
+          "https://www.youtube.com/embed/xGEZCzbn8Rw",
+          "https://www.youtube.com/embed/KBxxv2zftZ0",
         ],
         references: [
           "http://ly.yishihui.net/12923.htm",
@@ -1994,6 +2096,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/yklfL49CN1k",
           "https://www.youtube.com/embed/NyAwr3r2o18",
           "https://www.youtube.com/embed/q9JB72S9KNM",
+          "https://www.youtube.com/embed/BvJt3bIQo0A",
+          "https://www.youtube.com/embed/TuP1hv_0nMk",
         ],
         references: [
           "http://ly.yishihui.net/12988.htm",
@@ -2016,6 +2120,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/yklfL49CN1k",
           "https://www.youtube.com/embed/NyAwr3r2o18",
           "https://www.youtube.com/embed/q9JB72S9KNM",
+          "https://www.youtube.com/embed/BvJt3bIQo0A",
+          "https://www.youtube.com/embed/TuP1hv_0nMk",
         ],
         references: [
           "http://ly.yishihui.net/12986.htm",
@@ -2038,6 +2144,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/yklfL49CN1k",
           "https://www.youtube.com/embed/NyAwr3r2o18",
           "https://www.youtube.com/embed/q9JB72S9KNM",
+          "https://www.youtube.com/embed/BvJt3bIQo0A",
+          "https://www.youtube.com/embed/TuP1hv_0nMk",
         ],
         references: [
           "http://ly.yishihui.net/12984.htm",
@@ -2060,6 +2168,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/yklfL49CN1k",
           "https://www.youtube.com/embed/NyAwr3r2o18",
           "https://www.youtube.com/embed/q9JB72S9KNM",
+          "https://www.youtube.com/embed/BvJt3bIQo0A",
+          "https://www.youtube.com/embed/TuP1hv_0nMk",
         ],
         references: [
           "http://ly.yishihui.net/12982.htm",
@@ -2083,6 +2193,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/yklfL49CN1k",
           "https://www.youtube.com/embed/NyAwr3r2o18",
           "https://www.youtube.com/embed/q9JB72S9KNM",
+          "https://www.youtube.com/embed/BvJt3bIQo0A",
+          "https://www.youtube.com/embed/TuP1hv_0nMk",
         ],
         references: [
           "http://ly.yishihui.net/12980.htm",
@@ -2105,6 +2217,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/yklfL49CN1k",
           "https://www.youtube.com/embed/NyAwr3r2o18",
           "https://www.youtube.com/embed/q9JB72S9KNM",
+          "https://www.youtube.com/embed/BvJt3bIQo0A",
+          "https://www.youtube.com/embed/TuP1hv_0nMk",
         ],
         references: [
           "http://ly.yishihui.net/12978.htm",
@@ -2127,6 +2241,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/fUGXz8WW3mM",
           "https://www.youtube.com/embed/mHZ_cfpzXZ0",
           "https://www.youtube.com/embed/kr_puPdkwM0",
+          "https://www.youtube.com/embed/Nz5FF7pYQlw",
+          "https://www.youtube.com/embed/6J6HNvqCutc",
         ],
         references: [
           "http://ly.yishihui.net/12976.htm",
@@ -2149,6 +2265,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/fUGXz8WW3mM",
           "https://www.youtube.com/embed/mHZ_cfpzXZ0",
           "https://www.youtube.com/embed/kr_puPdkwM0",
+          "https://www.youtube.com/embed/Nz5FF7pYQlw",
+          "https://www.youtube.com/embed/6J6HNvqCutc",
         ],
         references: [
           "http://ly.yishihui.net/12974.htm",
@@ -2171,6 +2289,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/fUGXz8WW3mM",
           "https://www.youtube.com/embed/mHZ_cfpzXZ0",
           "https://www.youtube.com/embed/kr_puPdkwM0",
+          "https://www.youtube.com/embed/Nz5FF7pYQlw",
+          "https://www.youtube.com/embed/6J6HNvqCutc",
         ],
         references: [
           "http://ly.yishihui.net/12972.htm",
@@ -2193,6 +2313,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/fUGXz8WW3mM",
           "https://www.youtube.com/embed/mHZ_cfpzXZ0",
           "https://www.youtube.com/embed/kr_puPdkwM0",
+          "https://www.youtube.com/embed/Nz5FF7pYQlw",
+          "https://www.youtube.com/embed/6J6HNvqCutc",
         ],
         references: [
           "http://ly.yishihui.net/12970.htm",
@@ -2217,6 +2339,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/fUGXz8WW3mM",
           "https://www.youtube.com/embed/mHZ_cfpzXZ0",
           "https://www.youtube.com/embed/kr_puPdkwM0",
+          "https://www.youtube.com/embed/Nz5FF7pYQlw",
+          "https://www.youtube.com/embed/6J6HNvqCutc",
         ],
         references: [
           "http://ly.yishihui.net/12968.htm",
@@ -2239,6 +2363,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/fUGXz8WW3mM",
           "https://www.youtube.com/embed/mHZ_cfpzXZ0",
           "https://www.youtube.com/embed/kr_puPdkwM0",
+          "https://www.youtube.com/embed/Nz5FF7pYQlw",
+          "https://www.youtube.com/embed/6J6HNvqCutc",
         ],
         references: [
           "http://ly.yishihui.net/12966.htm",
@@ -2261,6 +2387,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6N1oRKrX4zM",
           "https://www.youtube.com/embed/supq39Qc4Ig",
           "https://www.youtube.com/embed/gHsW3EtGy9Q",
+          "https://www.youtube.com/embed/8LfU4tAYqUE",
+          "https://www.youtube.com/embed/qCH1i8_UIlY",
         ],
         references: [
           "http://ly.yishihui.net/12964.htm",
@@ -2283,6 +2411,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6N1oRKrX4zM",
           "https://www.youtube.com/embed/supq39Qc4Ig",
           "https://www.youtube.com/embed/gHsW3EtGy9Q",
+          "https://www.youtube.com/embed/8LfU4tAYqUE",
+          "https://www.youtube.com/embed/qCH1i8_UIlY",
         ],
         references: [
           "http://ly.yishihui.net/12962.htm",
@@ -2305,6 +2435,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6N1oRKrX4zM",
           "https://www.youtube.com/embed/supq39Qc4Ig",
           "https://www.youtube.com/embed/gHsW3EtGy9Q",
+          "https://www.youtube.com/embed/8LfU4tAYqUE",
+          "https://www.youtube.com/embed/qCH1i8_UIlY",
         ],
         references: [
           "http://ly.yishihui.net/12960.htm",
@@ -2327,6 +2459,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6N1oRKrX4zM",
           "https://www.youtube.com/embed/supq39Qc4Ig",
           "https://www.youtube.com/embed/gHsW3EtGy9Q",
+          "https://www.youtube.com/embed/8LfU4tAYqUE",
+          "https://www.youtube.com/embed/qCH1i8_UIlY",
         ],
         references: [
           "http://ly.yishihui.net/12958.htm",
@@ -2349,6 +2483,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6N1oRKrX4zM",
           "https://www.youtube.com/embed/supq39Qc4Ig",
           "https://www.youtube.com/embed/gHsW3EtGy9Q",
+          "https://www.youtube.com/embed/8LfU4tAYqUE",
+          "https://www.youtube.com/embed/qCH1i8_UIlY",
         ],
         references: [
           "http://ly.yishihui.net/12955.htm",
@@ -2372,6 +2508,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6N1oRKrX4zM",
           "https://www.youtube.com/embed/supq39Qc4Ig",
           "https://www.youtube.com/embed/gHsW3EtGy9Q",
+          "https://www.youtube.com/embed/8LfU4tAYqUE",
+          "https://www.youtube.com/embed/qCH1i8_UIlY",
         ],
         references: [
           "http://ly.yishihui.net/12947.htm",
@@ -2394,6 +2532,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ih3SWXfgaGI",
           "https://www.youtube.com/embed/rcN1gVZvkP4",
           "https://www.youtube.com/embed/e7npKDcRe1Q",
+          "https://www.youtube.com/embed/nDPJOFMdVVU",
+          "https://www.youtube.com/embed/Zhz2oZql9dg",
+          "https://www.youtube.com/embed/OKyGS7NFL04",
         ],
         references: [
           "http://ly.yishihui.net/13026.htm",
@@ -2416,6 +2557,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ih3SWXfgaGI",
           "https://www.youtube.com/embed/rcN1gVZvkP4",
           "https://www.youtube.com/embed/e7npKDcRe1Q",
+          "https://www.youtube.com/embed/nDPJOFMdVVU",
+          "https://www.youtube.com/embed/Zhz2oZql9dg",
+          "https://www.youtube.com/embed/OKyGS7NFL04",
         ],
         references: [
           "http://ly.yishihui.net/13024.htm",
@@ -2440,6 +2584,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ih3SWXfgaGI",
           "https://www.youtube.com/embed/rcN1gVZvkP4",
           "https://www.youtube.com/embed/e7npKDcRe1Q",
+          "https://www.youtube.com/embed/nDPJOFMdVVU",
+          "https://www.youtube.com/embed/Zhz2oZql9dg",
+          "https://www.youtube.com/embed/OKyGS7NFL04",
         ],
         references: [
           "http://ly.yishihui.net/13022.htm",
@@ -2462,6 +2609,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ih3SWXfgaGI",
           "https://www.youtube.com/embed/rcN1gVZvkP4",
           "https://www.youtube.com/embed/e7npKDcRe1Q",
+          "https://www.youtube.com/embed/nDPJOFMdVVU",
+          "https://www.youtube.com/embed/Zhz2oZql9dg",
+          "https://www.youtube.com/embed/OKyGS7NFL04",
         ],
         references: [
           "http://ly.yishihui.net/13020.htm",
@@ -2484,6 +2634,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ih3SWXfgaGI",
           "https://www.youtube.com/embed/rcN1gVZvkP4",
           "https://www.youtube.com/embed/e7npKDcRe1Q",
+          "https://www.youtube.com/embed/nDPJOFMdVVU",
+          "https://www.youtube.com/embed/Zhz2oZql9dg",
+          "https://www.youtube.com/embed/OKyGS7NFL04",
         ],
         references: [
           "http://ly.yishihui.net/13006.htm",
@@ -2506,6 +2659,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ih3SWXfgaGI",
           "https://www.youtube.com/embed/rcN1gVZvkP4",
           "https://www.youtube.com/embed/e7npKDcRe1Q",
+          "https://www.youtube.com/embed/nDPJOFMdVVU",
+          "https://www.youtube.com/embed/Zhz2oZql9dg",
+          "https://www.youtube.com/embed/OKyGS7NFL04",
         ],
         references: [
           "http://ly.yishihui.net/13002.htm",
@@ -2528,6 +2684,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/t9KncBp8jhE",
           "https://www.youtube.com/embed/-iXbDYcNn5g",
           "https://www.youtube.com/embed/A6PMV_5h6fc",
+          "https://www.youtube.com/embed/-EY3m5xVjGU",
+          "https://www.youtube.com/embed/T6X-rj_TcvU",
         ],
         references: [
           "http://ly.yishihui.net/13000.htm",
@@ -2551,6 +2709,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/t9KncBp8jhE",
           "https://www.youtube.com/embed/-iXbDYcNn5g",
           "https://www.youtube.com/embed/A6PMV_5h6fc",
+          "https://www.youtube.com/embed/-EY3m5xVjGU",
+          "https://www.youtube.com/embed/T6X-rj_TcvU",
         ],
         references: [
           "http://ly.yishihui.net/12998.htm",
@@ -2574,6 +2734,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/t9KncBp8jhE",
           "https://www.youtube.com/embed/-iXbDYcNn5g",
           "https://www.youtube.com/embed/A6PMV_5h6fc",
+          "https://www.youtube.com/embed/-EY3m5xVjGU",
+          "https://www.youtube.com/embed/T6X-rj_TcvU",
         ],
         references: [
           "https://www.guoyi360.com/64gua11/xj/1170.html",
@@ -2595,6 +2757,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/t9KncBp8jhE",
           "https://www.youtube.com/embed/-iXbDYcNn5g",
           "https://www.youtube.com/embed/A6PMV_5h6fc",
+          "https://www.youtube.com/embed/-EY3m5xVjGU",
+          "https://www.youtube.com/embed/T6X-rj_TcvU",
         ],
         references: [
           "http://ly.yishihui.net/12994.htm",
@@ -2617,6 +2781,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/t9KncBp8jhE",
           "https://www.youtube.com/embed/-iXbDYcNn5g",
           "https://www.youtube.com/embed/A6PMV_5h6fc",
+          "https://www.youtube.com/embed/-EY3m5xVjGU",
+          "https://www.youtube.com/embed/T6X-rj_TcvU",
         ],
         references: [
           "http://ly.yishihui.net/12990.htm",
@@ -2639,6 +2805,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/t9KncBp8jhE",
           "https://www.youtube.com/embed/-iXbDYcNn5g",
           "https://www.youtube.com/embed/A6PMV_5h6fc",
+          "https://www.youtube.com/embed/-EY3m5xVjGU",
+          "https://www.youtube.com/embed/T6X-rj_TcvU",
         ],
         references: [
           "http://ly.yishihui.net/12992.htm",
@@ -2661,6 +2829,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6066UG8NqIk",
           "https://www.youtube.com/embed/Tbw3f-ae3hY",
           "https://www.youtube.com/embed/4LcF5e9Uq3w",
+          "https://www.youtube.com/embed/E0LZdn8Bh0M",
+          "https://www.youtube.com/embed/7JPDw_uOV64",
         ],
         references: [
           "http://ly.yishihui.net/12945.htm",
@@ -2683,6 +2853,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6066UG8NqIk",
           "https://www.youtube.com/embed/Tbw3f-ae3hY",
           "https://www.youtube.com/embed/4LcF5e9Uq3w",
+          "https://www.youtube.com/embed/E0LZdn8Bh0M",
+          "https://www.youtube.com/embed/7JPDw_uOV64",
         ],
         references: [
           "http://ly.yishihui.net/12943.htm",
@@ -2705,6 +2877,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6066UG8NqIk",
           "https://www.youtube.com/embed/Tbw3f-ae3hY",
           "https://www.youtube.com/embed/4LcF5e9Uq3w",
+          "https://www.youtube.com/embed/E0LZdn8Bh0M",
+          "https://www.youtube.com/embed/7JPDw_uOV64",
         ],
         references: [
           "http://ly.yishihui.net/12941.htm",
@@ -2727,6 +2901,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6066UG8NqIk",
           "https://www.youtube.com/embed/Tbw3f-ae3hY",
           "https://www.youtube.com/embed/4LcF5e9Uq3w",
+          "https://www.youtube.com/embed/E0LZdn8Bh0M",
+          "https://www.youtube.com/embed/7JPDw_uOV64",
         ],
         references: [
           "http://ly.yishihui.net/12939.htm",
@@ -2750,6 +2926,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6066UG8NqIk",
           "https://www.youtube.com/embed/Tbw3f-ae3hY",
           "https://www.youtube.com/embed/4LcF5e9Uq3w",
+          "https://www.youtube.com/embed/E0LZdn8Bh0M",
+          "https://www.youtube.com/embed/7JPDw_uOV64",
         ],
         references: [
           "http://ly.yishihui.net/12937.htm",
@@ -2772,6 +2950,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6066UG8NqIk",
           "https://www.youtube.com/embed/Tbw3f-ae3hY",
           "https://www.youtube.com/embed/4LcF5e9Uq3w",
+          "https://www.youtube.com/embed/E0LZdn8Bh0M",
+          "https://www.youtube.com/embed/7JPDw_uOV64",
         ],
         references: [
           "http://ly.yishihui.net/12935.htm",
@@ -2794,6 +2974,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ZTblo6_Ke2Q",
           "https://www.youtube.com/embed/0CGQphBuWAc",
           "https://www.youtube.com/embed/UKCIfcEMcEI",
+          "https://www.youtube.com/embed/XGOGX17gPBw",
+          "https://www.youtube.com/embed/beS0QySXqXk",
         ],
         references: [
           "http://ly.yishihui.net/12921.htm",
@@ -2816,6 +2998,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ZTblo6_Ke2Q",
           "https://www.youtube.com/embed/0CGQphBuWAc",
           "https://www.youtube.com/embed/UKCIfcEMcEI",
+          "https://www.youtube.com/embed/XGOGX17gPBw",
+          "https://www.youtube.com/embed/beS0QySXqXk",
         ],
         references: [
           "http://ly.yishihui.net/12921.htm",
@@ -2838,6 +3022,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ZTblo6_Ke2Q",
           "https://www.youtube.com/embed/0CGQphBuWAc",
           "https://www.youtube.com/embed/UKCIfcEMcEI",
+          "https://www.youtube.com/embed/XGOGX17gPBw",
+          "https://www.youtube.com/embed/beS0QySXqXk",
         ],
         references: [
           "http://ly.yishihui.net/12917.htm",
@@ -2860,6 +3046,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ZTblo6_Ke2Q",
           "https://www.youtube.com/embed/0CGQphBuWAc",
           "https://www.youtube.com/embed/UKCIfcEMcEI",
+          "https://www.youtube.com/embed/XGOGX17gPBw",
+          "https://www.youtube.com/embed/beS0QySXqXk",
         ],
         references: [
           "http://ly.yishihui.net/12915.htm",
@@ -2882,6 +3070,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ZTblo6_Ke2Q",
           "https://www.youtube.com/embed/0CGQphBuWAc",
           "https://www.youtube.com/embed/UKCIfcEMcEI",
+          "https://www.youtube.com/embed/XGOGX17gPBw",
+          "https://www.youtube.com/embed/beS0QySXqXk",
         ],
         references: [
           "http://ly.yishihui.net/12913.htm",
@@ -2904,6 +3094,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/ZTblo6_Ke2Q",
           "https://www.youtube.com/embed/0CGQphBuWAc",
           "https://www.youtube.com/embed/UKCIfcEMcEI",
+          "https://www.youtube.com/embed/XGOGX17gPBw",
+          "https://www.youtube.com/embed/beS0QySXqXk",
         ],
         references: [
           "http://ly.yishihui.net/12911.htm",
@@ -2927,6 +3119,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/QfQALI3g7Lk",
           "https://www.youtube.com/embed/_FqHxAdRQ7M",
           "https://www.youtube.com/embed/FT6sa_bBWbw",
+          "https://www.youtube.com/embed/4aCf--MbQ3k",
+          "https://www.youtube.com/embed/bZY50cMEL8o",
         ],
         references: [
           "http://ly.yishihui.net/13375.htm",
@@ -2949,6 +3143,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/QfQALI3g7Lk",
           "https://www.youtube.com/embed/_FqHxAdRQ7M",
           "https://www.youtube.com/embed/FT6sa_bBWbw",
+          "https://www.youtube.com/embed/4aCf--MbQ3k",
+          "https://www.youtube.com/embed/bZY50cMEL8o",
         ],
         references: [
           "http://ly.yishihui.net/13373.htm",
@@ -2971,6 +3167,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/QfQALI3g7Lk",
           "https://www.youtube.com/embed/_FqHxAdRQ7M",
           "https://www.youtube.com/embed/FT6sa_bBWbw",
+          "https://www.youtube.com/embed/4aCf--MbQ3k",
+          "https://www.youtube.com/embed/bZY50cMEL8o",
         ],
         references: [
           "http://ly.yishihui.net/13371.htm",
@@ -2993,6 +3191,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/QfQALI3g7Lk",
           "https://www.youtube.com/embed/_FqHxAdRQ7M",
           "https://www.youtube.com/embed/FT6sa_bBWbw",
+          "https://www.youtube.com/embed/4aCf--MbQ3k",
+          "https://www.youtube.com/embed/bZY50cMEL8o",
         ],
         references: [
           "http://ly.yishihui.net/13369.htm",
@@ -3015,6 +3215,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/QfQALI3g7Lk",
           "https://www.youtube.com/embed/_FqHxAdRQ7M",
           "https://www.youtube.com/embed/FT6sa_bBWbw",
+          "https://www.youtube.com/embed/4aCf--MbQ3k",
+          "https://www.youtube.com/embed/bZY50cMEL8o",
         ],
         references: [
           "http://ly.yishihui.net/13367.htm",
@@ -3037,6 +3239,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/QfQALI3g7Lk",
           "https://www.youtube.com/embed/_FqHxAdRQ7M",
           "https://www.youtube.com/embed/FT6sa_bBWbw",
+          "https://www.youtube.com/embed/4aCf--MbQ3k",
+          "https://www.youtube.com/embed/bZY50cMEL8o",
         ],
         references: [
           "http://ly.yishihui.net/13365.htm",
@@ -3059,6 +3263,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/hWaU5nxtT6M",
           "https://www.youtube.com/embed/YdfRGlm9CLM",
           "https://www.youtube.com/embed/ZtqtGiFCR_M",
+          "https://www.youtube.com/embed/6QVYJqAwQ6s",
+          "https://www.youtube.com/embed/fijI9YrVPi0",
         ],
         references: [
           "http://ly.yishihui.net/13363.htm",
@@ -3080,6 +3286,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/hWaU5nxtT6M",
           "https://www.youtube.com/embed/YdfRGlm9CLM",
           "https://www.youtube.com/embed/ZtqtGiFCR_M",
+          "https://www.youtube.com/embed/6QVYJqAwQ6s",
+          "https://www.youtube.com/embed/fijI9YrVPi0",
         ],
         references: [
           "http://ly.yishihui.net/13345.htm",
@@ -3101,6 +3309,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/hWaU5nxtT6M",
           "https://www.youtube.com/embed/YdfRGlm9CLM",
           "https://www.youtube.com/embed/ZtqtGiFCR_M",
+          "https://www.youtube.com/embed/6QVYJqAwQ6s",
+          "https://www.youtube.com/embed/fijI9YrVPi0",
         ],
         references: [
           "http://ly.yishihui.net/13341.htm",
@@ -3122,6 +3332,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/hWaU5nxtT6M",
           "https://www.youtube.com/embed/YdfRGlm9CLM",
           "https://www.youtube.com/embed/ZtqtGiFCR_M",
+          "https://www.youtube.com/embed/6QVYJqAwQ6s",
+          "https://www.youtube.com/embed/fijI9YrVPi0",
         ],
         references: [
           "http://ly.yishihui.net/13339.htm",
@@ -3143,6 +3355,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/hWaU5nxtT6M",
           "https://www.youtube.com/embed/YdfRGlm9CLM",
           "https://www.youtube.com/embed/ZtqtGiFCR_M",
+          "https://www.youtube.com/embed/6QVYJqAwQ6s",
+          "https://www.youtube.com/embed/fijI9YrVPi0",
         ],
         references: [
           "http://ly.yishihui.net/13337.htm",
@@ -3164,6 +3378,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/hWaU5nxtT6M",
           "https://www.youtube.com/embed/YdfRGlm9CLM",
           "https://www.youtube.com/embed/ZtqtGiFCR_M",
+          "https://www.youtube.com/embed/6QVYJqAwQ6s",
+          "https://www.youtube.com/embed/fijI9YrVPi0",
         ],
         references: [
           "http://ly.yishihui.net/13335.htm",
@@ -3185,6 +3401,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/GvEcQvgOJBk",
           "https://www.youtube.com/embed/RdX69AWBzMM",
           "https://www.youtube.com/embed/7hsYB0vXcs4",
+          "https://www.youtube.com/embed/wqu3kJNf6Zw",
+          "https://www.youtube.com/embed/lW9UM0cmoDM",
+          "https://www.youtube.com/embed/A9wimI_Yiek",
         ],
         references: [
           "http://ly.yishihui.net/13331.htm",
@@ -3207,6 +3426,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/GvEcQvgOJBk",
           "https://www.youtube.com/embed/RdX69AWBzMM",
           "https://www.youtube.com/embed/7hsYB0vXcs4",
+          "https://www.youtube.com/embed/wqu3kJNf6Zw",
+          "https://www.youtube.com/embed/lW9UM0cmoDM",
+          "https://www.youtube.com/embed/A9wimI_Yiek",
         ],
         references: [
           "http://ly.yishihui.net/13329.htm",
@@ -3229,6 +3451,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/GvEcQvgOJBk",
           "https://www.youtube.com/embed/RdX69AWBzMM",
           "https://www.youtube.com/embed/7hsYB0vXcs4",
+          "https://www.youtube.com/embed/wqu3kJNf6Zw",
+          "https://www.youtube.com/embed/lW9UM0cmoDM",
+          "https://www.youtube.com/embed/A9wimI_Yiek",
         ],
         references: [
           "http://ly.yishihui.net/13333.htm",
@@ -3252,6 +3477,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/GvEcQvgOJBk",
           "https://www.youtube.com/embed/RdX69AWBzMM",
           "https://www.youtube.com/embed/7hsYB0vXcs4",
+          "https://www.youtube.com/embed/wqu3kJNf6Zw",
+          "https://www.youtube.com/embed/lW9UM0cmoDM",
+          "https://www.youtube.com/embed/A9wimI_Yiek",
         ],
         references: [
           "http://ly.yishihui.net/13327.htm",
@@ -3274,6 +3502,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/GvEcQvgOJBk",
           "https://www.youtube.com/embed/RdX69AWBzMM",
           "https://www.youtube.com/embed/7hsYB0vXcs4",
+          "https://www.youtube.com/embed/wqu3kJNf6Zw",
+          "https://www.youtube.com/embed/lW9UM0cmoDM",
+          "https://www.youtube.com/embed/A9wimI_Yiek",
         ],
         references: [
           "http://ly.yishihui.net/13325.htm",
@@ -3297,6 +3528,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/GvEcQvgOJBk",
           "https://www.youtube.com/embed/RdX69AWBzMM",
           "https://www.youtube.com/embed/7hsYB0vXcs4",
+          "https://www.youtube.com/embed/wqu3kJNf6Zw",
+          "https://www.youtube.com/embed/lW9UM0cmoDM",
+          "https://www.youtube.com/embed/A9wimI_Yiek",
         ],
         references: [
           "http://ly.yishihui.net/13323.htm",
@@ -3319,6 +3553,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6EUMgvTfP_o",
           "https://www.youtube.com/embed/l_05EkmKE9g",
           "https://www.youtube.com/embed/kRwYZR9lASU",
+          "https://www.youtube.com/embed/J3jpTXn8T9s",
+          "https://www.youtube.com/embed/i7E9orecGGk",
         ],
         references: [
           "http://ly.yishihui.net/13321.htm",
@@ -3341,6 +3577,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6EUMgvTfP_o",
           "https://www.youtube.com/embed/l_05EkmKE9g",
           "https://www.youtube.com/embed/kRwYZR9lASU",
+          "https://www.youtube.com/embed/J3jpTXn8T9s",
+          "https://www.youtube.com/embed/i7E9orecGGk",
         ],
         references: [
           "http://ly.yishihui.net/13319.htm",
@@ -3363,6 +3601,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6EUMgvTfP_o",
           "https://www.youtube.com/embed/l_05EkmKE9g",
           "https://www.youtube.com/embed/kRwYZR9lASU",
+          "https://www.youtube.com/embed/J3jpTXn8T9s",
+          "https://www.youtube.com/embed/i7E9orecGGk",
         ],
         references: [
           "http://ly.yishihui.net/13317.htm",
@@ -3386,6 +3626,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6EUMgvTfP_o",
           "https://www.youtube.com/embed/l_05EkmKE9g",
           "https://www.youtube.com/embed/kRwYZR9lASU",
+          "https://www.youtube.com/embed/J3jpTXn8T9s",
+          "https://www.youtube.com/embed/i7E9orecGGk",
         ],
         references: [
           "http://ly.yishihui.net/13315.htm",
@@ -3408,6 +3650,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6EUMgvTfP_o",
           "https://www.youtube.com/embed/l_05EkmKE9g",
           "https://www.youtube.com/embed/kRwYZR9lASU",
+          "https://www.youtube.com/embed/J3jpTXn8T9s",
+          "https://www.youtube.com/embed/i7E9orecGGk",
         ],
         references: [
           "http://ly.yishihui.net/13313.htm",
@@ -3430,6 +3674,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6EUMgvTfP_o",
           "https://www.youtube.com/embed/l_05EkmKE9g",
           "https://www.youtube.com/embed/kRwYZR9lASU",
+          "https://www.youtube.com/embed/J3jpTXn8T9s",
+          "https://www.youtube.com/embed/i7E9orecGGk",
         ],
         references: [
           "http://ly.yishihui.net/13311.htm",
@@ -3453,6 +3699,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/4ESYPbIhlo8",
           "https://www.youtube.com/embed/RpX5NUVzAyQ",
           "https://www.youtube.com/embed/Q70rXeYlv74",
+          "https://www.youtube.com/embed/IE4gGrr_jvI",
+          "https://www.youtube.com/embed/CfjiUM1iZJk",
         ],
         references: [
           "http://ly.yishihui.net/13309.htm",
@@ -3475,6 +3723,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/4ESYPbIhlo8",
           "https://www.youtube.com/embed/RpX5NUVzAyQ",
           "https://www.youtube.com/embed/Q70rXeYlv74",
+          "https://www.youtube.com/embed/IE4gGrr_jvI",
+          "https://www.youtube.com/embed/CfjiUM1iZJk",
         ],
         references: [
           "http://ly.yishihui.net/13307.htm",
@@ -3497,6 +3747,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/4ESYPbIhlo8",
           "https://www.youtube.com/embed/RpX5NUVzAyQ",
           "https://www.youtube.com/embed/Q70rXeYlv74",
+          "https://www.youtube.com/embed/IE4gGrr_jvI",
+          "https://www.youtube.com/embed/CfjiUM1iZJk",
         ],
         references: [
           "http://ly.yishihui.net/13305.htm",
@@ -3519,6 +3771,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/4ESYPbIhlo8",
           "https://www.youtube.com/embed/RpX5NUVzAyQ",
           "https://www.youtube.com/embed/Q70rXeYlv74",
+          "https://www.youtube.com/embed/IE4gGrr_jvI",
+          "https://www.youtube.com/embed/CfjiUM1iZJk",
         ],
         references: [
           "http://ly.yishihui.net/13303.htm",
@@ -3541,6 +3795,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/4ESYPbIhlo8",
           "https://www.youtube.com/embed/RpX5NUVzAyQ",
           "https://www.youtube.com/embed/Q70rXeYlv74",
+          "https://www.youtube.com/embed/IE4gGrr_jvI",
+          "https://www.youtube.com/embed/CfjiUM1iZJk",
         ],
         references: [
           "http://ly.yishihui.net/13293.htm",
@@ -3563,6 +3819,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/4ESYPbIhlo8",
           "https://www.youtube.com/embed/RpX5NUVzAyQ",
           "https://www.youtube.com/embed/Q70rXeYlv74",
+          "https://www.youtube.com/embed/IE4gGrr_jvI",
+          "https://www.youtube.com/embed/CfjiUM1iZJk",
         ],
         references: [
           "http://ly.yishihui.net/13287.htm",
@@ -3585,6 +3843,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nexMSaSkWlo",
           "https://www.youtube.com/embed/QYWqWqQFu2Q",
           "https://www.youtube.com/embed/fbNgx5C4kVA",
+          "https://www.youtube.com/embed/MJ9ZGbrKc50",
+          "https://www.youtube.com/embed/UW4ujluJLCA",
         ],
         references: [
           "http://ly.yishihui.net/13285.htm",
@@ -3607,6 +3867,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nexMSaSkWlo",
           "https://www.youtube.com/embed/QYWqWqQFu2Q",
           "https://www.youtube.com/embed/fbNgx5C4kVA",
+          "https://www.youtube.com/embed/MJ9ZGbrKc50",
+          "https://www.youtube.com/embed/UW4ujluJLCA",
         ],
         references: [
           "http://ly.yishihui.net/13283.htm",
@@ -3629,6 +3891,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nexMSaSkWlo",
           "https://www.youtube.com/embed/QYWqWqQFu2Q",
           "https://www.youtube.com/embed/fbNgx5C4kVA",
+          "https://www.youtube.com/embed/MJ9ZGbrKc50",
+          "https://www.youtube.com/embed/UW4ujluJLCA",
         ],
         references: [
           "http://ly.yishihui.net/13281.htm",
@@ -3651,6 +3915,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nexMSaSkWlo",
           "https://www.youtube.com/embed/QYWqWqQFu2Q",
           "https://www.youtube.com/embed/fbNgx5C4kVA",
+          "https://www.youtube.com/embed/MJ9ZGbrKc50",
+          "https://www.youtube.com/embed/UW4ujluJLCA",
         ],
         references: [
           "http://ly.yishihui.net/13279.htm",
@@ -3673,6 +3939,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nexMSaSkWlo",
           "https://www.youtube.com/embed/QYWqWqQFu2Q",
           "https://www.youtube.com/embed/fbNgx5C4kVA",
+          "https://www.youtube.com/embed/MJ9ZGbrKc50",
+          "https://www.youtube.com/embed/UW4ujluJLCA",
         ],
         references: [
           "http://ly.yishihui.net/13277.htm",
@@ -3695,6 +3963,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nexMSaSkWlo",
           "https://www.youtube.com/embed/QYWqWqQFu2Q",
           "https://www.youtube.com/embed/fbNgx5C4kVA",
+          "https://www.youtube.com/embed/MJ9ZGbrKc50",
+          "https://www.youtube.com/embed/UW4ujluJLCA",
         ],
         references: [
           "http://ly.yishihui.net/13275.htm",
@@ -3717,6 +3987,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Yy_iV5Td8IU",
           "https://www.youtube.com/embed/N4Yf7BNw5sc",
           "https://www.youtube.com/embed/JHe0V9-1g54",
+          "https://www.youtube.com/embed/YBXspOje5vU",
+          "https://www.youtube.com/embed/tlmsgx45LiM",
         ],
         references: [
           "http://ly.yishihui.net/13273.htm",
@@ -3739,6 +4011,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Yy_iV5Td8IU",
           "https://www.youtube.com/embed/N4Yf7BNw5sc",
           "https://www.youtube.com/embed/JHe0V9-1g54",
+          "https://www.youtube.com/embed/YBXspOje5vU",
+          "https://www.youtube.com/embed/tlmsgx45LiM",
         ],
         references: [
           "http://ly.yishihui.net/13271.htm",
@@ -3761,6 +4035,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Yy_iV5Td8IU",
           "https://www.youtube.com/embed/N4Yf7BNw5sc",
           "https://www.youtube.com/embed/JHe0V9-1g54",
+          "https://www.youtube.com/embed/YBXspOje5vU",
+          "https://www.youtube.com/embed/tlmsgx45LiM",
         ],
         references: [
           "http://ly.yishihui.net/13269.htm",
@@ -3783,6 +4059,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Yy_iV5Td8IU",
           "https://www.youtube.com/embed/N4Yf7BNw5sc",
           "https://www.youtube.com/embed/JHe0V9-1g54",
+          "https://www.youtube.com/embed/YBXspOje5vU",
+          "https://www.youtube.com/embed/tlmsgx45LiM",
         ],
         references: [
           "http://ly.yishihui.net/13267.htm",
@@ -3805,6 +4083,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Yy_iV5Td8IU",
           "https://www.youtube.com/embed/N4Yf7BNw5sc",
           "https://www.youtube.com/embed/JHe0V9-1g54",
+          "https://www.youtube.com/embed/YBXspOje5vU",
+          "https://www.youtube.com/embed/tlmsgx45LiM",
         ],
         references: [
           "http://ly.yishihui.net/13265.htm",
@@ -3827,6 +4107,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Yy_iV5Td8IU",
           "https://www.youtube.com/embed/N4Yf7BNw5sc",
           "https://www.youtube.com/embed/JHe0V9-1g54",
+          "https://www.youtube.com/embed/YBXspOje5vU",
+          "https://www.youtube.com/embed/tlmsgx45LiM",
         ],
         references: [
           "http://ly.yishihui.net/13263.htm",
@@ -3849,6 +4131,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LKMaVsgFlko",
           "https://www.youtube.com/embed/AeqBFmVOOoE",
           "https://www.youtube.com/embed/6iRz-D8Dswc",
+          "https://www.youtube.com/embed/jISoXGJRZOs",
+          "https://www.youtube.com/embed/lJUXbh8G5Bk",
         ],
         references: [
           "http://ly.yishihui.net/13261.htm",
@@ -3871,6 +4155,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LKMaVsgFlko",
           "https://www.youtube.com/embed/AeqBFmVOOoE",
           "https://www.youtube.com/embed/6iRz-D8Dswc",
+          "https://www.youtube.com/embed/jISoXGJRZOs",
+          "https://www.youtube.com/embed/lJUXbh8G5Bk",
         ],
         references: [
           "http://ly.yishihui.net/13259.htm",
@@ -3893,6 +4179,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LKMaVsgFlko",
           "https://www.youtube.com/embed/AeqBFmVOOoE",
           "https://www.youtube.com/embed/6iRz-D8Dswc",
+          "https://www.youtube.com/embed/jISoXGJRZOs",
+          "https://www.youtube.com/embed/lJUXbh8G5Bk",
         ],
         references: [
           "http://ly.yishihui.net/13257.htm",
@@ -3915,6 +4203,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LKMaVsgFlko",
           "https://www.youtube.com/embed/AeqBFmVOOoE",
           "https://www.youtube.com/embed/6iRz-D8Dswc",
+          "https://www.youtube.com/embed/jISoXGJRZOs",
+          "https://www.youtube.com/embed/lJUXbh8G5Bk",
         ],
         references: [
           "http://ly.yishihui.net/13248.htm",
@@ -3937,6 +4227,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LKMaVsgFlko",
           "https://www.youtube.com/embed/AeqBFmVOOoE",
           "https://www.youtube.com/embed/6iRz-D8Dswc",
+          "https://www.youtube.com/embed/jISoXGJRZOs",
+          "https://www.youtube.com/embed/lJUXbh8G5Bk",
         ],
         references: [
           "http://ly.yishihui.net/13241.htm",
@@ -3959,6 +4251,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LKMaVsgFlko",
           "https://www.youtube.com/embed/AeqBFmVOOoE",
           "https://www.youtube.com/embed/6iRz-D8Dswc",
+          "https://www.youtube.com/embed/jISoXGJRZOs",
+          "https://www.youtube.com/embed/lJUXbh8G5Bk",
         ],
         references: [
           "http://ly.yishihui.net/13239.htm",
@@ -3981,6 +4275,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aM6Mwc1-QGc",
           "https://www.youtube.com/embed/wax3sYmQxPU",
           "https://www.youtube.com/embed/-SHA1eKSKCs",
+          "https://www.youtube.com/embed/OrzxhM5LtEA",
+          "https://www.youtube.com/embed/EzAi53TIjkk",
         ],
         references: [
           "http://ly.yishihui.net/13237.htm",
@@ -4003,6 +4299,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aM6Mwc1-QGc",
           "https://www.youtube.com/embed/wax3sYmQxPU",
           "https://www.youtube.com/embed/-SHA1eKSKCs",
+          "https://www.youtube.com/embed/OrzxhM5LtEA",
+          "https://www.youtube.com/embed/EzAi53TIjkk",
         ],
         references: [
           "http://ly.yishihui.net/13235.htm",
@@ -4025,6 +4323,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aM6Mwc1-QGc",
           "https://www.youtube.com/embed/wax3sYmQxPU",
           "https://www.youtube.com/embed/-SHA1eKSKCs",
+          "https://www.youtube.com/embed/OrzxhM5LtEA",
+          "https://www.youtube.com/embed/EzAi53TIjkk",
         ],
         references: [
           "http://ly.yishihui.net/13233.htm",
@@ -4048,6 +4348,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aM6Mwc1-QGc",
           "https://www.youtube.com/embed/wax3sYmQxPU",
           "https://www.youtube.com/embed/-SHA1eKSKCs",
+          "https://www.youtube.com/embed/OrzxhM5LtEA",
+          "https://www.youtube.com/embed/EzAi53TIjkk",
         ],
         references: [
           "http://ly.yishihui.net/13231.htm",
@@ -4070,6 +4372,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aM6Mwc1-QGc",
           "https://www.youtube.com/embed/wax3sYmQxPU",
           "https://www.youtube.com/embed/-SHA1eKSKCs",
+          "https://www.youtube.com/embed/OrzxhM5LtEA",
+          "https://www.youtube.com/embed/EzAi53TIjkk",
         ],
         references: [
           "http://ly.yishihui.net/13229.htm",
@@ -4092,6 +4396,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aM6Mwc1-QGc",
           "https://www.youtube.com/embed/wax3sYmQxPU",
           "https://www.youtube.com/embed/-SHA1eKSKCs",
+          "https://www.youtube.com/embed/OrzxhM5LtEA",
+          "https://www.youtube.com/embed/EzAi53TIjkk",
         ],
         references: [
           "http://ly.yishihui.net/13227.htm",
@@ -4114,6 +4420,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xny5zmI18To",
           "https://www.youtube.com/embed/Hz5DjIi-hes",
           "https://www.youtube.com/embed/Kzfpgrg-EF4",
+          "https://www.youtube.com/embed/wCC5wviW6eA",
+          "https://www.youtube.com/embed/7b6hmFkMRDk",
         ],
         references: [
           "http://ly.yishihui.net/13225.htm",
@@ -4136,6 +4444,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xny5zmI18To",
           "https://www.youtube.com/embed/Hz5DjIi-hes",
           "https://www.youtube.com/embed/Kzfpgrg-EF4",
+          "https://www.youtube.com/embed/wCC5wviW6eA",
+          "https://www.youtube.com/embed/7b6hmFkMRDk",
         ],
         references: [
           "http://ly.yishihui.net/13223.htm",
@@ -4158,6 +4468,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xny5zmI18To",
           "https://www.youtube.com/embed/Hz5DjIi-hes",
           "https://www.youtube.com/embed/Kzfpgrg-EF4",
+          "https://www.youtube.com/embed/wCC5wviW6eA",
+          "https://www.youtube.com/embed/7b6hmFkMRDk",
         ],
         references: [
           "http://ly.yishihui.net/13221.htm",
@@ -4180,6 +4492,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xny5zmI18To",
           "https://www.youtube.com/embed/Hz5DjIi-hes",
           "https://www.youtube.com/embed/Kzfpgrg-EF4",
+          "https://www.youtube.com/embed/wCC5wviW6eA",
+          "https://www.youtube.com/embed/7b6hmFkMRDk",
         ],
         references: [
           "http://ly.yishihui.net/13219.htm",
@@ -4202,6 +4516,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xny5zmI18To",
           "https://www.youtube.com/embed/Hz5DjIi-hes",
           "https://www.youtube.com/embed/Kzfpgrg-EF4",
+          "https://www.youtube.com/embed/wCC5wviW6eA",
+          "https://www.youtube.com/embed/7b6hmFkMRDk",
         ],
         references: [
           "http://ly.yishihui.net/13217.htm",
@@ -4224,6 +4540,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xny5zmI18To",
           "https://www.youtube.com/embed/Hz5DjIi-hes",
           "https://www.youtube.com/embed/Kzfpgrg-EF4",
+          "https://www.youtube.com/embed/wCC5wviW6eA",
+          "https://www.youtube.com/embed/7b6hmFkMRDk",
         ],
         references: [
           "http://ly.yishihui.net/13210.htm",
@@ -4246,6 +4564,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/PF15xR7uZ0c",
           "https://www.youtube.com/embed/3LmuU1dKC9A",
           "https://www.youtube.com/embed/rbYU-GOwbK0",
+          "https://www.youtube.com/embed/ayD8sg1Eulw",
+          "https://www.youtube.com/embed/CI53XgsHMNI",
         ],
         references: [
           "http://ly.yishihui.net/13208.htm",
@@ -4268,6 +4588,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/PF15xR7uZ0c",
           "https://www.youtube.com/embed/3LmuU1dKC9A",
           "https://www.youtube.com/embed/rbYU-GOwbK0",
+          "https://www.youtube.com/embed/ayD8sg1Eulw",
+          "https://www.youtube.com/embed/CI53XgsHMNI",
         ],
         references: [
           "http://ly.yishihui.net/13206.htm",
@@ -4290,6 +4612,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/PF15xR7uZ0c",
           "https://www.youtube.com/embed/3LmuU1dKC9A",
           "https://www.youtube.com/embed/rbYU-GOwbK0",
+          "https://www.youtube.com/embed/ayD8sg1Eulw",
+          "https://www.youtube.com/embed/CI53XgsHMNI",
         ],
         references: [
           "http://ly.yishihui.net/13204.htm",
@@ -4312,6 +4636,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/PF15xR7uZ0c",
           "https://www.youtube.com/embed/3LmuU1dKC9A",
           "https://www.youtube.com/embed/rbYU-GOwbK0",
+          "https://www.youtube.com/embed/ayD8sg1Eulw",
+          "https://www.youtube.com/embed/CI53XgsHMNI",
         ],
         references: [
           "http://ly.yishihui.net/13202.htm",
@@ -4334,6 +4660,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/PF15xR7uZ0c",
           "https://www.youtube.com/embed/3LmuU1dKC9A",
           "https://www.youtube.com/embed/rbYU-GOwbK0",
+          "https://www.youtube.com/embed/ayD8sg1Eulw",
+          "https://www.youtube.com/embed/CI53XgsHMNI",
         ],
         references: [
           "http://ly.yishihui.net/13200.htm",
@@ -4358,6 +4686,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/PF15xR7uZ0c",
           "https://www.youtube.com/embed/3LmuU1dKC9A",
           "https://www.youtube.com/embed/rbYU-GOwbK0",
+          "https://www.youtube.com/embed/ayD8sg1Eulw",
+          "https://www.youtube.com/embed/CI53XgsHMNI",
         ],
         references: [
           "http://ly.yishihui.net/13198.htm",
@@ -4380,6 +4710,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/cKou4Oxsj98",
           "https://www.youtube.com/embed/U2eDxTGGUHU",
           "https://www.youtube.com/embed/xMn7kR1Nskk",
+          "https://www.youtube.com/embed/sd2u5-anb38",
+          "https://www.youtube.com/embed/vWW4caKcVtM",
         ],
         references: [
           "http://ly.yishihui.net/13196.htm",
@@ -4402,6 +4734,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/cKou4Oxsj98",
           "https://www.youtube.com/embed/U2eDxTGGUHU",
           "https://www.youtube.com/embed/xMn7kR1Nskk",
+          "https://www.youtube.com/embed/sd2u5-anb38",
+          "https://www.youtube.com/embed/vWW4caKcVtM",
         ],
         references: [
           "http://ly.yishihui.net/13194.htm",
@@ -4424,6 +4758,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/cKou4Oxsj98",
           "https://www.youtube.com/embed/U2eDxTGGUHU",
           "https://www.youtube.com/embed/xMn7kR1Nskk",
+          "https://www.youtube.com/embed/sd2u5-anb38",
+          "https://www.youtube.com/embed/vWW4caKcVtM",
         ],
         references: [
           "http://ly.yishihui.net/13192.htm",
@@ -4446,6 +4782,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/cKou4Oxsj98",
           "https://www.youtube.com/embed/U2eDxTGGUHU",
           "https://www.youtube.com/embed/xMn7kR1Nskk",
+          "https://www.youtube.com/embed/sd2u5-anb38",
+          "https://www.youtube.com/embed/vWW4caKcVtM",
         ],
         references: [
           "http://ly.yishihui.net/13190.htm",
@@ -4468,6 +4806,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/cKou4Oxsj98",
           "https://www.youtube.com/embed/U2eDxTGGUHU",
           "https://www.youtube.com/embed/xMn7kR1Nskk",
+          "https://www.youtube.com/embed/sd2u5-anb38",
+          "https://www.youtube.com/embed/vWW4caKcVtM",
         ],
         references: [
           "http://ly.yishihui.net/13188.htm",
@@ -4490,6 +4830,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/cKou4Oxsj98",
           "https://www.youtube.com/embed/U2eDxTGGUHU",
           "https://www.youtube.com/embed/xMn7kR1Nskk",
+          "https://www.youtube.com/embed/sd2u5-anb38",
+          "https://www.youtube.com/embed/vWW4caKcVtM",
         ],
         references: [
           "http://ly.yishihui.net/13186.htm",
@@ -4512,6 +4854,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/l42Zw2OKYVQ",
           "https://www.youtube.com/embed/5heodI7CAcE",
           "https://www.youtube.com/embed/-cT8ijOtWtA",
+          "https://www.youtube.com/embed/vKgo1xDePQo",
+          "https://www.youtube.com/embed/BBmuD_diAnM",
         ],
         references: [
           "https://www.guoyi360.com/64gua26/xj/5314.html",
@@ -4533,6 +4877,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/l42Zw2OKYVQ",
           "https://www.youtube.com/embed/5heodI7CAcE",
           "https://www.youtube.com/embed/-cT8ijOtWtA",
+          "https://www.youtube.com/embed/vKgo1xDePQo",
+          "https://www.youtube.com/embed/BBmuD_diAnM",
         ],
         references: [
           "https://www.guoyi360.com/64gua26/xj/5315.html",
@@ -4554,6 +4900,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/l42Zw2OKYVQ",
           "https://www.youtube.com/embed/5heodI7CAcE",
           "https://www.youtube.com/embed/-cT8ijOtWtA",
+          "https://www.youtube.com/embed/vKgo1xDePQo",
+          "https://www.youtube.com/embed/BBmuD_diAnM",
         ],
         references: [
           "https://www.guoyi360.com/64gua26/xj/5316.html",
@@ -4575,6 +4923,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/l42Zw2OKYVQ",
           "https://www.youtube.com/embed/5heodI7CAcE",
           "https://www.youtube.com/embed/-cT8ijOtWtA",
+          "https://www.youtube.com/embed/vKgo1xDePQo",
+          "https://www.youtube.com/embed/BBmuD_diAnM",
         ],
         references: [
           "https://www.guoyi360.com/64gua26/xj/5317.html",
@@ -4596,6 +4946,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/l42Zw2OKYVQ",
           "https://www.youtube.com/embed/5heodI7CAcE",
           "https://www.youtube.com/embed/-cT8ijOtWtA",
+          "https://www.youtube.com/embed/vKgo1xDePQo",
+          "https://www.youtube.com/embed/BBmuD_diAnM",
         ],
         references: [
           "https://www.guoyi360.com/64gua26/xj/5319.html",
@@ -4617,6 +4969,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/l42Zw2OKYVQ",
           "https://www.youtube.com/embed/5heodI7CAcE",
           "https://www.youtube.com/embed/-cT8ijOtWtA",
+          "https://www.youtube.com/embed/vKgo1xDePQo",
+          "https://www.youtube.com/embed/BBmuD_diAnM",
         ],
         references: [
           "https://www.guoyi360.com/64gua26/xj/5320.html",
@@ -4638,6 +4992,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/kXY8duigZrs",
           "https://www.youtube.com/embed/jltUAHydfg4",
           "https://www.youtube.com/embed/X_jxEhKd3XM",
+          "https://www.youtube.com/embed/b9AClcDL4dM",
+          "https://www.youtube.com/embed/Nzz9gUk1jeU",
         ],
         references: [
           "http://ly.yishihui.net/13849.htm",
@@ -4661,6 +5017,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/kXY8duigZrs",
           "https://www.youtube.com/embed/jltUAHydfg4",
           "https://www.youtube.com/embed/X_jxEhKd3XM",
+          "https://www.youtube.com/embed/b9AClcDL4dM",
+          "https://www.youtube.com/embed/Nzz9gUk1jeU",
         ],
         references: [
           "http://ly.yishihui.net/13851.htm",
@@ -4683,6 +5041,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/kXY8duigZrs",
           "https://www.youtube.com/embed/jltUAHydfg4",
           "https://www.youtube.com/embed/X_jxEhKd3XM",
+          "https://www.youtube.com/embed/b9AClcDL4dM",
+          "https://www.youtube.com/embed/Nzz9gUk1jeU",
         ],
         references: [
           "http://ly.yishihui.net/13854.htm",
@@ -4706,6 +5066,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/kXY8duigZrs",
           "https://www.youtube.com/embed/jltUAHydfg4",
           "https://www.youtube.com/embed/X_jxEhKd3XM",
+          "https://www.youtube.com/embed/b9AClcDL4dM",
+          "https://www.youtube.com/embed/Nzz9gUk1jeU",
         ],
         references: [
           "http://ly.yishihui.net/13856.htm",
@@ -4728,6 +5090,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/kXY8duigZrs",
           "https://www.youtube.com/embed/jltUAHydfg4",
           "https://www.youtube.com/embed/X_jxEhKd3XM",
+          "https://www.youtube.com/embed/b9AClcDL4dM",
+          "https://www.youtube.com/embed/Nzz9gUk1jeU",
         ],
         references: [
           "http://ly.yishihui.net/13858.htm",
@@ -4750,6 +5114,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/kXY8duigZrs",
           "https://www.youtube.com/embed/jltUAHydfg4",
           "https://www.youtube.com/embed/X_jxEhKd3XM",
+          "https://www.youtube.com/embed/b9AClcDL4dM",
+          "https://www.youtube.com/embed/Nzz9gUk1jeU",
         ],
         references: [
           "http://ly.yishihui.net/13860.htm",
@@ -4772,6 +5138,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/i29vKgrkwuI",
           "https://www.youtube.com/embed/RWNQ_9phUTk",
           "https://www.youtube.com/embed/rxo7GSarTyE",
+          "https://www.youtube.com/embed/QU-7BqtYNbM",
+          "https://www.youtube.com/embed/7wTNcrtBQeQ",
         ],
         references: [
           "http://ly.yishihui.net/13862.htm",
@@ -4794,6 +5162,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/i29vKgrkwuI",
           "https://www.youtube.com/embed/RWNQ_9phUTk",
           "https://www.youtube.com/embed/rxo7GSarTyE",
+          "https://www.youtube.com/embed/QU-7BqtYNbM",
+          "https://www.youtube.com/embed/7wTNcrtBQeQ",
         ],
         references: [
           "http://ly.yishihui.net/13864.htm",
@@ -4816,6 +5186,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/i29vKgrkwuI",
           "https://www.youtube.com/embed/RWNQ_9phUTk",
           "https://www.youtube.com/embed/rxo7GSarTyE",
+          "https://www.youtube.com/embed/QU-7BqtYNbM",
+          "https://www.youtube.com/embed/7wTNcrtBQeQ",
         ],
         references: [
           "http://ly.yishihui.net/13866.htm",
@@ -4838,6 +5210,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/i29vKgrkwuI",
           "https://www.youtube.com/embed/RWNQ_9phUTk",
           "https://www.youtube.com/embed/rxo7GSarTyE",
+          "https://www.youtube.com/embed/QU-7BqtYNbM",
+          "https://www.youtube.com/embed/7wTNcrtBQeQ",
         ],
         references: [
           "http://ly.yishihui.net/13868.htm",
@@ -4860,6 +5234,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/i29vKgrkwuI",
           "https://www.youtube.com/embed/RWNQ_9phUTk",
           "https://www.youtube.com/embed/rxo7GSarTyE",
+          "https://www.youtube.com/embed/QU-7BqtYNbM",
+          "https://www.youtube.com/embed/7wTNcrtBQeQ",
         ],
         references: [
           "http://ly.yishihui.net/13870.htm",
@@ -4882,6 +5258,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/i29vKgrkwuI",
           "https://www.youtube.com/embed/RWNQ_9phUTk",
           "https://www.youtube.com/embed/rxo7GSarTyE",
+          "https://www.youtube.com/embed/QU-7BqtYNbM",
+          "https://www.youtube.com/embed/7wTNcrtBQeQ",
         ],
         references: [
           "http://ly.yishihui.net/13872.htm",
@@ -4904,6 +5282,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/oAVNTsigPAA",
           "https://www.youtube.com/embed/YuZ14XNYwxo",
           "https://www.youtube.com/embed/Zqguy4EZ2go",
+          "https://www.youtube.com/embed/HEtuzxuUHFw",
+          "https://www.youtube.com/embed/WzJJa0gpxxc",
         ],
         references: [
           "http://ly.yishihui.net/13874.htm",
@@ -4926,6 +5306,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/oAVNTsigPAA",
           "https://www.youtube.com/embed/YuZ14XNYwxo",
           "https://www.youtube.com/embed/Zqguy4EZ2go",
+          "https://www.youtube.com/embed/HEtuzxuUHFw",
+          "https://www.youtube.com/embed/WzJJa0gpxxc",
         ],
         references: [
           "http://ly.yishihui.net/13876.htm",
@@ -4949,6 +5331,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/oAVNTsigPAA",
           "https://www.youtube.com/embed/YuZ14XNYwxo",
           "https://www.youtube.com/embed/Zqguy4EZ2go",
+          "https://www.youtube.com/embed/HEtuzxuUHFw",
+          "https://www.youtube.com/embed/WzJJa0gpxxc",
         ],
         references: [
           "http://ly.yishihui.net/13878.htm",
@@ -4972,6 +5356,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/oAVNTsigPAA",
           "https://www.youtube.com/embed/YuZ14XNYwxo",
           "https://www.youtube.com/embed/Zqguy4EZ2go",
+          "https://www.youtube.com/embed/HEtuzxuUHFw",
+          "https://www.youtube.com/embed/WzJJa0gpxxc",
         ],
         references: [
           "http://ly.yishihui.net/13880.htm",
@@ -4994,6 +5380,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/oAVNTsigPAA",
           "https://www.youtube.com/embed/YuZ14XNYwxo",
           "https://www.youtube.com/embed/Zqguy4EZ2go",
+          "https://www.youtube.com/embed/HEtuzxuUHFw",
+          "https://www.youtube.com/embed/WzJJa0gpxxc",
         ],
         references: [
           "http://ly.yishihui.net/13882.htm",
@@ -5016,6 +5404,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/oAVNTsigPAA",
           "https://www.youtube.com/embed/YuZ14XNYwxo",
           "https://www.youtube.com/embed/Zqguy4EZ2go",
+          "https://www.youtube.com/embed/HEtuzxuUHFw",
+          "https://www.youtube.com/embed/WzJJa0gpxxc",
         ],
         references: [
           "http://ly.yishihui.net/13884.htm",
@@ -5038,6 +5428,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/vX3lJKM4Utk",
           "https://www.youtube.com/embed/EMNhIrtZRgo",
           "https://www.youtube.com/embed/EQxvtkDYIDg",
+          "https://www.youtube.com/embed/SjKIhLjeUX0",
+          "https://www.youtube.com/embed/PBPR8JbhpeY",
         ],
         references: [
           "http://ly.yishihui.net/13928.htm",
@@ -5060,6 +5452,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/vX3lJKM4Utk",
           "https://www.youtube.com/embed/EMNhIrtZRgo",
           "https://www.youtube.com/embed/EQxvtkDYIDg",
+          "https://www.youtube.com/embed/SjKIhLjeUX0",
+          "https://www.youtube.com/embed/PBPR8JbhpeY",
         ],
         references: [
           "http://ly.yishihui.net/13930.htm",
@@ -5083,6 +5477,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/vX3lJKM4Utk",
           "https://www.youtube.com/embed/EMNhIrtZRgo",
           "https://www.youtube.com/embed/EQxvtkDYIDg",
+          "https://www.youtube.com/embed/SjKIhLjeUX0",
+          "https://www.youtube.com/embed/PBPR8JbhpeY",
         ],
         references: [
           "http://ly.yishihui.net/13932.htm",
@@ -5105,6 +5501,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/vX3lJKM4Utk",
           "https://www.youtube.com/embed/EMNhIrtZRgo",
           "https://www.youtube.com/embed/EQxvtkDYIDg",
+          "https://www.youtube.com/embed/SjKIhLjeUX0",
+          "https://www.youtube.com/embed/PBPR8JbhpeY",
         ],
         references: [
           "http://ly.yishihui.net/13934.htm",
@@ -5127,6 +5525,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/vX3lJKM4Utk",
           "https://www.youtube.com/embed/EMNhIrtZRgo",
           "https://www.youtube.com/embed/EQxvtkDYIDg",
+          "https://www.youtube.com/embed/SjKIhLjeUX0",
+          "https://www.youtube.com/embed/PBPR8JbhpeY",
         ],
         references: [
           "http://ly.yishihui.net/13936.htm",
@@ -5150,6 +5550,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/vX3lJKM4Utk",
           "https://www.youtube.com/embed/EMNhIrtZRgo",
           "https://www.youtube.com/embed/EQxvtkDYIDg",
+          "https://www.youtube.com/embed/SjKIhLjeUX0",
+          "https://www.youtube.com/embed/PBPR8JbhpeY",
         ],
         references: [
           "http://ly.yishihui.net/13938.htm",
@@ -5172,6 +5574,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9asiKewKcqc",
           "https://www.youtube.com/embed/RflhrnwdXYs",
           "https://www.youtube.com/embed/BByGRI_Cggs",
+          "https://www.youtube.com/embed/qwZPXP04inI",
+          "https://www.youtube.com/embed/YrLtqncDi3o",
         ],
         references: [
           "http://ly.yishihui.net/13940.htm",
@@ -5194,6 +5598,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9asiKewKcqc",
           "https://www.youtube.com/embed/RflhrnwdXYs",
           "https://www.youtube.com/embed/BByGRI_Cggs",
+          "https://www.youtube.com/embed/qwZPXP04inI",
+          "https://www.youtube.com/embed/YrLtqncDi3o",
         ],
         references: [
           "http://ly.yishihui.net/13942.htm",
@@ -5216,6 +5622,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9asiKewKcqc",
           "https://www.youtube.com/embed/RflhrnwdXYs",
           "https://www.youtube.com/embed/BByGRI_Cggs",
+          "https://www.youtube.com/embed/qwZPXP04inI",
+          "https://www.youtube.com/embed/YrLtqncDi3o",
         ],
         references: [
           "http://ly.yishihui.net/13944.htm",
@@ -5239,6 +5647,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9asiKewKcqc",
           "https://www.youtube.com/embed/RflhrnwdXYs",
           "https://www.youtube.com/embed/BByGRI_Cggs",
+          "https://www.youtube.com/embed/qwZPXP04inI",
+          "https://www.youtube.com/embed/YrLtqncDi3o",
         ],
         references: [
           "http://ly.yishihui.net/13946.htm",
@@ -5261,6 +5671,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9asiKewKcqc",
           "https://www.youtube.com/embed/RflhrnwdXYs",
           "https://www.youtube.com/embed/BByGRI_Cggs",
+          "https://www.youtube.com/embed/qwZPXP04inI",
+          "https://www.youtube.com/embed/YrLtqncDi3o",
         ],
         references: [
           "http://ly.yishihui.net/13948.htm",
@@ -5283,6 +5695,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9asiKewKcqc",
           "https://www.youtube.com/embed/RflhrnwdXYs",
           "https://www.youtube.com/embed/BByGRI_Cggs",
+          "https://www.youtube.com/embed/qwZPXP04inI",
+          "https://www.youtube.com/embed/YrLtqncDi3o",
         ],
         references: [
           "http://ly.yishihui.net/13950.htm",
@@ -5305,6 +5719,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/gGZxv7cKbKM",
           "https://www.youtube.com/embed/tYAn-Q0_vWc",
           "https://www.youtube.com/embed/TIszoKASlGQ",
+          "https://www.youtube.com/embed/ZVrUPmoiCqM",
+          "https://www.youtube.com/embed/M-YcfvD6r14",
         ],
         references: [
           "http://ly.yishihui.net/13952.htm",
@@ -5327,6 +5743,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/gGZxv7cKbKM",
           "https://www.youtube.com/embed/tYAn-Q0_vWc",
           "https://www.youtube.com/embed/TIszoKASlGQ",
+          "https://www.youtube.com/embed/ZVrUPmoiCqM",
+          "https://www.youtube.com/embed/M-YcfvD6r14",
         ],
         references: [
           "http://ly.yishihui.net/13954.htm",
@@ -5349,6 +5767,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/gGZxv7cKbKM",
           "https://www.youtube.com/embed/tYAn-Q0_vWc",
           "https://www.youtube.com/embed/TIszoKASlGQ",
+          "https://www.youtube.com/embed/ZVrUPmoiCqM",
+          "https://www.youtube.com/embed/M-YcfvD6r14",
         ],
         references: [
           "http://ly.yishihui.net/13956.htm",
@@ -5371,6 +5791,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/gGZxv7cKbKM",
           "https://www.youtube.com/embed/tYAn-Q0_vWc",
           "https://www.youtube.com/embed/TIszoKASlGQ",
+          "https://www.youtube.com/embed/ZVrUPmoiCqM",
+          "https://www.youtube.com/embed/M-YcfvD6r14",
         ],
         references: [
           "http://ly.yishihui.net/13958.htm",
@@ -5393,6 +5815,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/gGZxv7cKbKM",
           "https://www.youtube.com/embed/tYAn-Q0_vWc",
           "https://www.youtube.com/embed/TIszoKASlGQ",
+          "https://www.youtube.com/embed/ZVrUPmoiCqM",
+          "https://www.youtube.com/embed/M-YcfvD6r14",
         ],
         references: [
           "http://ly.yishihui.net/13960.htm",
@@ -5415,6 +5839,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/gGZxv7cKbKM",
           "https://www.youtube.com/embed/tYAn-Q0_vWc",
           "https://www.youtube.com/embed/TIszoKASlGQ",
+          "https://www.youtube.com/embed/ZVrUPmoiCqM",
+          "https://www.youtube.com/embed/M-YcfvD6r14",
         ],
         references: [
           "http://ly.yishihui.net/13962.htm",
@@ -5437,6 +5863,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6FwY2kXm0t4",
           "https://www.youtube.com/embed/uH1kAakYzmU",
           "https://www.youtube.com/embed/OQtFBXyzu48",
+          "https://www.youtube.com/embed/DhshUA8YKr0",
+          "https://www.youtube.com/embed/RXylMJfPMc8",
         ],
         references: [
           "http://ly.yishihui.net/14003.htm",
@@ -5459,6 +5887,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6FwY2kXm0t4",
           "https://www.youtube.com/embed/uH1kAakYzmU",
           "https://www.youtube.com/embed/OQtFBXyzu48",
+          "https://www.youtube.com/embed/DhshUA8YKr0",
+          "https://www.youtube.com/embed/RXylMJfPMc8",
         ],
         references: [
           "http://ly.yishihui.net/14005.htm",
@@ -5481,6 +5911,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6FwY2kXm0t4",
           "https://www.youtube.com/embed/uH1kAakYzmU",
           "https://www.youtube.com/embed/OQtFBXyzu48",
+          "https://www.youtube.com/embed/DhshUA8YKr0",
+          "https://www.youtube.com/embed/RXylMJfPMc8",
         ],
         references: [
           "http://ly.yishihui.net/14007.htm",
@@ -5503,6 +5935,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6FwY2kXm0t4",
           "https://www.youtube.com/embed/uH1kAakYzmU",
           "https://www.youtube.com/embed/OQtFBXyzu48",
+          "https://www.youtube.com/embed/DhshUA8YKr0",
+          "https://www.youtube.com/embed/RXylMJfPMc8",
         ],
         references: [
           "http://ly.yishihui.net/14009.htm",
@@ -5525,6 +5959,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6FwY2kXm0t4",
           "https://www.youtube.com/embed/uH1kAakYzmU",
           "https://www.youtube.com/embed/OQtFBXyzu48",
+          "https://www.youtube.com/embed/DhshUA8YKr0",
+          "https://www.youtube.com/embed/RXylMJfPMc8",
         ],
         references: [
           "http://ly.yishihui.net/14011.htm",
@@ -5547,6 +5983,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/6FwY2kXm0t4",
           "https://www.youtube.com/embed/uH1kAakYzmU",
           "https://www.youtube.com/embed/OQtFBXyzu48",
+          "https://www.youtube.com/embed/DhshUA8YKr0",
+          "https://www.youtube.com/embed/RXylMJfPMc8",
         ],
         references: [
           "http://ly.yishihui.net/14013.htm",
@@ -5569,6 +6007,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/obbkqOm5w6E",
           "https://www.youtube.com/embed/gmWhpQZkBV8",
           "https://www.youtube.com/embed/1I98u8wSrMs",
+          "https://www.youtube.com/embed/DFvy-0RWo0M",
+          "https://www.youtube.com/embed/6dSZU3npo68",
         ],
         references: [
           "http://ly.yishihui.net/14015.htm",
@@ -5591,6 +6031,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/obbkqOm5w6E",
           "https://www.youtube.com/embed/gmWhpQZkBV8",
           "https://www.youtube.com/embed/1I98u8wSrMs",
+          "https://www.youtube.com/embed/DFvy-0RWo0M",
+          "https://www.youtube.com/embed/6dSZU3npo68",
         ],
         references: [
           "http://ly.yishihui.net/14017.htm",
@@ -5613,6 +6055,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/obbkqOm5w6E",
           "https://www.youtube.com/embed/gmWhpQZkBV8",
           "https://www.youtube.com/embed/1I98u8wSrMs",
+          "https://www.youtube.com/embed/DFvy-0RWo0M",
+          "https://www.youtube.com/embed/6dSZU3npo68",
         ],
         references: [
           "http://ly.yishihui.net/14019.htm",
@@ -5636,6 +6080,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/obbkqOm5w6E",
           "https://www.youtube.com/embed/gmWhpQZkBV8",
           "https://www.youtube.com/embed/1I98u8wSrMs",
+          "https://www.youtube.com/embed/DFvy-0RWo0M",
+          "https://www.youtube.com/embed/6dSZU3npo68",
         ],
         references: [
           "http://ly.yishihui.net/14021.htm",
@@ -5658,6 +6104,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/obbkqOm5w6E",
           "https://www.youtube.com/embed/gmWhpQZkBV8",
           "https://www.youtube.com/embed/1I98u8wSrMs",
+          "https://www.youtube.com/embed/DFvy-0RWo0M",
+          "https://www.youtube.com/embed/6dSZU3npo68",
         ],
         references: [
           "http://ly.yishihui.net/14023.htm",
@@ -5680,6 +6128,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/obbkqOm5w6E",
           "https://www.youtube.com/embed/gmWhpQZkBV8",
           "https://www.youtube.com/embed/1I98u8wSrMs",
+          "https://www.youtube.com/embed/DFvy-0RWo0M",
+          "https://www.youtube.com/embed/6dSZU3npo68",
         ],
         references: [
           "http://ly.yishihui.net/14025.htm",
@@ -5702,6 +6152,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LvTrQkAAGB8",
           "https://www.youtube.com/embed/aNifiJ9Vm50",
           "https://www.youtube.com/embed/qa9thR6BtE4",
+          "https://www.youtube.com/embed/qOvcHTucJms",
+          "https://www.youtube.com/embed/U0Tovnr1KYE",
         ],
         references: [
           "http://ly.yishihui.net/14064.htm",
@@ -5724,6 +6176,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LvTrQkAAGB8",
           "https://www.youtube.com/embed/aNifiJ9Vm50",
           "https://www.youtube.com/embed/qa9thR6BtE4",
+          "https://www.youtube.com/embed/qOvcHTucJms",
+          "https://www.youtube.com/embed/U0Tovnr1KYE",
         ],
         references: [
           "http://ly.yishihui.net/14066.htm",
@@ -5746,6 +6200,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LvTrQkAAGB8",
           "https://www.youtube.com/embed/aNifiJ9Vm50",
           "https://www.youtube.com/embed/qa9thR6BtE4",
+          "https://www.youtube.com/embed/qOvcHTucJms",
+          "https://www.youtube.com/embed/U0Tovnr1KYE",
         ],
         references: [
           "http://ly.yishihui.net/14068.htm",
@@ -5768,6 +6224,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LvTrQkAAGB8",
           "https://www.youtube.com/embed/aNifiJ9Vm50",
           "https://www.youtube.com/embed/qa9thR6BtE4",
+          "https://www.youtube.com/embed/qOvcHTucJms",
+          "https://www.youtube.com/embed/U0Tovnr1KYE",
         ],
         references: [
           "http://ly.yishihui.net/14070.htm",
@@ -5790,6 +6248,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LvTrQkAAGB8",
           "https://www.youtube.com/embed/aNifiJ9Vm50",
           "https://www.youtube.com/embed/qa9thR6BtE4",
+          "https://www.youtube.com/embed/qOvcHTucJms",
+          "https://www.youtube.com/embed/U0Tovnr1KYE",
         ],
         references: [
           "http://ly.yishihui.net/14072.htm",
@@ -5812,6 +6272,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LvTrQkAAGB8",
           "https://www.youtube.com/embed/aNifiJ9Vm50",
           "https://www.youtube.com/embed/qa9thR6BtE4",
+          "https://www.youtube.com/embed/qOvcHTucJms",
+          "https://www.youtube.com/embed/U0Tovnr1KYE",
         ],
         references: [
           "http://ly.yishihui.net/14074.htm",
@@ -5835,6 +6297,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/WmUOfrER4xc",
           "https://www.youtube.com/embed/XjzuJWqKBjI",
           "https://www.youtube.com/embed/Yz1ssq02LtI",
+          "https://www.youtube.com/embed/c3_kk7nhKDU",
+          "https://www.youtube.com/embed/fN3XQu8Hzn0",
+          "https://www.youtube.com/embed/yR6ypUizs9M",
         ],
         references: [
           "http://ly.yishihui.net/14076.htm",
@@ -5857,6 +6322,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/WmUOfrER4xc",
           "https://www.youtube.com/embed/XjzuJWqKBjI",
           "https://www.youtube.com/embed/Yz1ssq02LtI",
+          "https://www.youtube.com/embed/c3_kk7nhKDU",
+          "https://www.youtube.com/embed/fN3XQu8Hzn0",
+          "https://www.youtube.com/embed/yR6ypUizs9M",
         ],
         references: [
           "http://ly.yishihui.net/14078.htm",
@@ -5879,6 +6347,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/WmUOfrER4xc",
           "https://www.youtube.com/embed/XjzuJWqKBjI",
           "https://www.youtube.com/embed/Yz1ssq02LtI",
+          "https://www.youtube.com/embed/c3_kk7nhKDU",
+          "https://www.youtube.com/embed/fN3XQu8Hzn0",
+          "https://www.youtube.com/embed/yR6ypUizs9M",
         ],
         references: [
           "http://ly.yishihui.net/14080.htm",
@@ -5901,6 +6372,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/WmUOfrER4xc",
           "https://www.youtube.com/embed/XjzuJWqKBjI",
           "https://www.youtube.com/embed/Yz1ssq02LtI",
+          "https://www.youtube.com/embed/c3_kk7nhKDU",
+          "https://www.youtube.com/embed/fN3XQu8Hzn0",
+          "https://www.youtube.com/embed/yR6ypUizs9M",
         ],
         references: [
           "http://ly.yishihui.net/14082.htm",
@@ -5923,6 +6397,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/WmUOfrER4xc",
           "https://www.youtube.com/embed/XjzuJWqKBjI",
           "https://www.youtube.com/embed/Yz1ssq02LtI",
+          "https://www.youtube.com/embed/c3_kk7nhKDU",
+          "https://www.youtube.com/embed/fN3XQu8Hzn0",
+          "https://www.youtube.com/embed/yR6ypUizs9M",
         ],
         references: [
           "http://ly.yishihui.net/14084.htm",
@@ -5945,6 +6422,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/WmUOfrER4xc",
           "https://www.youtube.com/embed/XjzuJWqKBjI",
           "https://www.youtube.com/embed/Yz1ssq02LtI",
+          "https://www.youtube.com/embed/c3_kk7nhKDU",
+          "https://www.youtube.com/embed/fN3XQu8Hzn0",
+          "https://www.youtube.com/embed/yR6ypUizs9M",
         ],
         references: [
           "http://ly.yishihui.net/14086.htm",
@@ -5967,6 +6447,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xwyzVGtutLI",
           "https://www.youtube.com/embed/9KalzuOBJqQ",
           "https://www.youtube.com/embed/ReF6oFJ2E58",
+          "https://www.youtube.com/embed/e6CjghGsE80",
+          "https://www.youtube.com/embed/s86C8B170qQ",
         ],
         references: [
           "http://ly.yishihui.net/14088.htm",
@@ -5990,6 +6472,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xwyzVGtutLI",
           "https://www.youtube.com/embed/9KalzuOBJqQ",
           "https://www.youtube.com/embed/ReF6oFJ2E58",
+          "https://www.youtube.com/embed/e6CjghGsE80",
+          "https://www.youtube.com/embed/s86C8B170qQ",
         ],
         references: [
           "http://ly.yishihui.net/14090.htm",
@@ -6013,6 +6497,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xwyzVGtutLI",
           "https://www.youtube.com/embed/9KalzuOBJqQ",
           "https://www.youtube.com/embed/ReF6oFJ2E58",
+          "https://www.youtube.com/embed/e6CjghGsE80",
+          "https://www.youtube.com/embed/s86C8B170qQ",
         ],
         references: [
           "http://ly.yishihui.net/14092.htm",
@@ -6035,6 +6521,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xwyzVGtutLI",
           "https://www.youtube.com/embed/9KalzuOBJqQ",
           "https://www.youtube.com/embed/ReF6oFJ2E58",
+          "https://www.youtube.com/embed/e6CjghGsE80",
+          "https://www.youtube.com/embed/s86C8B170qQ",
         ],
         references: [
           "http://ly.yishihui.net/14094.htm",
@@ -6057,6 +6545,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xwyzVGtutLI",
           "https://www.youtube.com/embed/9KalzuOBJqQ",
           "https://www.youtube.com/embed/ReF6oFJ2E58",
+          "https://www.youtube.com/embed/e6CjghGsE80",
+          "https://www.youtube.com/embed/s86C8B170qQ",
         ],
         references: [
           "http://ly.yishihui.net/14096.htm",
@@ -6079,6 +6569,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/xwyzVGtutLI",
           "https://www.youtube.com/embed/9KalzuOBJqQ",
           "https://www.youtube.com/embed/ReF6oFJ2E58",
+          "https://www.youtube.com/embed/e6CjghGsE80",
+          "https://www.youtube.com/embed/s86C8B170qQ",
         ],
         references: [
           "http://ly.yishihui.net/14098.htm",
@@ -6102,6 +6594,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9z1Ux4qITgY",
           "https://www.youtube.com/embed/QOf0Y7Oy-78",
           "https://www.youtube.com/embed/Einj0vjGiwY",
+          "https://www.youtube.com/embed/iMZ7x8exCK4",
+          "https://www.youtube.com/embed/KQN0qNow3oo",
         ],
         references: [
           "http://ly.yishihui.net/14100.htm",
@@ -6124,6 +6618,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9z1Ux4qITgY",
           "https://www.youtube.com/embed/QOf0Y7Oy-78",
           "https://www.youtube.com/embed/Einj0vjGiwY",
+          "https://www.youtube.com/embed/iMZ7x8exCK4",
+          "https://www.youtube.com/embed/KQN0qNow3oo",
         ],
         references: [
           "http://ly.yishihui.net/14102.htm",
@@ -6147,6 +6643,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9z1Ux4qITgY",
           "https://www.youtube.com/embed/QOf0Y7Oy-78",
           "https://www.youtube.com/embed/Einj0vjGiwY",
+          "https://www.youtube.com/embed/iMZ7x8exCK4",
+          "https://www.youtube.com/embed/KQN0qNow3oo",
         ],
         references: [
           "http://ly.yishihui.net/14104.htm",
@@ -6169,6 +6667,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9z1Ux4qITgY",
           "https://www.youtube.com/embed/QOf0Y7Oy-78",
           "https://www.youtube.com/embed/Einj0vjGiwY",
+          "https://www.youtube.com/embed/iMZ7x8exCK4",
+          "https://www.youtube.com/embed/KQN0qNow3oo",
         ],
         references: [
           "http://ly.yishihui.net/14112.htm",
@@ -6191,6 +6691,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9z1Ux4qITgY",
           "https://www.youtube.com/embed/QOf0Y7Oy-78",
           "https://www.youtube.com/embed/Einj0vjGiwY",
+          "https://www.youtube.com/embed/iMZ7x8exCK4",
+          "https://www.youtube.com/embed/KQN0qNow3oo",
         ],
         references: [
           "http://ly.yishihui.net/14114.htm",
@@ -6215,6 +6717,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/9z1Ux4qITgY",
           "https://www.youtube.com/embed/QOf0Y7Oy-78",
           "https://www.youtube.com/embed/Einj0vjGiwY",
+          "https://www.youtube.com/embed/iMZ7x8exCK4",
+          "https://www.youtube.com/embed/KQN0qNow3oo",
         ],
         references: [
           "http://ly.yishihui.net/14116.htm",
@@ -6237,6 +6741,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/jy5llX_TBlE",
           "https://www.youtube.com/embed/k_si0sgn1p4",
           "https://www.youtube.com/embed/hpR7EaevXRs",
+          "https://www.youtube.com/embed/55bL3iJT1_U",
+          "https://www.youtube.com/embed/UrinkRMgRiI",
         ],
         references: [
           "http://ly.yishihui.net/14027.htm",
@@ -6259,6 +6765,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/jy5llX_TBlE",
           "https://www.youtube.com/embed/k_si0sgn1p4",
           "https://www.youtube.com/embed/hpR7EaevXRs",
+          "https://www.youtube.com/embed/55bL3iJT1_U",
+          "https://www.youtube.com/embed/UrinkRMgRiI",
         ],
         references: [
           "http://ly.yishihui.net/14029.htm",
@@ -6281,6 +6789,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/jy5llX_TBlE",
           "https://www.youtube.com/embed/k_si0sgn1p4",
           "https://www.youtube.com/embed/hpR7EaevXRs",
+          "https://www.youtube.com/embed/55bL3iJT1_U",
+          "https://www.youtube.com/embed/UrinkRMgRiI",
         ],
         references: [
           "http://ly.yishihui.net/14031.htm",
@@ -6303,6 +6813,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/jy5llX_TBlE",
           "https://www.youtube.com/embed/k_si0sgn1p4",
           "https://www.youtube.com/embed/hpR7EaevXRs",
+          "https://www.youtube.com/embed/55bL3iJT1_U",
+          "https://www.youtube.com/embed/UrinkRMgRiI",
         ],
         references: [
           "http://ly.yishihui.net/14033.htm",
@@ -6325,6 +6837,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/jy5llX_TBlE",
           "https://www.youtube.com/embed/k_si0sgn1p4",
           "https://www.youtube.com/embed/hpR7EaevXRs",
+          "https://www.youtube.com/embed/55bL3iJT1_U",
+          "https://www.youtube.com/embed/UrinkRMgRiI",
         ],
         references: [
           "http://ly.yishihui.net/14035.htm",
@@ -6347,6 +6861,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/jy5llX_TBlE",
           "https://www.youtube.com/embed/k_si0sgn1p4",
           "https://www.youtube.com/embed/hpR7EaevXRs",
+          "https://www.youtube.com/embed/55bL3iJT1_U",
+          "https://www.youtube.com/embed/UrinkRMgRiI",
         ],
         references: [
           "http://ly.yishihui.net/14037.htm",
@@ -6369,6 +6885,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKAfi19CP34",
           "https://www.youtube.com/embed/Icdc24QD66g",
           "https://www.youtube.com/embed/dne6ACZ2-48",
+          "https://www.youtube.com/embed/n22YspN4xVY",
+          "https://www.youtube.com/embed/cpnBQ3lznR4",
+          "https://www.youtube.com/embed/8dOvwFDLxRQ",
         ],
         references: [
           "http://ly.yishihui.net/14405.htm",
@@ -6391,6 +6910,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKAfi19CP34",
           "https://www.youtube.com/embed/Icdc24QD66g",
           "https://www.youtube.com/embed/dne6ACZ2-48",
+          "https://www.youtube.com/embed/n22YspN4xVY",
+          "https://www.youtube.com/embed/cpnBQ3lznR4",
+          "https://www.youtube.com/embed/8dOvwFDLxRQ",
         ],
         references: [
           "http://ly.yishihui.net/14407.htm",
@@ -6413,6 +6935,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKAfi19CP34",
           "https://www.youtube.com/embed/Icdc24QD66g",
           "https://www.youtube.com/embed/dne6ACZ2-48",
+          "https://www.youtube.com/embed/n22YspN4xVY",
+          "https://www.youtube.com/embed/cpnBQ3lznR4",
+          "https://www.youtube.com/embed/8dOvwFDLxRQ",
         ],
         references: [
           "http://ly.yishihui.net/14409.htm",
@@ -6435,6 +6960,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKAfi19CP34",
           "https://www.youtube.com/embed/Icdc24QD66g",
           "https://www.youtube.com/embed/dne6ACZ2-48",
+          "https://www.youtube.com/embed/n22YspN4xVY",
+          "https://www.youtube.com/embed/cpnBQ3lznR4",
+          "https://www.youtube.com/embed/8dOvwFDLxRQ",
         ],
         references: [
           "http://ly.yishihui.net/14411.htm",
@@ -6457,6 +6985,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKAfi19CP34",
           "https://www.youtube.com/embed/Icdc24QD66g",
           "https://www.youtube.com/embed/dne6ACZ2-48",
+          "https://www.youtube.com/embed/n22YspN4xVY",
+          "https://www.youtube.com/embed/cpnBQ3lznR4",
+          "https://www.youtube.com/embed/8dOvwFDLxRQ",
         ],
         references: [
           "http://ly.yishihui.net/14413.htm",
@@ -6479,6 +7010,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKAfi19CP34",
           "https://www.youtube.com/embed/Icdc24QD66g",
           "https://www.youtube.com/embed/dne6ACZ2-48",
+          "https://www.youtube.com/embed/n22YspN4xVY",
+          "https://www.youtube.com/embed/cpnBQ3lznR4",
+          "https://www.youtube.com/embed/8dOvwFDLxRQ",
         ],
         references: [
           "http://ly.yishihui.net/14415.htm",
@@ -6502,6 +7036,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/sRAoeWNR_m4",
           "https://www.youtube.com/embed/i7EdWEW_jwI",
           "https://www.youtube.com/embed/avU798dOLoQ",
+          "https://www.youtube.com/embed/8e5vLIGhMiE",
+          "https://www.youtube.com/embed/tTlqu0g_s-M",
+          "https://www.youtube.com/embed/q98adkLm0eg",
         ],
         references: [
           "http://ly.yishihui.net/14417.htm",
@@ -6524,6 +7061,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/sRAoeWNR_m4",
           "https://www.youtube.com/embed/i7EdWEW_jwI",
           "https://www.youtube.com/embed/avU798dOLoQ",
+          "https://www.youtube.com/embed/8e5vLIGhMiE",
+          "https://www.youtube.com/embed/tTlqu0g_s-M",
+          "https://www.youtube.com/embed/q98adkLm0eg",
         ],
         references: [
           "http://ly.yishihui.net/14419.htm",
@@ -6547,6 +7087,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/sRAoeWNR_m4",
           "https://www.youtube.com/embed/i7EdWEW_jwI",
           "https://www.youtube.com/embed/avU798dOLoQ",
+          "https://www.youtube.com/embed/8e5vLIGhMiE",
+          "https://www.youtube.com/embed/tTlqu0g_s-M",
+          "https://www.youtube.com/embed/q98adkLm0eg",
         ],
         references: [
           "http://ly.yishihui.net/14421.htm",
@@ -6569,6 +7112,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/sRAoeWNR_m4",
           "https://www.youtube.com/embed/i7EdWEW_jwI",
           "https://www.youtube.com/embed/avU798dOLoQ",
+          "https://www.youtube.com/embed/8e5vLIGhMiE",
+          "https://www.youtube.com/embed/tTlqu0g_s-M",
+          "https://www.youtube.com/embed/q98adkLm0eg",
         ],
         references: [
           "http://ly.yishihui.net/14423.htm",
@@ -6591,6 +7137,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/sRAoeWNR_m4",
           "https://www.youtube.com/embed/i7EdWEW_jwI",
           "https://www.youtube.com/embed/avU798dOLoQ",
+          "https://www.youtube.com/embed/8e5vLIGhMiE",
+          "https://www.youtube.com/embed/tTlqu0g_s-M",
+          "https://www.youtube.com/embed/q98adkLm0eg",
         ],
         references: [
           "http://ly.yishihui.net/14425.htm",
@@ -6614,6 +7163,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/sRAoeWNR_m4",
           "https://www.youtube.com/embed/i7EdWEW_jwI",
           "https://www.youtube.com/embed/avU798dOLoQ",
+          "https://www.youtube.com/embed/8e5vLIGhMiE",
+          "https://www.youtube.com/embed/tTlqu0g_s-M",
+          "https://www.youtube.com/embed/q98adkLm0eg",
         ],
         references: [
           "http://ly.yishihui.net/14427.htm",
@@ -6636,6 +7188,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_2CgiNkZtS4",
           "https://www.youtube.com/embed/eiF_GbWF0JU",
           "https://www.youtube.com/embed/jk6tPuryo-E",
+          "https://www.youtube.com/embed/bxh-srFVRxU",
+          "https://www.youtube.com/embed/l5ukEyrQxak",
+          "https://www.youtube.com/embed/YKcIrfRb8WA",
         ],
         references: [
           "http://ly.yishihui.net/14429.htm",
@@ -6659,6 +7214,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_2CgiNkZtS4",
           "https://www.youtube.com/embed/eiF_GbWF0JU",
           "https://www.youtube.com/embed/jk6tPuryo-E",
+          "https://www.youtube.com/embed/bxh-srFVRxU",
+          "https://www.youtube.com/embed/l5ukEyrQxak",
+          "https://www.youtube.com/embed/YKcIrfRb8WA",
         ],
         references: [
           "http://ly.yishihui.net/14431.htm",
@@ -6682,6 +7240,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_2CgiNkZtS4",
           "https://www.youtube.com/embed/eiF_GbWF0JU",
           "https://www.youtube.com/embed/jk6tPuryo-E",
+          "https://www.youtube.com/embed/bxh-srFVRxU",
+          "https://www.youtube.com/embed/l5ukEyrQxak",
+          "https://www.youtube.com/embed/YKcIrfRb8WA",
         ],
         references: [
           "http://ly.yishihui.net/14433.htm",
@@ -6705,6 +7266,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_2CgiNkZtS4",
           "https://www.youtube.com/embed/eiF_GbWF0JU",
           "https://www.youtube.com/embed/jk6tPuryo-E",
+          "https://www.youtube.com/embed/bxh-srFVRxU",
+          "https://www.youtube.com/embed/l5ukEyrQxak",
+          "https://www.youtube.com/embed/YKcIrfRb8WA",
         ],
         references: [
           "http://ly.yishihui.net/14435.htm",
@@ -6728,6 +7292,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_2CgiNkZtS4",
           "https://www.youtube.com/embed/eiF_GbWF0JU",
           "https://www.youtube.com/embed/jk6tPuryo-E",
+          "https://www.youtube.com/embed/bxh-srFVRxU",
+          "https://www.youtube.com/embed/l5ukEyrQxak",
+          "https://www.youtube.com/embed/YKcIrfRb8WA",
         ],
         references: [
           "http://ly.yishihui.net/14437.htm",
@@ -6750,6 +7317,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/_2CgiNkZtS4",
           "https://www.youtube.com/embed/eiF_GbWF0JU",
           "https://www.youtube.com/embed/jk6tPuryo-E",
+          "https://www.youtube.com/embed/bxh-srFVRxU",
+          "https://www.youtube.com/embed/l5ukEyrQxak",
+          "https://www.youtube.com/embed/YKcIrfRb8WA",
         ],
         references: [
           "http://ly.yishihui.net/14439.htm",
@@ -6772,6 +7342,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/W19BbSXIu6Q",
           "https://www.youtube.com/embed/hDt9Ajj2Ut8",
           "https://www.youtube.com/embed/TGJIFfhWIhw",
+          "https://www.youtube.com/embed/B_osRITpgsE",
+          "https://www.youtube.com/embed/x7_3XVuQDms",
+          "https://www.youtube.com/embed/akZsl19BGCw",
         ],
         references: [
           "http://ly.yishihui.net/14894.htm",
@@ -6794,6 +7367,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/W19BbSXIu6Q",
           "https://www.youtube.com/embed/hDt9Ajj2Ut8",
           "https://www.youtube.com/embed/TGJIFfhWIhw",
+          "https://www.youtube.com/embed/B_osRITpgsE",
+          "https://www.youtube.com/embed/x7_3XVuQDms",
+          "https://www.youtube.com/embed/akZsl19BGCw",
         ],
         references: [
           "http://ly.yishihui.net/14896.htm",
@@ -6817,6 +7393,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/W19BbSXIu6Q",
           "https://www.youtube.com/embed/hDt9Ajj2Ut8",
           "https://www.youtube.com/embed/TGJIFfhWIhw",
+          "https://www.youtube.com/embed/B_osRITpgsE",
+          "https://www.youtube.com/embed/x7_3XVuQDms",
+          "https://www.youtube.com/embed/akZsl19BGCw",
         ],
         references: [
           "http://ly.yishihui.net/14898.htm",
@@ -6840,6 +7419,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/W19BbSXIu6Q",
           "https://www.youtube.com/embed/hDt9Ajj2Ut8",
           "https://www.youtube.com/embed/TGJIFfhWIhw",
+          "https://www.youtube.com/embed/B_osRITpgsE",
+          "https://www.youtube.com/embed/x7_3XVuQDms",
+          "https://www.youtube.com/embed/akZsl19BGCw",
         ],
         references: [
           "http://ly.yishihui.net/14900.htm",
@@ -6862,6 +7444,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/W19BbSXIu6Q",
           "https://www.youtube.com/embed/hDt9Ajj2Ut8",
           "https://www.youtube.com/embed/TGJIFfhWIhw",
+          "https://www.youtube.com/embed/B_osRITpgsE",
+          "https://www.youtube.com/embed/x7_3XVuQDms",
+          "https://www.youtube.com/embed/akZsl19BGCw",
         ],
         references: [
           "http://ly.yishihui.net/14902.htm",
@@ -6884,6 +7469,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/W19BbSXIu6Q",
           "https://www.youtube.com/embed/hDt9Ajj2Ut8",
           "https://www.youtube.com/embed/TGJIFfhWIhw",
+          "https://www.youtube.com/embed/B_osRITpgsE",
+          "https://www.youtube.com/embed/x7_3XVuQDms",
+          "https://www.youtube.com/embed/akZsl19BGCw",
         ],
         references: [
           "http://ly.yishihui.net/14904.htm",
@@ -6907,6 +7495,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/D5gQqB53Lgo",
           "https://www.youtube.com/embed/HdFqUbKbx-I",
           "https://www.youtube.com/embed/lAqDoUqoVl8",
+          "https://www.youtube.com/embed/j6NxNCz8hnA",
+          "https://www.youtube.com/embed/CPOGYvZUZik",
         ],
         references: [
           "http://ly.yishihui.net/15236.htm",
@@ -6929,6 +7519,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/D5gQqB53Lgo",
           "https://www.youtube.com/embed/HdFqUbKbx-I",
           "https://www.youtube.com/embed/lAqDoUqoVl8",
+          "https://www.youtube.com/embed/j6NxNCz8hnA",
+          "https://www.youtube.com/embed/CPOGYvZUZik",
         ],
         references: [
           "http://ly.yishihui.net/15238.htm",
@@ -6951,6 +7543,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/D5gQqB53Lgo",
           "https://www.youtube.com/embed/HdFqUbKbx-I",
           "https://www.youtube.com/embed/lAqDoUqoVl8",
+          "https://www.youtube.com/embed/j6NxNCz8hnA",
+          "https://www.youtube.com/embed/CPOGYvZUZik",
         ],
         references: [
           "http://ly.yishihui.net/15240.htm",
@@ -6973,6 +7567,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/D5gQqB53Lgo",
           "https://www.youtube.com/embed/HdFqUbKbx-I",
           "https://www.youtube.com/embed/lAqDoUqoVl8",
+          "https://www.youtube.com/embed/j6NxNCz8hnA",
+          "https://www.youtube.com/embed/CPOGYvZUZik",
         ],
         references: [
           "http://ly.yishihui.net/15242.htm",
@@ -6995,6 +7591,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/D5gQqB53Lgo",
           "https://www.youtube.com/embed/HdFqUbKbx-I",
           "https://www.youtube.com/embed/lAqDoUqoVl8",
+          "https://www.youtube.com/embed/j6NxNCz8hnA",
+          "https://www.youtube.com/embed/CPOGYvZUZik",
         ],
         references: [
           "http://ly.yishihui.net/15244.htm",
@@ -7017,6 +7615,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/D5gQqB53Lgo",
           "https://www.youtube.com/embed/HdFqUbKbx-I",
           "https://www.youtube.com/embed/lAqDoUqoVl8",
+          "https://www.youtube.com/embed/j6NxNCz8hnA",
+          "https://www.youtube.com/embed/CPOGYvZUZik",
         ],
         references: [
           "http://ly.yishihui.net/15246.htm",
@@ -7040,6 +7640,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rbRF21pxcNw",
           "https://www.youtube.com/embed/ix56hoHoWec",
           "https://www.youtube.com/embed/URFn6BBAEec",
+          "https://www.youtube.com/embed/-hDjCNxSXRg",
+          "https://www.youtube.com/embed/szLHNe0oanQ",
+          "https://www.youtube.com/embed/F1zkQ_wrYck",
         ],
         references: [
           "http://ly.yishihui.net/15248.htm",
@@ -7062,6 +7665,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rbRF21pxcNw",
           "https://www.youtube.com/embed/ix56hoHoWec",
           "https://www.youtube.com/embed/URFn6BBAEec",
+          "https://www.youtube.com/embed/-hDjCNxSXRg",
+          "https://www.youtube.com/embed/szLHNe0oanQ",
+          "https://www.youtube.com/embed/F1zkQ_wrYck",
         ],
         references: [
           "http://ly.yishihui.net/15250.htm",
@@ -7084,6 +7690,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rbRF21pxcNw",
           "https://www.youtube.com/embed/ix56hoHoWec",
           "https://www.youtube.com/embed/URFn6BBAEec",
+          "https://www.youtube.com/embed/-hDjCNxSXRg",
+          "https://www.youtube.com/embed/szLHNe0oanQ",
+          "https://www.youtube.com/embed/F1zkQ_wrYck",
         ],
         references: [
           "http://ly.yishihui.net/15252.htm",
@@ -7106,6 +7715,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rbRF21pxcNw",
           "https://www.youtube.com/embed/ix56hoHoWec",
           "https://www.youtube.com/embed/URFn6BBAEec",
+          "https://www.youtube.com/embed/-hDjCNxSXRg",
+          "https://www.youtube.com/embed/szLHNe0oanQ",
+          "https://www.youtube.com/embed/F1zkQ_wrYck",
         ],
         references: [
           "http://ly.yishihui.net/15254.htm",
@@ -7129,6 +7741,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rbRF21pxcNw",
           "https://www.youtube.com/embed/ix56hoHoWec",
           "https://www.youtube.com/embed/URFn6BBAEec",
+          "https://www.youtube.com/embed/-hDjCNxSXRg",
+          "https://www.youtube.com/embed/szLHNe0oanQ",
+          "https://www.youtube.com/embed/F1zkQ_wrYck",
         ],
         references: [
           "http://ly.yishihui.net/15256.htm",
@@ -7151,6 +7766,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rbRF21pxcNw",
           "https://www.youtube.com/embed/ix56hoHoWec",
           "https://www.youtube.com/embed/URFn6BBAEec",
+          "https://www.youtube.com/embed/-hDjCNxSXRg",
+          "https://www.youtube.com/embed/szLHNe0oanQ",
+          "https://www.youtube.com/embed/F1zkQ_wrYck",
         ],
         references: [
           "http://ly.yishihui.net/15258.htm",
@@ -7173,6 +7791,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/s7yGC0LUjLc",
           "https://www.youtube.com/embed/o9g2R7u33KU",
           "https://www.youtube.com/embed/tiupI8wQZJI",
+          "https://www.youtube.com/embed/jdiBd-Vz2VY",
+          "https://www.youtube.com/embed/WR74oaGN0f8",
+          "https://www.youtube.com/embed/5QHcihpQxUA",
         ],
         references: [
           "http://ly.yishihui.net/15278.htm",
@@ -7195,6 +7816,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/s7yGC0LUjLc",
           "https://www.youtube.com/embed/o9g2R7u33KU",
           "https://www.youtube.com/embed/tiupI8wQZJI",
+          "https://www.youtube.com/embed/jdiBd-Vz2VY",
+          "https://www.youtube.com/embed/WR74oaGN0f8",
+          "https://www.youtube.com/embed/5QHcihpQxUA",
         ],
         references: [
           "http://ly.yishihui.net/15280.htm",
@@ -7217,6 +7841,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/s7yGC0LUjLc",
           "https://www.youtube.com/embed/o9g2R7u33KU",
           "https://www.youtube.com/embed/tiupI8wQZJI",
+          "https://www.youtube.com/embed/jdiBd-Vz2VY",
+          "https://www.youtube.com/embed/WR74oaGN0f8",
+          "https://www.youtube.com/embed/5QHcihpQxUA",
         ],
         references: [
           "http://ly.yishihui.net/15282.htm",
@@ -7239,6 +7866,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/s7yGC0LUjLc",
           "https://www.youtube.com/embed/o9g2R7u33KU",
           "https://www.youtube.com/embed/tiupI8wQZJI",
+          "https://www.youtube.com/embed/jdiBd-Vz2VY",
+          "https://www.youtube.com/embed/WR74oaGN0f8",
+          "https://www.youtube.com/embed/5QHcihpQxUA",
         ],
         references: [
           "http://ly.yishihui.net/15284.htm",
@@ -7261,6 +7891,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/s7yGC0LUjLc",
           "https://www.youtube.com/embed/o9g2R7u33KU",
           "https://www.youtube.com/embed/tiupI8wQZJI",
+          "https://www.youtube.com/embed/jdiBd-Vz2VY",
+          "https://www.youtube.com/embed/WR74oaGN0f8",
+          "https://www.youtube.com/embed/5QHcihpQxUA",
         ],
         references: [
           "http://ly.yishihui.net/15286.htm",
@@ -7283,6 +7916,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/s7yGC0LUjLc",
           "https://www.youtube.com/embed/o9g2R7u33KU",
           "https://www.youtube.com/embed/tiupI8wQZJI",
+          "https://www.youtube.com/embed/jdiBd-Vz2VY",
+          "https://www.youtube.com/embed/WR74oaGN0f8",
+          "https://www.youtube.com/embed/5QHcihpQxUA",
         ],
         references: [
           "http://ly.yishihui.net/15288.htm",
@@ -7305,6 +7941,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LpM1Ea0PzMI",
           "https://www.youtube.com/embed/XLkA2HGjjGU",
           "https://www.youtube.com/embed/ANdkKdGsXGE",
+          "https://www.youtube.com/embed/4bCO1ynD4iY",
+          "https://www.youtube.com/embed/GNnxnfVKdVY",
+          "https://www.youtube.com/embed/o-RJtOguCz4",
         ],
         references: [
           "http://ly.yishihui.net/14602.htm",
@@ -7328,6 +7967,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LpM1Ea0PzMI",
           "https://www.youtube.com/embed/XLkA2HGjjGU",
           "https://www.youtube.com/embed/ANdkKdGsXGE",
+          "https://www.youtube.com/embed/4bCO1ynD4iY",
+          "https://www.youtube.com/embed/GNnxnfVKdVY",
+          "https://www.youtube.com/embed/o-RJtOguCz4",
         ],
         references: [
           "http://ly.yishihui.net/14604.htm",
@@ -7351,6 +7993,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LpM1Ea0PzMI",
           "https://www.youtube.com/embed/XLkA2HGjjGU",
           "https://www.youtube.com/embed/ANdkKdGsXGE",
+          "https://www.youtube.com/embed/4bCO1ynD4iY",
+          "https://www.youtube.com/embed/GNnxnfVKdVY",
+          "https://www.youtube.com/embed/o-RJtOguCz4",
         ],
         references: [
           "http://ly.yishihui.net/14606.htm",
@@ -7374,6 +8019,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LpM1Ea0PzMI",
           "https://www.youtube.com/embed/XLkA2HGjjGU",
           "https://www.youtube.com/embed/ANdkKdGsXGE",
+          "https://www.youtube.com/embed/4bCO1ynD4iY",
+          "https://www.youtube.com/embed/GNnxnfVKdVY",
+          "https://www.youtube.com/embed/o-RJtOguCz4",
         ],
         references: [
           "http://ly.yishihui.net/14608.htm",
@@ -7397,6 +8045,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LpM1Ea0PzMI",
           "https://www.youtube.com/embed/XLkA2HGjjGU",
           "https://www.youtube.com/embed/ANdkKdGsXGE",
+          "https://www.youtube.com/embed/4bCO1ynD4iY",
+          "https://www.youtube.com/embed/GNnxnfVKdVY",
+          "https://www.youtube.com/embed/o-RJtOguCz4",
         ],
         references: [
           "http://ly.yishihui.net/14610.htm",
@@ -7420,6 +8071,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LpM1Ea0PzMI",
           "https://www.youtube.com/embed/XLkA2HGjjGU",
           "https://www.youtube.com/embed/ANdkKdGsXGE",
+          "https://www.youtube.com/embed/4bCO1ynD4iY",
+          "https://www.youtube.com/embed/GNnxnfVKdVY",
+          "https://www.youtube.com/embed/o-RJtOguCz4",
         ],
         references: [
           "http://ly.yishihui.net/14612.htm",
@@ -7442,6 +8096,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/EraiLIWOlcs",
           "https://www.youtube.com/embed/a3A2f0Y_-L4",
           "https://www.youtube.com/embed/jBWPK3kw_I0",
+          "https://www.youtube.com/embed/IldHaMwSh-E",
+          "https://www.youtube.com/embed/RRuHXHhdCmo",
         ],
         references: [
           "http://ly.yishihui.net/14614.htm",
@@ -7464,6 +8120,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/EraiLIWOlcs",
           "https://www.youtube.com/embed/a3A2f0Y_-L4",
           "https://www.youtube.com/embed/jBWPK3kw_I0",
+          "https://www.youtube.com/embed/IldHaMwSh-E",
+          "https://www.youtube.com/embed/RRuHXHhdCmo",
         ],
         references: [
           "http://ly.yishihui.net/14616.htm",
@@ -7487,6 +8145,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/EraiLIWOlcs",
           "https://www.youtube.com/embed/a3A2f0Y_-L4",
           "https://www.youtube.com/embed/jBWPK3kw_I0",
+          "https://www.youtube.com/embed/IldHaMwSh-E",
+          "https://www.youtube.com/embed/RRuHXHhdCmo",
         ],
         references: [
           "http://ly.yishihui.net/14618.htm",
@@ -7509,6 +8169,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/EraiLIWOlcs",
           "https://www.youtube.com/embed/a3A2f0Y_-L4",
           "https://www.youtube.com/embed/jBWPK3kw_I0",
+          "https://www.youtube.com/embed/IldHaMwSh-E",
+          "https://www.youtube.com/embed/RRuHXHhdCmo",
         ],
         references: [
           "http://ly.yishihui.net/14620.htm",
@@ -7531,6 +8193,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/EraiLIWOlcs",
           "https://www.youtube.com/embed/a3A2f0Y_-L4",
           "https://www.youtube.com/embed/jBWPK3kw_I0",
+          "https://www.youtube.com/embed/IldHaMwSh-E",
+          "https://www.youtube.com/embed/RRuHXHhdCmo",
         ],
         references: [
           "http://ly.yishihui.net/14622.htm",
@@ -7553,6 +8217,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/EraiLIWOlcs",
           "https://www.youtube.com/embed/a3A2f0Y_-L4",
           "https://www.youtube.com/embed/jBWPK3kw_I0",
+          "https://www.youtube.com/embed/IldHaMwSh-E",
+          "https://www.youtube.com/embed/RRuHXHhdCmo",
         ],
         references: [
           "http://ly.yishihui.net/14624.htm",
@@ -7576,6 +8242,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/RhUnMlGhdzc",
           "https://www.youtube.com/embed/lCy9r0vg5Xg",
           "https://www.youtube.com/embed/Bg9FAhgkAsQ",
+          "https://www.youtube.com/embed/C_GhcwGpaRE",
+          "https://www.youtube.com/embed/44vaXnSlSXI",
         ],
         references: [
           "http://ly.yishihui.net/14626.htm",
@@ -7599,6 +8267,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/RhUnMlGhdzc",
           "https://www.youtube.com/embed/lCy9r0vg5Xg",
           "https://www.youtube.com/embed/Bg9FAhgkAsQ",
+          "https://www.youtube.com/embed/C_GhcwGpaRE",
+          "https://www.youtube.com/embed/44vaXnSlSXI",
         ],
         references: [
           "http://ly.yishihui.net/14628.htm",
@@ -7623,6 +8293,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/RhUnMlGhdzc",
           "https://www.youtube.com/embed/lCy9r0vg5Xg",
           "https://www.youtube.com/embed/Bg9FAhgkAsQ",
+          "https://www.youtube.com/embed/C_GhcwGpaRE",
+          "https://www.youtube.com/embed/44vaXnSlSXI",
         ],
         references: [
           "http://ly.yishihui.net/14630.htm",
@@ -7646,6 +8318,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/RhUnMlGhdzc",
           "https://www.youtube.com/embed/lCy9r0vg5Xg",
           "https://www.youtube.com/embed/Bg9FAhgkAsQ",
+          "https://www.youtube.com/embed/C_GhcwGpaRE",
+          "https://www.youtube.com/embed/44vaXnSlSXI",
         ],
         references: [
           "http://ly.yishihui.net/14632.htm",
@@ -7670,6 +8344,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/RhUnMlGhdzc",
           "https://www.youtube.com/embed/lCy9r0vg5Xg",
           "https://www.youtube.com/embed/Bg9FAhgkAsQ",
+          "https://www.youtube.com/embed/C_GhcwGpaRE",
+          "https://www.youtube.com/embed/44vaXnSlSXI",
         ],
         references: [
           "http://ly.yishihui.net/14634.htm",
@@ -7694,6 +8370,8 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/RhUnMlGhdzc",
           "https://www.youtube.com/embed/lCy9r0vg5Xg",
           "https://www.youtube.com/embed/Bg9FAhgkAsQ",
+          "https://www.youtube.com/embed/C_GhcwGpaRE",
+          "https://www.youtube.com/embed/44vaXnSlSXI",
         ],
         references: [
           "http://ly.yishihui.net/14636.htm",
@@ -7718,6 +8396,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rZwU0riv0rY",
           "https://www.youtube.com/embed/UWUOv1JoL6s",
           "https://www.youtube.com/embed/pRkM_GV5AQY",
+          "https://www.youtube.com/embed/NnLiLrUBcZQ",
+          "https://www.youtube.com/embed/4VBM77NGplg",
+          "https://www.youtube.com/embed/rSsjMfDr8i4",
         ],
         references: [
           "http://ly.yishihui.net/14548.htm",
@@ -7741,6 +8422,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rZwU0riv0rY",
           "https://www.youtube.com/embed/UWUOv1JoL6s",
           "https://www.youtube.com/embed/pRkM_GV5AQY",
+          "https://www.youtube.com/embed/NnLiLrUBcZQ",
+          "https://www.youtube.com/embed/4VBM77NGplg",
+          "https://www.youtube.com/embed/rSsjMfDr8i4",
         ],
         references: [
           "http://ly.yishihui.net/14550.htm",
@@ -7765,6 +8449,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rZwU0riv0rY",
           "https://www.youtube.com/embed/UWUOv1JoL6s",
           "https://www.youtube.com/embed/pRkM_GV5AQY",
+          "https://www.youtube.com/embed/NnLiLrUBcZQ",
+          "https://www.youtube.com/embed/4VBM77NGplg",
+          "https://www.youtube.com/embed/rSsjMfDr8i4",
         ],
         references: [
           "http://ly.yishihui.net/14552.htm",
@@ -7789,6 +8476,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rZwU0riv0rY",
           "https://www.youtube.com/embed/UWUOv1JoL6s",
           "https://www.youtube.com/embed/pRkM_GV5AQY",
+          "https://www.youtube.com/embed/NnLiLrUBcZQ",
+          "https://www.youtube.com/embed/4VBM77NGplg",
+          "https://www.youtube.com/embed/rSsjMfDr8i4",
         ],
         references: [
           "http://ly.yishihui.net/14554.htm",
@@ -7812,6 +8502,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rZwU0riv0rY",
           "https://www.youtube.com/embed/UWUOv1JoL6s",
           "https://www.youtube.com/embed/pRkM_GV5AQY",
+          "https://www.youtube.com/embed/NnLiLrUBcZQ",
+          "https://www.youtube.com/embed/4VBM77NGplg",
+          "https://www.youtube.com/embed/rSsjMfDr8i4",
         ],
         references: [
           "http://ly.yishihui.net/14556.htm",
@@ -7835,6 +8528,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/rZwU0riv0rY",
           "https://www.youtube.com/embed/UWUOv1JoL6s",
           "https://www.youtube.com/embed/pRkM_GV5AQY",
+          "https://www.youtube.com/embed/NnLiLrUBcZQ",
+          "https://www.youtube.com/embed/4VBM77NGplg",
+          "https://www.youtube.com/embed/rSsjMfDr8i4",
         ],
         references: [
           "http://ly.yishihui.net/14558.htm",
@@ -7857,6 +8553,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LQ51uxa2y84",
           "https://www.youtube.com/embed/f25WGNKpDZI",
           "https://www.youtube.com/embed/XuETl73SqMg",
+          "https://www.youtube.com/embed/LPg44AROfMY",
+          "https://www.youtube.com/embed/t-7CUeyo6-8",
+          "https://www.youtube.com/embed/z-Lo5rIV5do",
         ],
         references: [
           "http://ly.yishihui.net/14560.htm",
@@ -7880,6 +8579,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LQ51uxa2y84",
           "https://www.youtube.com/embed/f25WGNKpDZI",
           "https://www.youtube.com/embed/XuETl73SqMg",
+          "https://www.youtube.com/embed/LPg44AROfMY",
+          "https://www.youtube.com/embed/t-7CUeyo6-8",
+          "https://www.youtube.com/embed/z-Lo5rIV5do",
         ],
         references: [
           "http://ly.yishihui.net/14562.htm",
@@ -7902,6 +8604,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LQ51uxa2y84",
           "https://www.youtube.com/embed/f25WGNKpDZI",
           "https://www.youtube.com/embed/XuETl73SqMg",
+          "https://www.youtube.com/embed/LPg44AROfMY",
+          "https://www.youtube.com/embed/t-7CUeyo6-8",
+          "https://www.youtube.com/embed/z-Lo5rIV5do",
         ],
         references: [
           "http://ly.yishihui.net/14564.htm",
@@ -7924,6 +8629,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LQ51uxa2y84",
           "https://www.youtube.com/embed/f25WGNKpDZI",
           "https://www.youtube.com/embed/XuETl73SqMg",
+          "https://www.youtube.com/embed/LPg44AROfMY",
+          "https://www.youtube.com/embed/t-7CUeyo6-8",
+          "https://www.youtube.com/embed/z-Lo5rIV5do",
         ],
         references: [
           "http://ly.yishihui.net/14566.htm",
@@ -7946,6 +8654,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LQ51uxa2y84",
           "https://www.youtube.com/embed/f25WGNKpDZI",
           "https://www.youtube.com/embed/XuETl73SqMg",
+          "https://www.youtube.com/embed/LPg44AROfMY",
+          "https://www.youtube.com/embed/t-7CUeyo6-8",
+          "https://www.youtube.com/embed/z-Lo5rIV5do",
         ],
         references: [
           "http://ly.yishihui.net/14568.htm",
@@ -7969,6 +8680,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/LQ51uxa2y84",
           "https://www.youtube.com/embed/f25WGNKpDZI",
           "https://www.youtube.com/embed/XuETl73SqMg",
+          "https://www.youtube.com/embed/LPg44AROfMY",
+          "https://www.youtube.com/embed/t-7CUeyo6-8",
+          "https://www.youtube.com/embed/z-Lo5rIV5do",
         ],
         references: [
           "http://ly.yishihui.net/14570.htm",
@@ -7991,6 +8705,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aXx31LDjzqQ",
           "https://www.youtube.com/embed/U-VOyyP-n3w",
           "https://www.youtube.com/embed/Hwgl8kA-yAg",
+          "https://www.youtube.com/embed/ZG8bNvqCOUc",
+          "https://www.youtube.com/embed/YM0PpdPbfLQ",
+          "https://www.youtube.com/embed/FSsiwsa3GWE",
         ],
         references: [
           "http://ly.yishihui.net/14572.htm",
@@ -8013,6 +8730,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aXx31LDjzqQ",
           "https://www.youtube.com/embed/U-VOyyP-n3w",
           "https://www.youtube.com/embed/Hwgl8kA-yAg",
+          "https://www.youtube.com/embed/ZG8bNvqCOUc",
+          "https://www.youtube.com/embed/YM0PpdPbfLQ",
+          "https://www.youtube.com/embed/FSsiwsa3GWE",
         ],
         references: [
           "http://ly.yishihui.net/14574.htm",
@@ -8036,6 +8756,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aXx31LDjzqQ",
           "https://www.youtube.com/embed/U-VOyyP-n3w",
           "https://www.youtube.com/embed/Hwgl8kA-yAg",
+          "https://www.youtube.com/embed/ZG8bNvqCOUc",
+          "https://www.youtube.com/embed/YM0PpdPbfLQ",
+          "https://www.youtube.com/embed/FSsiwsa3GWE",
         ],
         references: [
           "http://ly.yishihui.net/14576.htm",
@@ -8058,6 +8781,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aXx31LDjzqQ",
           "https://www.youtube.com/embed/U-VOyyP-n3w",
           "https://www.youtube.com/embed/Hwgl8kA-yAg",
+          "https://www.youtube.com/embed/ZG8bNvqCOUc",
+          "https://www.youtube.com/embed/YM0PpdPbfLQ",
+          "https://www.youtube.com/embed/FSsiwsa3GWE",
         ],
         references: [
           "http://ly.yishihui.net/14578.htm",
@@ -8080,6 +8806,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aXx31LDjzqQ",
           "https://www.youtube.com/embed/U-VOyyP-n3w",
           "https://www.youtube.com/embed/Hwgl8kA-yAg",
+          "https://www.youtube.com/embed/ZG8bNvqCOUc",
+          "https://www.youtube.com/embed/YM0PpdPbfLQ",
+          "https://www.youtube.com/embed/FSsiwsa3GWE",
         ],
         references: [
           "http://ly.yishihui.net/14580.htm",
@@ -8102,6 +8831,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/aXx31LDjzqQ",
           "https://www.youtube.com/embed/U-VOyyP-n3w",
           "https://www.youtube.com/embed/Hwgl8kA-yAg",
+          "https://www.youtube.com/embed/ZG8bNvqCOUc",
+          "https://www.youtube.com/embed/YM0PpdPbfLQ",
+          "https://www.youtube.com/embed/FSsiwsa3GWE",
         ],
         references: [
           "http://ly.yishihui.net/14582.htm",
@@ -8124,6 +8856,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/X0oLGWHNirY",
           "https://www.youtube.com/embed/aSxY_2TKkiY",
           "https://www.youtube.com/embed/4hhXg6b4KYQ",
+          "https://www.youtube.com/embed/sbK0kTDlmsI",
+          "https://www.youtube.com/embed/8Y_LD_3lAeI",
+          "https://www.youtube.com/embed/RcR0AFFij4E",
         ],
         references: [
           "http://ly.yishihui.net/15224.htm",
@@ -8146,6 +8881,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/X0oLGWHNirY",
           "https://www.youtube.com/embed/aSxY_2TKkiY",
           "https://www.youtube.com/embed/4hhXg6b4KYQ",
+          "https://www.youtube.com/embed/sbK0kTDlmsI",
+          "https://www.youtube.com/embed/8Y_LD_3lAeI",
+          "https://www.youtube.com/embed/RcR0AFFij4E",
         ],
         references: [
           "http://ly.yishihui.net/15226.htm",
@@ -8170,6 +8908,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/X0oLGWHNirY",
           "https://www.youtube.com/embed/aSxY_2TKkiY",
           "https://www.youtube.com/embed/4hhXg6b4KYQ",
+          "https://www.youtube.com/embed/sbK0kTDlmsI",
+          "https://www.youtube.com/embed/8Y_LD_3lAeI",
+          "https://www.youtube.com/embed/RcR0AFFij4E",
         ],
         references: [
           "http://ly.yishihui.net/15228.htm",
@@ -8192,6 +8933,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/X0oLGWHNirY",
           "https://www.youtube.com/embed/aSxY_2TKkiY",
           "https://www.youtube.com/embed/4hhXg6b4KYQ",
+          "https://www.youtube.com/embed/sbK0kTDlmsI",
+          "https://www.youtube.com/embed/8Y_LD_3lAeI",
+          "https://www.youtube.com/embed/RcR0AFFij4E",
         ],
         references: [
           "http://ly.yishihui.net/15230.htm",
@@ -8215,6 +8959,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/X0oLGWHNirY",
           "https://www.youtube.com/embed/aSxY_2TKkiY",
           "https://www.youtube.com/embed/4hhXg6b4KYQ",
+          "https://www.youtube.com/embed/sbK0kTDlmsI",
+          "https://www.youtube.com/embed/8Y_LD_3lAeI",
+          "https://www.youtube.com/embed/RcR0AFFij4E",
         ],
         references: [
           "http://ly.yishihui.net/15230.htm",
@@ -8238,6 +8985,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/X0oLGWHNirY",
           "https://www.youtube.com/embed/aSxY_2TKkiY",
           "https://www.youtube.com/embed/4hhXg6b4KYQ",
+          "https://www.youtube.com/embed/sbK0kTDlmsI",
+          "https://www.youtube.com/embed/8Y_LD_3lAeI",
+          "https://www.youtube.com/embed/RcR0AFFij4E",
         ],
         references: [
           "http://ly.yishihui.net/15234.htm",
@@ -8261,6 +9011,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/MxG23MhxKzM",
           "https://www.youtube.com/embed/TRCwa6wprCA",
           "https://www.youtube.com/embed/eO3hPbN0_YM",
+          "https://www.youtube.com/embed/KS7wpVNVZZk",
+          "https://www.youtube.com/embed/JBiEcnqgBtg",
+          "https://www.youtube.com/embed/6B-XRtXEk2Y",
         ],
         references: [
           "http://ly.yishihui.net/14869.htm",
@@ -8283,6 +9036,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/MxG23MhxKzM",
           "https://www.youtube.com/embed/TRCwa6wprCA",
           "https://www.youtube.com/embed/eO3hPbN0_YM",
+          "https://www.youtube.com/embed/KS7wpVNVZZk",
+          "https://www.youtube.com/embed/JBiEcnqgBtg",
+          "https://www.youtube.com/embed/6B-XRtXEk2Y",
         ],
         references: [
           "http://ly.yishihui.net/14871.htm",
@@ -8306,6 +9062,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/MxG23MhxKzM",
           "https://www.youtube.com/embed/TRCwa6wprCA",
           "https://www.youtube.com/embed/eO3hPbN0_YM",
+          "https://www.youtube.com/embed/KS7wpVNVZZk",
+          "https://www.youtube.com/embed/JBiEcnqgBtg",
+          "https://www.youtube.com/embed/6B-XRtXEk2Y",
         ],
         references: [
           "http://ly.yishihui.net/14873.htm",
@@ -8328,6 +9087,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/MxG23MhxKzM",
           "https://www.youtube.com/embed/TRCwa6wprCA",
           "https://www.youtube.com/embed/eO3hPbN0_YM",
+          "https://www.youtube.com/embed/KS7wpVNVZZk",
+          "https://www.youtube.com/embed/JBiEcnqgBtg",
+          "https://www.youtube.com/embed/6B-XRtXEk2Y",
         ],
         references: [
           "http://ly.yishihui.net/14875.htm",
@@ -8351,6 +9113,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/MxG23MhxKzM",
           "https://www.youtube.com/embed/TRCwa6wprCA",
           "https://www.youtube.com/embed/eO3hPbN0_YM",
+          "https://www.youtube.com/embed/KS7wpVNVZZk",
+          "https://www.youtube.com/embed/JBiEcnqgBtg",
+          "https://www.youtube.com/embed/6B-XRtXEk2Y",
         ],
         references: [
           "http://ly.yishihui.net/14877.htm",
@@ -8373,6 +9138,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/MxG23MhxKzM",
           "https://www.youtube.com/embed/TRCwa6wprCA",
           "https://www.youtube.com/embed/eO3hPbN0_YM",
+          "https://www.youtube.com/embed/KS7wpVNVZZk",
+          "https://www.youtube.com/embed/JBiEcnqgBtg",
+          "https://www.youtube.com/embed/6B-XRtXEk2Y",
         ],
         references: [
           "http://ly.yishihui.net/14879.htm",
@@ -8397,6 +9165,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/mEoAL0aL08Y",
           "https://www.youtube.com/embed/tfRcIZPJhvw",
           "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/8tE0ulPtmxg",
+          "https://www.youtube.com/embed/Zblfehl39EA",
+          "https://www.youtube.com/embed/YRK8bxEXd9Y",
         ],
         references: [
           "https://www.guoyi360.com/64gua55/xj/5802.html",
@@ -8421,6 +9192,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/mEoAL0aL08Y",
           "https://www.youtube.com/embed/tfRcIZPJhvw",
           "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/8tE0ulPtmxg",
+          "https://www.youtube.com/embed/Zblfehl39EA",
+          "https://www.youtube.com/embed/YRK8bxEXd9Y",
         ],
         references: [
           "http://ly.yishihui.net/14884.htm",
@@ -8445,6 +9219,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/mEoAL0aL08Y",
           "https://www.youtube.com/embed/tfRcIZPJhvw",
           "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/8tE0ulPtmxg",
+          "https://www.youtube.com/embed/Zblfehl39EA",
+          "https://www.youtube.com/embed/YRK8bxEXd9Y",
         ],
         references: [
           "http://ly.yishihui.net/14886.htm",
@@ -8469,6 +9246,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/mEoAL0aL08Y",
           "https://www.youtube.com/embed/tfRcIZPJhvw",
           "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/8tE0ulPtmxg",
+          "https://www.youtube.com/embed/Zblfehl39EA",
+          "https://www.youtube.com/embed/YRK8bxEXd9Y",
         ],
         references: [
           "http://ly.yishihui.net/14888.htm",
@@ -8493,6 +9273,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/mEoAL0aL08Y",
           "https://www.youtube.com/embed/tfRcIZPJhvw",
           "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/8tE0ulPtmxg",
+          "https://www.youtube.com/embed/Zblfehl39EA",
+          "https://www.youtube.com/embed/YRK8bxEXd9Y",
         ],
         references: [
           "http://ly.yishihui.net/14890.htm",
@@ -8518,6 +9301,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/mEoAL0aL08Y",
           "https://www.youtube.com/embed/tfRcIZPJhvw",
           "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/8tE0ulPtmxg",
+          "https://www.youtube.com/embed/Zblfehl39EA",
+          "https://www.youtube.com/embed/YRK8bxEXd9Y",
         ],
         references: [
           "http://ly.yishihui.net/14892.htm",
@@ -8538,8 +9324,11 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/lamIrtRAYEY",
           "https://www.youtube.com/embed/UcXphCw_I3M",
           "https://www.youtube.com/embed/cbE-17ZT-A8",
-          "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/0ULzivPXoHw",
           "https://www.youtube.com/embed/H_vmucfDGkQ",
+          "https://www.youtube.com/embed/2u1tBjrvRe8",
+          "https://www.youtube.com/embed/OkXmBnxbZSY",
+          "https://www.youtube.com/embed/YI3t4e7ZOXw",
         ],
         references: [
           "http://ly.yishihui.net/14746.htm",
@@ -8560,8 +9349,11 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/lamIrtRAYEY",
           "https://www.youtube.com/embed/UcXphCw_I3M",
           "https://www.youtube.com/embed/cbE-17ZT-A8",
-          "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/0ULzivPXoHw",
           "https://www.youtube.com/embed/H_vmucfDGkQ",
+          "https://www.youtube.com/embed/2u1tBjrvRe8",
+          "https://www.youtube.com/embed/OkXmBnxbZSY",
+          "https://www.youtube.com/embed/YI3t4e7ZOXw",
         ],
         references: [
           "http://ly.yishihui.net/14748.htm",
@@ -8582,8 +9374,11 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/lamIrtRAYEY",
           "https://www.youtube.com/embed/UcXphCw_I3M",
           "https://www.youtube.com/embed/cbE-17ZT-A8",
-          "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/0ULzivPXoHw",
           "https://www.youtube.com/embed/H_vmucfDGkQ",
+          "https://www.youtube.com/embed/2u1tBjrvRe8",
+          "https://www.youtube.com/embed/OkXmBnxbZSY",
+          "https://www.youtube.com/embed/YI3t4e7ZOXw",
         ],
         references: [
           "http://ly.yishihui.net/14750.htm",
@@ -8604,8 +9399,11 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/lamIrtRAYEY",
           "https://www.youtube.com/embed/UcXphCw_I3M",
           "https://www.youtube.com/embed/cbE-17ZT-A8",
-          "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/0ULzivPXoHw",
           "https://www.youtube.com/embed/H_vmucfDGkQ",
+          "https://www.youtube.com/embed/2u1tBjrvRe8",
+          "https://www.youtube.com/embed/OkXmBnxbZSY",
+          "https://www.youtube.com/embed/YI3t4e7ZOXw",
         ],
         references: [
           "http://ly.yishihui.net/14752.htm",
@@ -8626,8 +9424,11 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/lamIrtRAYEY",
           "https://www.youtube.com/embed/UcXphCw_I3M",
           "https://www.youtube.com/embed/cbE-17ZT-A8",
-          "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/0ULzivPXoHw",
           "https://www.youtube.com/embed/H_vmucfDGkQ",
+          "https://www.youtube.com/embed/2u1tBjrvRe8",
+          "https://www.youtube.com/embed/OkXmBnxbZSY",
+          "https://www.youtube.com/embed/YI3t4e7ZOXw",
         ],
         references: [
           "http://ly.yishihui.net/14754.htm",
@@ -8649,8 +9450,11 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/lamIrtRAYEY",
           "https://www.youtube.com/embed/UcXphCw_I3M",
           "https://www.youtube.com/embed/cbE-17ZT-A8",
-          "https://www.youtube.com/embed/keYsZ5MuUMQ",
+          "https://www.youtube.com/embed/0ULzivPXoHw",
           "https://www.youtube.com/embed/H_vmucfDGkQ",
+          "https://www.youtube.com/embed/2u1tBjrvRe8",
+          "https://www.youtube.com/embed/OkXmBnxbZSY",
+          "https://www.youtube.com/embed/YI3t4e7ZOXw",
         ],
         references: [
           "http://ly.yishihui.net/14756.htm",
@@ -8673,6 +9477,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/BlKFGi5PRT0",
           "https://www.youtube.com/embed/fG5nAgme5Yk",
           "https://www.youtube.com/embed/VbfZqz8e-bo",
+          "https://www.youtube.com/embed/D7n2TO5SyUc",
+          "https://www.youtube.com/embed/xIgYsbuAMVI",
+          "https://www.youtube.com/embed/LgA3cvJmAq8",
         ],
         references: [
           "http://ly.yishihui.net/14758.htm",
@@ -8695,6 +9502,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/BlKFGi5PRT0",
           "https://www.youtube.com/embed/fG5nAgme5Yk",
           "https://www.youtube.com/embed/VbfZqz8e-bo",
+          "https://www.youtube.com/embed/D7n2TO5SyUc",
+          "https://www.youtube.com/embed/xIgYsbuAMVI",
+          "https://www.youtube.com/embed/LgA3cvJmAq8",
         ],
         references: [
           "http://ly.yishihui.net/14760.htm",
@@ -8716,6 +9526,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/BlKFGi5PRT0",
           "https://www.youtube.com/embed/fG5nAgme5Yk",
           "https://www.youtube.com/embed/VbfZqz8e-bo",
+          "https://www.youtube.com/embed/D7n2TO5SyUc",
+          "https://www.youtube.com/embed/xIgYsbuAMVI",
+          "https://www.youtube.com/embed/LgA3cvJmAq8",
         ],
         references: [
           "http://ly.yishihui.net/14762.htm",
@@ -8737,6 +9550,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/BlKFGi5PRT0",
           "https://www.youtube.com/embed/fG5nAgme5Yk",
           "https://www.youtube.com/embed/VbfZqz8e-bo",
+          "https://www.youtube.com/embed/D7n2TO5SyUc",
+          "https://www.youtube.com/embed/xIgYsbuAMVI",
+          "https://www.youtube.com/embed/LgA3cvJmAq8",
         ],
         references: [
           "http://ly.yishihui.net/14764.htm",
@@ -8759,6 +9575,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/BlKFGi5PRT0",
           "https://www.youtube.com/embed/fG5nAgme5Yk",
           "https://www.youtube.com/embed/VbfZqz8e-bo",
+          "https://www.youtube.com/embed/D7n2TO5SyUc",
+          "https://www.youtube.com/embed/xIgYsbuAMVI",
+          "https://www.youtube.com/embed/LgA3cvJmAq8",
         ],
         references: [
           "http://ly.yishihui.net/14766.htm",
@@ -8781,6 +9600,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/BlKFGi5PRT0",
           "https://www.youtube.com/embed/fG5nAgme5Yk",
           "https://www.youtube.com/embed/VbfZqz8e-bo",
+          "https://www.youtube.com/embed/D7n2TO5SyUc",
+          "https://www.youtube.com/embed/xIgYsbuAMVI",
+          "https://www.youtube.com/embed/LgA3cvJmAq8",
         ],
         references: [
           "http://ly.yishihui.net/14768.htm",
@@ -8802,6 +9624,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/zM6pXNLUlek",
           "https://www.youtube.com/embed/hxfpH2kewwY",
           "https://www.youtube.com/embed/VMStWNiu5XM",
+          "https://www.youtube.com/embed/tNpr9ExFGpo",
+          "https://www.youtube.com/embed/fq9eyDHvZ4M",
+          "https://www.youtube.com/embed/WIRa536Tb10",
         ],
         references: [
           "http://ly.yishihui.net/14770.htm",
@@ -8824,6 +9649,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/zM6pXNLUlek",
           "https://www.youtube.com/embed/hxfpH2kewwY",
           "https://www.youtube.com/embed/VMStWNiu5XM",
+          "https://www.youtube.com/embed/tNpr9ExFGpo",
+          "https://www.youtube.com/embed/fq9eyDHvZ4M",
+          "https://www.youtube.com/embed/WIRa536Tb10",
         ],
         references: [
           "http://ly.yishihui.net/14772.htm",
@@ -8846,6 +9674,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/zM6pXNLUlek",
           "https://www.youtube.com/embed/hxfpH2kewwY",
           "https://www.youtube.com/embed/VMStWNiu5XM",
+          "https://www.youtube.com/embed/tNpr9ExFGpo",
+          "https://www.youtube.com/embed/fq9eyDHvZ4M",
+          "https://www.youtube.com/embed/WIRa536Tb10",
         ],
         references: [
           "http://ly.yishihui.net/14774.htm",
@@ -8868,6 +9699,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/zM6pXNLUlek",
           "https://www.youtube.com/embed/hxfpH2kewwY",
           "https://www.youtube.com/embed/VMStWNiu5XM",
+          "https://www.youtube.com/embed/tNpr9ExFGpo",
+          "https://www.youtube.com/embed/fq9eyDHvZ4M",
+          "https://www.youtube.com/embed/WIRa536Tb10",
         ],
         references: [
           "http://ly.yishihui.net/14776.htm",
@@ -8890,6 +9724,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/zM6pXNLUlek",
           "https://www.youtube.com/embed/hxfpH2kewwY",
           "https://www.youtube.com/embed/VMStWNiu5XM",
+          "https://www.youtube.com/embed/tNpr9ExFGpo",
+          "https://www.youtube.com/embed/fq9eyDHvZ4M",
+          "https://www.youtube.com/embed/WIRa536Tb10",
         ],
         references: [
           "http://ly.yishihui.net/14778.htm",
@@ -8912,6 +9749,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/zM6pXNLUlek",
           "https://www.youtube.com/embed/hxfpH2kewwY",
           "https://www.youtube.com/embed/VMStWNiu5XM",
+          "https://www.youtube.com/embed/tNpr9ExFGpo",
+          "https://www.youtube.com/embed/fq9eyDHvZ4M",
+          "https://www.youtube.com/embed/WIRa536Tb10",
         ],
         references: [
           "http://ly.yishihui.net/14780.htm",
@@ -8934,6 +9774,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/dKSdXEdq4BA",
           "https://www.youtube.com/embed/2n_9jQAWy6Y",
           "https://www.youtube.com/embed/Rgoqogkxswc",
+          "https://www.youtube.com/embed/rWt8Bm1IesQ",
+          "https://www.youtube.com/embed/zXUbRb_wCJU",
+          "https://www.youtube.com/embed/MYiOvvMoI_E",
         ],
         references: [
           "http://ly.yishihui.net/15004.htm",
@@ -8956,6 +9799,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/dKSdXEdq4BA",
           "https://www.youtube.com/embed/2n_9jQAWy6Y",
           "https://www.youtube.com/embed/Rgoqogkxswc",
+          "https://www.youtube.com/embed/rWt8Bm1IesQ",
+          "https://www.youtube.com/embed/zXUbRb_wCJU",
+          "https://www.youtube.com/embed/MYiOvvMoI_E",
         ],
         references: [
           "http://ly.yishihui.net/15006.htm",
@@ -8978,6 +9824,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/dKSdXEdq4BA",
           "https://www.youtube.com/embed/2n_9jQAWy6Y",
           "https://www.youtube.com/embed/Rgoqogkxswc",
+          "https://www.youtube.com/embed/rWt8Bm1IesQ",
+          "https://www.youtube.com/embed/zXUbRb_wCJU",
+          "https://www.youtube.com/embed/MYiOvvMoI_E",
         ],
         references: [
           "http://ly.yishihui.net/15008.htm",
@@ -9001,6 +9850,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/dKSdXEdq4BA",
           "https://www.youtube.com/embed/2n_9jQAWy6Y",
           "https://www.youtube.com/embed/Rgoqogkxswc",
+          "https://www.youtube.com/embed/rWt8Bm1IesQ",
+          "https://www.youtube.com/embed/zXUbRb_wCJU",
+          "https://www.youtube.com/embed/MYiOvvMoI_E",
         ],
         references: [
           "http://ly.yishihui.net/15010.htm",
@@ -9023,6 +9875,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/dKSdXEdq4BA",
           "https://www.youtube.com/embed/2n_9jQAWy6Y",
           "https://www.youtube.com/embed/Rgoqogkxswc",
+          "https://www.youtube.com/embed/rWt8Bm1IesQ",
+          "https://www.youtube.com/embed/zXUbRb_wCJU",
+          "https://www.youtube.com/embed/MYiOvvMoI_E",
         ],
         references: [
           "http://ly.yishihui.net/15012.htm",
@@ -9045,6 +9900,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/dKSdXEdq4BA",
           "https://www.youtube.com/embed/2n_9jQAWy6Y",
           "https://www.youtube.com/embed/Rgoqogkxswc",
+          "https://www.youtube.com/embed/rWt8Bm1IesQ",
+          "https://www.youtube.com/embed/zXUbRb_wCJU",
+          "https://www.youtube.com/embed/MYiOvvMoI_E",
         ],
         references: [
           "http://ly.yishihui.net/15014.htm",
@@ -9067,6 +9925,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Py3wTKMIcHc",
           "https://www.youtube.com/embed/FhbSWcXMUuI",
           "https://www.youtube.com/embed/uH_MvQwtr6E",
+          "https://www.youtube.com/embed/ENadRGWTifk",
+          "https://www.youtube.com/embed/NV4gr_z0NKg",
+          "https://www.youtube.com/embed/64Cjtl5h26A",
         ],
         references: [
           "http://ly.yishihui.net/15016.htm",
@@ -9089,6 +9950,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Py3wTKMIcHc",
           "https://www.youtube.com/embed/FhbSWcXMUuI",
           "https://www.youtube.com/embed/uH_MvQwtr6E",
+          "https://www.youtube.com/embed/ENadRGWTifk",
+          "https://www.youtube.com/embed/NV4gr_z0NKg",
+          "https://www.youtube.com/embed/64Cjtl5h26A",
         ],
         references: [
           "http://ly.yishihui.net/15018.htm",
@@ -9111,6 +9975,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Py3wTKMIcHc",
           "https://www.youtube.com/embed/FhbSWcXMUuI",
           "https://www.youtube.com/embed/uH_MvQwtr6E",
+          "https://www.youtube.com/embed/ENadRGWTifk",
+          "https://www.youtube.com/embed/NV4gr_z0NKg",
+          "https://www.youtube.com/embed/64Cjtl5h26A",
         ],
         references: [
           "http://ly.yishihui.net/15020.htm",
@@ -9133,6 +10000,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Py3wTKMIcHc",
           "https://www.youtube.com/embed/FhbSWcXMUuI",
           "https://www.youtube.com/embed/uH_MvQwtr6E",
+          "https://www.youtube.com/embed/ENadRGWTifk",
+          "https://www.youtube.com/embed/NV4gr_z0NKg",
+          "https://www.youtube.com/embed/64Cjtl5h26A",
         ],
         references: [
           "http://ly.yishihui.net/15020.htm",
@@ -9155,6 +10025,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Py3wTKMIcHc",
           "https://www.youtube.com/embed/FhbSWcXMUuI",
           "https://www.youtube.com/embed/uH_MvQwtr6E",
+          "https://www.youtube.com/embed/ENadRGWTifk",
+          "https://www.youtube.com/embed/NV4gr_z0NKg",
+          "https://www.youtube.com/embed/64Cjtl5h26A",
         ],
         references: [
           "http://ly.yishihui.net/15024.htm",
@@ -9177,6 +10050,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/Py3wTKMIcHc",
           "https://www.youtube.com/embed/FhbSWcXMUuI",
           "https://www.youtube.com/embed/uH_MvQwtr6E",
+          "https://www.youtube.com/embed/ENadRGWTifk",
+          "https://www.youtube.com/embed/NV4gr_z0NKg",
+          "https://www.youtube.com/embed/64Cjtl5h26A",
         ],
         references: [
           "http://ly.yishihui.net/15026.htm",
@@ -9199,6 +10075,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKLSFWvJtYw",
           "https://www.youtube.com/embed/t1SZqaWftGE",
           "https://www.youtube.com/embed/SZujgAxVHa4",
+          "https://www.youtube.com/embed/wkscTFJ8U7Q",
+          "https://www.youtube.com/embed/RnGVAUKTH-U",
+          "https://www.youtube.com/embed/WIbpS8BdAu8",
         ],
         references: [
           "http://ly.yishihui.net/15028.htm",
@@ -9221,6 +10100,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKLSFWvJtYw",
           "https://www.youtube.com/embed/t1SZqaWftGE",
           "https://www.youtube.com/embed/SZujgAxVHa4",
+          "https://www.youtube.com/embed/wkscTFJ8U7Q",
+          "https://www.youtube.com/embed/RnGVAUKTH-U",
+          "https://www.youtube.com/embed/WIbpS8BdAu8",
         ],
         references: [
           "http://ly.yishihui.net/15030.htm",
@@ -9244,6 +10126,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKLSFWvJtYw",
           "https://www.youtube.com/embed/t1SZqaWftGE",
           "https://www.youtube.com/embed/SZujgAxVHa4",
+          "https://www.youtube.com/embed/wkscTFJ8U7Q",
+          "https://www.youtube.com/embed/RnGVAUKTH-U",
+          "https://www.youtube.com/embed/WIbpS8BdAu8",
         ],
         references: [
           "http://ly.yishihui.net/15032.htm",
@@ -9266,6 +10151,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKLSFWvJtYw",
           "https://www.youtube.com/embed/t1SZqaWftGE",
           "https://www.youtube.com/embed/SZujgAxVHa4",
+          "https://www.youtube.com/embed/wkscTFJ8U7Q",
+          "https://www.youtube.com/embed/RnGVAUKTH-U",
+          "https://www.youtube.com/embed/WIbpS8BdAu8",
         ],
         references: [
           "http://ly.yishihui.net/15040.htm",
@@ -9288,6 +10176,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKLSFWvJtYw",
           "https://www.youtube.com/embed/t1SZqaWftGE",
           "https://www.youtube.com/embed/SZujgAxVHa4",
+          "https://www.youtube.com/embed/wkscTFJ8U7Q",
+          "https://www.youtube.com/embed/RnGVAUKTH-U",
+          "https://www.youtube.com/embed/WIbpS8BdAu8",
         ],
         references: [
           "http://ly.yishihui.net/15042.htm",
@@ -9310,6 +10201,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/nKLSFWvJtYw",
           "https://www.youtube.com/embed/t1SZqaWftGE",
           "https://www.youtube.com/embed/SZujgAxVHa4",
+          "https://www.youtube.com/embed/wkscTFJ8U7Q",
+          "https://www.youtube.com/embed/RnGVAUKTH-U",
+          "https://www.youtube.com/embed/WIbpS8BdAu8",
         ],
         references: [
           "http://ly.yishihui.net/15044.htm",
@@ -9332,6 +10226,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/OszKEA2ejWE",
           "https://www.youtube.com/embed/zFJ3KHXKkV4",
           "https://www.youtube.com/embed/fmfoGMdcksg",
+          "https://www.youtube.com/embed/LUHpFaMqwoc",
+          "https://www.youtube.com/embed/pyFyIB2sxaU",
+          "https://www.youtube.com/embed/UJgL5AI5fWA",
         ],
         references: [
           "http://ly.yishihui.net/15110.htm",
@@ -9354,6 +10251,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/OszKEA2ejWE",
           "https://www.youtube.com/embed/zFJ3KHXKkV4",
           "https://www.youtube.com/embed/fmfoGMdcksg",
+          "https://www.youtube.com/embed/LUHpFaMqwoc",
+          "https://www.youtube.com/embed/pyFyIB2sxaU",
+          "https://www.youtube.com/embed/UJgL5AI5fWA",
         ],
         references: [
           "http://ly.yishihui.net/15112.htm",
@@ -9376,6 +10276,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/OszKEA2ejWE",
           "https://www.youtube.com/embed/zFJ3KHXKkV4",
           "https://www.youtube.com/embed/fmfoGMdcksg",
+          "https://www.youtube.com/embed/LUHpFaMqwoc",
+          "https://www.youtube.com/embed/pyFyIB2sxaU",
+          "https://www.youtube.com/embed/UJgL5AI5fWA",
         ],
         references: [
           "http://ly.yishihui.net/15114.htm",
@@ -9399,6 +10302,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/OszKEA2ejWE",
           "https://www.youtube.com/embed/zFJ3KHXKkV4",
           "https://www.youtube.com/embed/fmfoGMdcksg",
+          "https://www.youtube.com/embed/LUHpFaMqwoc",
+          "https://www.youtube.com/embed/pyFyIB2sxaU",
+          "https://www.youtube.com/embed/UJgL5AI5fWA",
         ],
         references: [
           "http://ly.yishihui.net/15116.htm",
@@ -9422,6 +10328,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/OszKEA2ejWE",
           "https://www.youtube.com/embed/zFJ3KHXKkV4",
           "https://www.youtube.com/embed/fmfoGMdcksg",
+          "https://www.youtube.com/embed/LUHpFaMqwoc",
+          "https://www.youtube.com/embed/pyFyIB2sxaU",
+          "https://www.youtube.com/embed/UJgL5AI5fWA",
         ],
         references: [
           "http://ly.yishihui.net/15118.htm",
@@ -9444,6 +10353,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/OszKEA2ejWE",
           "https://www.youtube.com/embed/zFJ3KHXKkV4",
           "https://www.youtube.com/embed/fmfoGMdcksg",
+          "https://www.youtube.com/embed/LUHpFaMqwoc",
+          "https://www.youtube.com/embed/pyFyIB2sxaU",
+          "https://www.youtube.com/embed/UJgL5AI5fWA",
         ],
         references: [
           "http://ly.yishihui.net/15120.htm",
@@ -9466,6 +10378,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/reEVi7I_SFg",
           "https://www.youtube.com/embed/1ZZ6ACcAm7w",
           "https://www.youtube.com/embed/gtTKKP_ueq0",
+          "https://www.youtube.com/embed/Y-Kw9qZiIbg",
+          "https://www.youtube.com/embed/lvyWnId8IYs",
+          "https://www.youtube.com/embed/jsN2SiiPjaw",
         ],
         references: [
           "http://ly.yishihui.net/15122.htm",
@@ -9488,6 +10403,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/reEVi7I_SFg",
           "https://www.youtube.com/embed/1ZZ6ACcAm7w",
           "https://www.youtube.com/embed/gtTKKP_ueq0",
+          "https://www.youtube.com/embed/Y-Kw9qZiIbg",
+          "https://www.youtube.com/embed/lvyWnId8IYs",
+          "https://www.youtube.com/embed/jsN2SiiPjaw",
         ],
         references: [
           "http://ly.yishihui.net/15124.htm",
@@ -9510,6 +10428,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/reEVi7I_SFg",
           "https://www.youtube.com/embed/1ZZ6ACcAm7w",
           "https://www.youtube.com/embed/gtTKKP_ueq0",
+          "https://www.youtube.com/embed/Y-Kw9qZiIbg",
+          "https://www.youtube.com/embed/lvyWnId8IYs",
+          "https://www.youtube.com/embed/jsN2SiiPjaw",
         ],
         references: [
           "http://ly.yishihui.net/15126.htm",
@@ -9532,6 +10453,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/reEVi7I_SFg",
           "https://www.youtube.com/embed/1ZZ6ACcAm7w",
           "https://www.youtube.com/embed/gtTKKP_ueq0",
+          "https://www.youtube.com/embed/Y-Kw9qZiIbg",
+          "https://www.youtube.com/embed/lvyWnId8IYs",
+          "https://www.youtube.com/embed/jsN2SiiPjaw",
         ],
         references: [
           "http://ly.yishihui.net/15128.htm",
@@ -9555,6 +10479,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/reEVi7I_SFg",
           "https://www.youtube.com/embed/1ZZ6ACcAm7w",
           "https://www.youtube.com/embed/gtTKKP_ueq0",
+          "https://www.youtube.com/embed/Y-Kw9qZiIbg",
+          "https://www.youtube.com/embed/lvyWnId8IYs",
+          "https://www.youtube.com/embed/jsN2SiiPjaw",
         ],
         references: [
           "http://ly.yishihui.net/15130.htm",
@@ -9577,6 +10504,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/reEVi7I_SFg",
           "https://www.youtube.com/embed/1ZZ6ACcAm7w",
           "https://www.youtube.com/embed/gtTKKP_ueq0",
+          "https://www.youtube.com/embed/Y-Kw9qZiIbg",
+          "https://www.youtube.com/embed/lvyWnId8IYs",
+          "https://www.youtube.com/embed/jsN2SiiPjaw",
         ],
         references: [
           "http://ly.yishihui.net/15132.htm",
@@ -9599,6 +10529,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/AHgwSWKJAYw",
           "https://www.youtube.com/embed/eDVqKc-OjJE",
           "https://www.youtube.com/embed/wRODgEp1AeU",
+          "https://www.youtube.com/embed/-kmEgzG9HCs",
+          "https://www.youtube.com/embed/ypxy1F57_mM",
+          "https://www.youtube.com/embed/-6TlBeNe4dc",
         ],
         references: [
           "http://ly.yishihui.net/15134.htm",
@@ -9621,6 +10554,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/AHgwSWKJAYw",
           "https://www.youtube.com/embed/eDVqKc-OjJE",
           "https://www.youtube.com/embed/wRODgEp1AeU",
+          "https://www.youtube.com/embed/-kmEgzG9HCs",
+          "https://www.youtube.com/embed/ypxy1F57_mM",
+          "https://www.youtube.com/embed/-6TlBeNe4dc",
         ],
         references: [
           "http://ly.yishihui.net/15136.htm",
@@ -9643,6 +10579,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/AHgwSWKJAYw",
           "https://www.youtube.com/embed/eDVqKc-OjJE",
           "https://www.youtube.com/embed/wRODgEp1AeU",
+          "https://www.youtube.com/embed/-kmEgzG9HCs",
+          "https://www.youtube.com/embed/ypxy1F57_mM",
+          "https://www.youtube.com/embed/-6TlBeNe4dc",
         ],
         references: [
           "http://ly.yishihui.net/15138.htm",
@@ -9665,6 +10604,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/AHgwSWKJAYw",
           "https://www.youtube.com/embed/eDVqKc-OjJE",
           "https://www.youtube.com/embed/wRODgEp1AeU",
+          "https://www.youtube.com/embed/-kmEgzG9HCs",
+          "https://www.youtube.com/embed/ypxy1F57_mM",
+          "https://www.youtube.com/embed/-6TlBeNe4dc",
         ],
         references: [
           "http://ly.yishihui.net/15140.htm",
@@ -9687,6 +10629,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/AHgwSWKJAYw",
           "https://www.youtube.com/embed/eDVqKc-OjJE",
           "https://www.youtube.com/embed/wRODgEp1AeU",
+          "https://www.youtube.com/embed/-kmEgzG9HCs",
+          "https://www.youtube.com/embed/ypxy1F57_mM",
+          "https://www.youtube.com/embed/-6TlBeNe4dc",
         ],
         references: [
           "http://ly.yishihui.net/15142.htm",
@@ -9709,6 +10654,9 @@ function answers(guaYao) {
           "https://www.youtube.com/embed/AHgwSWKJAYw",
           "https://www.youtube.com/embed/eDVqKc-OjJE",
           "https://www.youtube.com/embed/wRODgEp1AeU",
+          "https://www.youtube.com/embed/-kmEgzG9HCs",
+          "https://www.youtube.com/embed/ypxy1F57_mM",
+          "https://www.youtube.com/embed/-6TlBeNe4dc",
         ],
         references: [
           "http://ly.yishihui.net/15144.htm",
