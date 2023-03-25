@@ -6,6 +6,11 @@
 npm run dev
 ```
 
+### To be updated
+
+- Icon for different results
+- English version (Simple version for beta)
+
 ### References
 
 (1). <a href="https://discordjs.guide/popular-topics/builders.html#basic-markdown" target="_blank">Discord builders</a>

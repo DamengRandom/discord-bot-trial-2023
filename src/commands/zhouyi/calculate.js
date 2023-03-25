@@ -19,7 +19,7 @@ function request(data) {
 
   // convert gua & yao to one of 64 varients
   const gua = allGuas(`${shangGua}-${xiaGua}`);
-  const yao = allYaos(gua)?.[yaoCi];
+  const yao = allYaos(gua)?.[yaoCi - 1];
 
   // release final result answer
   // const finalResult = answer(`${gua}${yao}`); // single result

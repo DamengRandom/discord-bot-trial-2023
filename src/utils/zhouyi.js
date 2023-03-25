@@ -1,5 +1,7 @@
 function convertToGua(number) {
   switch (number) {
+    case 0:
+      return "land";
     case 1:
       return "sky";
     case 2:
@@ -21,6 +23,8 @@ function convertToGua(number) {
 
 function convertToYao(number) {
   switch (number) {
+    case 0:
+      return 6;
     case 1:
       return 1;
     case 2:
