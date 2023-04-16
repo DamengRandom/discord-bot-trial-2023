@@ -15,11 +15,11 @@ function request(data) {
   // calculate the gua & yao
   const xiaGua = convertToGua(data["xia"] % 8);
   const shangGua = convertToGua(data["shang"] % 8);
-  const yaoCi = convertToYao(data["yao"] % 6);
+  const theYao = convertToYao(data["yao"] % 6);
 
   // convert gua & yao to one of 64 varients
   const gua = allGuas(`${shangGua}-${xiaGua}`);
-  const yao = allYaos(gua)?.[yaoCi - 1];
+  const yao = allYaos(gua)?.[theYao - 1];
 
   // release final result answer
   // const finalResult = answer(`${gua}${yao}`); // single result
@@ -79,16 +79,16 @@ module.exports = {
           value: `${result.gua}`,
         },
         {
-          name: "爻辞",
+          name: "爻位",
           value: `${result.yao}`,
         },
         {
-          name: "大象",
-          value: `${result.daXiang}`,
+          name: "卦辞",
+          value: `${result.guaCi}`,
         },
         {
-          name: "小象",
-          value: `${result.xiaoXiang}`,
+          name: "爻辞",
+          value: `${result.yaoCi}`,
         },
         {
           name: "原文",

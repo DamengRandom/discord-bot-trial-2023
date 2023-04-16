@@ -40,8 +40,8 @@ function convertToYao(number) {
   }
 }
 
-function allGuas(guaCi) {
-  switch (guaCi) {
+function allGuas(result) {
+  switch (result) {
     case "sky-sky":
       return "乾";
     case "land-land":
@@ -1154,9 +1154,9 @@ function answers(guaYao) {
     case "乾初九":
       return {
         gua: "乾",
-        daXiang: "元, 亨, 利, 贞.",
+        guaCi: "元, 亨, 利, 贞.",
         yao: "初九",
-        xiaoXiang: "潜龙勿用, 阳在下也.",
+        yaoCi: "潜龙勿用, 阳在下也.",
         origin: "潜龙勿用.",
         meaning: "潜藏的龙在深渊 暂时无法施展",
         videoUrls: [
@@ -1184,9 +1184,9 @@ function answers(guaYao) {
     case "乾九二":
       return {
         gua: "乾",
-        daXiang: "元, 亨, 利, 贞.",
+        guaCi: "元, 亨, 利, 贞.",
         yao: "九二",
-        xiaoXiang: "见龙在田, 德施普也.",
+        yaoCi: "见龙在田, 德施普也.",
         origin: "见龙在田, 利见大人.",
         meaning: "龙正在走出低谷 运用德行寻求机会 有利于大才大德的是出世",
         videoUrls: [
@@ -1214,9 +1214,9 @@ function answers(guaYao) {
     case "乾九三":
       return {
         gua: "乾",
-        daXiang: "元, 亨, 利, 贞.",
+        guaCi: "元, 亨, 利, 贞.",
         yao: "九三",
-        xiaoXiang: "终日乾乾, 反复道也.",
+        yaoCi: "终日乾乾, 反复道也.",
         origin: "君子终日乾乾, 夕惕若; 厉, 无咎.",
         meaning: "龙虽处境艰难 但坚持不懈 不断努力 即使遇到危险 也可避祸",
         videoUrls: [
@@ -1244,9 +1244,9 @@ function answers(guaYao) {
     case "乾九四":
       return {
         gua: "乾",
-        daXiang: "元, 亨, 利, 贞.",
+        guaCi: "元, 亨, 利, 贞.",
         yao: "九四",
-        xiaoXiang: "或跃在渊, 进无咎也.",
+        yaoCi: "或跃在渊, 进无咎也.",
         origin: "或跃在渊, 无咎.",
         meaning: "龙跳进深渊 伺机而动 没有灾难 时而上跃 时而潜退",
         videoUrls: [
@@ -1274,9 +1274,9 @@ function answers(guaYao) {
     case "乾九五":
       return {
         gua: "乾",
-        daXiang: "元, 亨, 利, 贞.",
+        guaCi: "元, 亨, 利, 贞.",
         yao: "九五",
-        xiaoXiang: "飞龙在天, 大人造也.",
+        yaoCi: "飞龙在天, 大人造也.",
         origin: "飞龙在天, 利见大人.",
         meaning: "龙在天空中飞 大有所为",
         videoUrls: [
@@ -1304,9 +1304,9 @@ function answers(guaYao) {
     case "乾上九":
       return {
         gua: "乾",
-        daXiang: "元, 亨, 利, 贞.",
+        guaCi: "元, 亨, 利, 贞.",
         yao: "上九",
-        xiaoXiang: "亢龙有悔, 盈不可久也.",
+        yaoCi: "亢龙有悔, 盈不可久也.",
         origin: "亢龙有悔.",
         meaning: "升腾到极限的龙 会有灾祸之困",
         videoUrls: [
@@ -1334,10 +1334,10 @@ function answers(guaYao) {
     case "坤初六":
       return {
         gua: "坤",
-        daXiang:
+        guaCi:
           "元亨, 利牝马之贞. 君子有攸往, 先迷后得主. 利西南得朋, 东北丧朋. 安贞吉.",
         yao: "初六",
-        xiaoXiang: "履霜坚冰, 阴始凝也. 驯致其道, 至坚冰也.",
+        yaoCi: "履霜坚冰, 阴始凝也. 驯致其道, 至坚冰也.",
         origin: "履霜, 坚冰至.",
         meaning: "阴冷天气逐渐形成 要遵循规律向前推进 寒冬将至",
         videoUrls: [
@@ -1362,10 +1362,10 @@ function answers(guaYao) {
     case "坤六二":
       return {
         gua: "坤",
-        daXiang:
+        guaCi:
           "元亨, 利牝马之贞. 君子有攸往, 先迷后得主. 利西南得朋, 东北丧朋. 安贞吉.",
         yao: "六二",
-        xiaoXiang: "六二之动, 直以方也. 不习, 无不利, 地道光也.",
+        yaoCi: "六二之动, 直以方也. 不习, 无不利, 地道光也.",
         origin: "直方大, 不习, 无不利.",
         meaning:
           "有了 正直 端方 大气 的品德 即使不学习也没有什么坏处 说明美德充沛 行为不必有疑虑",
@@ -1392,10 +1392,10 @@ function answers(guaYao) {
     case "坤六三":
       return {
         gua: "坤",
-        daXiang:
+        guaCi:
           "元亨, 利牝马之贞. 君子有攸往, 先迷后得主. 利西南得朋, 东北丧朋. 安贞吉.",
         yao: "六三",
-        xiaoXiang: "含章可贞; 以时发也. 或从王事, 知光大也.",
+        yaoCi: "含章可贞; 以时发也. 或从王事, 知光大也.",
         origin: "含章可贞. 或从王事, 无成有终.",
         meaning: "具备美好品德 可以正固 事情起初无所发展 但最后有好的结果",
         videoUrls: [
@@ -1420,10 +1420,10 @@ function answers(guaYao) {
     case "坤六四":
       return {
         gua: "坤",
-        daXiang:
+        guaCi:
           "元亨, 利牝马之贞. 君子有攸往, 先迷后得主. 利西南得朋, 东北丧朋. 安贞吉.",
         yao: "六四",
-        xiaoXiang: "括囊无咎, 慎不害也.",
+        yaoCi: "括囊无咎, 慎不害也.",
         origin: "括囊, 无咎, 无誉.",
         meaning: "谨言慎行 就会避免灾祸",
         videoUrls: [
@@ -1448,10 +1448,10 @@ function answers(guaYao) {
     case "坤六五":
       return {
         gua: "坤",
-        daXiang:
+        guaCi:
           "元亨, 利牝马之贞. 君子有攸往, 先迷后得主. 利西南得朋, 东北丧朋. 安贞吉.",
         yao: "六五",
-        xiaoXiang: "黄裳元吉, 文在中也.",
+        yaoCi: "黄裳元吉, 文在中也.",
         origin: "黄裳, 元吉.",
         meaning: "穿着黄色的裙裳 大吉大利",
         videoUrls: [
@@ -1476,10 +1476,10 @@ function answers(guaYao) {
     case "坤上六":
       return {
         gua: "坤",
-        daXiang:
+        guaCi:
           "元亨, 利牝马之贞. 君子有攸往, 先迷后得主. 利西南得朋, 东北丧朋. 安贞吉.",
         yao: "上六",
-        xiaoXiang: "龙战于野, 其道穷也.",
+        yaoCi: "龙战于野, 其道穷也.",
         origin: "龙战于野, 其血玄黄.",
         meaning: "龙在野外发生战斗 天玄地黄 龙血在天空中是黑色在地上的血为黄色",
         videoUrls: [
@@ -1505,9 +1505,9 @@ function answers(guaYao) {
     case "屯初九":
       return {
         gua: "屯",
-        daXiang: "元亨利贞. 勿用有攸往, 利建侯.",
+        guaCi: "元亨利贞. 勿用有攸往, 利建侯.",
         yao: "初九",
-        xiaoXiang: "虽磐桓, 志行正也. 以贵下贱, 大得民也.",
+        yaoCi: "虽磐桓, 志行正也. 以贵下贱, 大得民也.",
         origin: "盘桓, 利居贞, 利建侯.",
         meaning: "虽然徘徊难进 但志行贞正 可坚持以退为进的策略",
         videoUrls: [
@@ -1529,9 +1529,9 @@ function answers(guaYao) {
     case "屯六二":
       return {
         gua: "屯",
-        daXiang: "元亨利贞. 勿用有攸往, 利建侯.",
+        guaCi: "元亨利贞. 勿用有攸往, 利建侯.",
         yao: "六二",
-        xiaoXiang: "六二之难, 乘刚也. 十年乃字, 反常也.",
+        yaoCi: "六二之难, 乘刚也. 十年乃字, 反常也.",
         origin: "屯如邅如, 乘马班如. 匪寇婚媾, 女子贞不字, 十年乃字.",
         meaning: "首次出行 徘徊难进 女性十年才能孕育 前进艰难 现象较为反常",
         videoUrls: [
@@ -1553,9 +1553,9 @@ function answers(guaYao) {
     case "屯六三":
       return {
         gua: "屯",
-        daXiang: "元亨利贞. 勿用有攸往, 利建侯.",
+        guaCi: "元亨利贞. 勿用有攸往, 利建侯.",
         yao: "六三",
-        xiaoXiang: "既鹿无虞, 以纵禽也. 君子舍之, 往吝, 穷也.",
+        yaoCi: "既鹿无虞, 以纵禽也. 君子舍之, 往吝, 穷也.",
         origin: "即鹿无虞, 惟入于林中. 君子几不如舍. 往吝.",
         meaning: "放弃前行 若一意孤行 会有灾祸",
         videoUrls: [
@@ -1577,9 +1577,9 @@ function answers(guaYao) {
     case "屯六四":
       return {
         gua: "屯",
-        daXiang: "元亨利贞. 勿用有攸往, 利建侯.",
+        guaCi: "元亨利贞. 勿用有攸往, 利建侯.",
         yao: "六四",
-        xiaoXiang: "求而往, 明也.",
+        yaoCi: "求而往, 明也.",
         origin: "乘马班如, 求婚媾, 往吉, 无不利.",
         meaning: "乘马的人纷纷而来 有婚配的欲求 会心想事成",
         videoUrls: [
@@ -1601,9 +1601,9 @@ function answers(guaYao) {
     case "屯九五":
       return {
         gua: "屯",
-        daXiang: "元亨利贞. 勿用有攸往, 利建侯.",
+        guaCi: "元亨利贞. 勿用有攸往, 利建侯.",
         yao: "九五",
-        xiaoXiang: "屯其膏, 施未光也.",
+        yaoCi: "屯其膏, 施未光也.",
         origin: "屯其膏, 小贞吉, 大贞凶.",
         meaning: "囤积资源 少囤积有利 过度囤积会有灾祸",
         videoUrls: [
@@ -1625,9 +1625,9 @@ function answers(guaYao) {
     case "屯上六":
       return {
         gua: "屯",
-        daXiang: "元亨利贞. 勿用有攸往, 利建侯.",
+        guaCi: "元亨利贞. 勿用有攸往, 利建侯.",
         yao: "上六",
-        xiaoXiang: "泣血涟如, 何可长也.",
+        yaoCi: "泣血涟如, 何可长也.",
         origin: "乘马班如, 泣血涟如.",
         meaning: "乘马的人纷纷而来 悲伤悲痛的情况发生",
         videoUrls: [
@@ -1649,9 +1649,9 @@ function answers(guaYao) {
     case "蒙初六":
       return {
         gua: "蒙",
-        daXiang: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
         yao: "初六",
-        xiaoXiang: "利用刑人, 以正法也.",
+        yaoCi: "利用刑人, 以正法也.",
         origin: "发蒙, 利用刑人, 用说桎梏; 以往吝.",
         meaning:
           "愚昧的初期 有利于用刑法惩治坏人 并且给冤屈者脱去枷锁 如果不专心学习去做事 将会带来困境",
@@ -1675,9 +1675,9 @@ function answers(guaYao) {
     case "蒙九二":
       return {
         gua: "蒙",
-        daXiang: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
         yao: "九二",
-        xiaoXiang: "子克家, 刚柔接也.",
+        yaoCi: "子克家, 刚柔接也.",
         origin: "包蒙吉. 纳妇吉. 子克家.",
         meaning: "包容愚昧 娶妻吉祥 儿子可以持家了",
         videoUrls: [
@@ -1699,9 +1699,9 @@ function answers(guaYao) {
     case "蒙六三":
       return {
         gua: "蒙",
-        daXiang: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
         yao: "六三",
-        xiaoXiang: "勿用娶女, 行不顺也.",
+        yaoCi: "勿用娶女, 行不顺也.",
         origin: "勿用娶女, 见金夫, 不有躬. 无攸利.",
         meaning:
           "不适合娶这个女人为妻 因为此女子会遇男色而失身 这种行为不好导致不适合结婚 结果也不会好",
@@ -1725,9 +1725,9 @@ function answers(guaYao) {
     case "蒙六四":
       return {
         gua: "蒙",
-        daXiang: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
         yao: "六四",
-        xiaoXiang: "困蒙之吝, 独远实也.",
+        yaoCi: "困蒙之吝, 独远实也.",
         origin: "困蒙, 吝.",
         meaning: "被蒙昧无知的人所困惑 最终会有灾难",
         videoUrls: [
@@ -1750,9 +1750,9 @@ function answers(guaYao) {
     case "蒙六五":
       return {
         gua: "蒙",
-        daXiang: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
         yao: "六五",
-        xiaoXiang: "童蒙之吉, 顺以巽也.",
+        yaoCi: "童蒙之吉, 顺以巽也.",
         origin: "童蒙, 吉.",
         meaning: "愚昧无知的人接受启发 吉兆",
         videoUrls: [
@@ -1775,9 +1775,9 @@ function answers(guaYao) {
     case "蒙上九":
       return {
         gua: "蒙",
-        daXiang: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
         yao: "上九",
-        xiaoXiang: "利用御寇, 上下顺也.",
+        yaoCi: "利用御寇, 上下顺也.",
         origin: "击蒙. 不利为寇, 利御寇.",
         meaning: "打击愚昧无知的人 不利于做贼寇 有利于防御贼寇",
         videoUrls: [
@@ -1800,9 +1800,9 @@ function answers(guaYao) {
     case "需初九":
       return {
         gua: "需",
-        daXiang: "有孚, 光亨, 贞吉. 利涉大川.",
+        guaCi: "有孚, 光亨, 贞吉. 利涉大川.",
         yao: "初九",
-        xiaoXiang: "需于郊, 不犯难行也. 利用恒, 无咎; 未失常也.",
+        yaoCi: "需于郊, 不犯难行也. 利用恒, 无咎; 未失常也.",
         origin: "需于郊, 利用恒, 无咎.",
         meaning: "在郊野中等待 适宜持之以恒 可避免灾祸",
         videoUrls: [
@@ -1824,9 +1824,9 @@ function answers(guaYao) {
     case "需九二":
       return {
         gua: "需",
-        daXiang: "有孚, 光亨, 贞吉. 利涉大川.",
+        guaCi: "有孚, 光亨, 贞吉. 利涉大川.",
         yao: "九二",
-        xiaoXiang: "需于沙, 衍在中也. 虽小有言, 以终吉也.",
+        yaoCi: "需于沙, 衍在中也. 虽小有言, 以终吉也.",
         origin: "需于沙, 小有言, 终吉.",
         meaning: "身处沙地 虽然早到校人的责难 但最终是吉利的",
         videoUrls: [
@@ -1848,9 +1848,9 @@ function answers(guaYao) {
     case "需九三":
       return {
         gua: "需",
-        daXiang: "有孚, 光亨, 贞吉. 利涉大川.",
+        guaCi: "有孚, 光亨, 贞吉. 利涉大川.",
         yao: "九三",
-        xiaoXiang: "需于泥, 灾在外也. 自我致寇, 敬慎不败也.",
+        yaoCi: "需于泥, 灾在外也. 自我致寇, 敬慎不败也.",
         origin: "需于泥, 致寇至.",
         meaning: "在泥泞中行走 招致贼寇前来",
         videoUrls: [
@@ -1872,9 +1872,9 @@ function answers(guaYao) {
     case "需六四":
       return {
         gua: "需",
-        daXiang: "有孚, 光亨, 贞吉. 利涉大川.",
+        guaCi: "有孚, 光亨, 贞吉. 利涉大川.",
         yao: "六四",
-        xiaoXiang: "需于血, 顺以听也.",
+        yaoCi: "需于血, 顺以听也.",
         origin: "需于血, 出自穴.",
         meaning: "身处血泊中 需要尽快逃离险境",
         videoUrls: [
@@ -1896,9 +1896,9 @@ function answers(guaYao) {
     case "需九五":
       return {
         gua: "需",
-        daXiang: "有孚, 光亨, 贞吉. 利涉大川.",
+        guaCi: "有孚, 光亨, 贞吉. 利涉大川.",
         yao: "九五",
-        xiaoXiang: "酒食贞吉, 以中正也.",
+        yaoCi: "酒食贞吉, 以中正也.",
         origin: "需于酒食, 贞吉.",
         meaning: "在享用酒食中等待 正固吉祥",
         videoUrls: [
@@ -1920,9 +1920,9 @@ function answers(guaYao) {
     case "需上六":
       return {
         gua: "需",
-        daXiang: "有孚, 光亨, 贞吉. 利涉大川.",
+        guaCi: "有孚, 光亨, 贞吉. 利涉大川.",
         yao: "上六",
-        xiaoXiang: "不速之客来, 敬之终吉. 虽不当位, 未大失也.",
+        yaoCi: "不速之客来, 敬之终吉. 虽不当位, 未大失也.",
         origin: "入于穴, 有不速之客三人来, 敬之终吉.",
         meaning: "进入洞穴 虽然会看到不速之客 但尊敬他们 最后获得吉祥",
         videoUrls: [
@@ -1944,9 +1944,9 @@ function answers(guaYao) {
     case "讼初六":
       return {
         gua: "讼",
-        daXiang: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
+        guaCi: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
         yao: "初六",
-        xiaoXiang: "不永所事, 讼不可长也. 虽有小言, 其辩明也.",
+        yaoCi: "不永所事, 讼不可长也. 虽有小言, 其辩明也.",
         origin: "不永所事, 小有言, 终吉.",
         meaning: "不要长期困于官司 减少口舌是非 最终获得吉祥",
         videoUrls: [
@@ -1968,9 +1968,9 @@ function answers(guaYao) {
     case "讼九二":
       return {
         gua: "讼",
-        daXiang: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
+        guaCi: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
         yao: "九二",
-        xiaoXiang: "不克讼, 归逋窜也. 自下讼上, 患至掇也.",
+        yaoCi: "不克讼, 归逋窜也. 自下讼上, 患至掇也.",
         origin: "不克讼, 归而逋, 其邑人三百户无眚.",
         meaning: "官司失利后 应回家躲避 逃到小国 息事宁人",
         videoUrls: [
@@ -1992,9 +1992,9 @@ function answers(guaYao) {
     case "讼六三":
       return {
         gua: "讼",
-        daXiang: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
+        guaCi: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
         yao: "六三",
-        xiaoXiang: "食旧德, 从上吉也.",
+        yaoCi: "食旧德, 从上吉也.",
         origin: "食旧德, 贞厉, 终吉. 或从王事, 无成.",
         meaning:
           "应该安享旧日俸禄 不要起贪念 若是辅佐君王做事 包括从事公务员工作 即使取得了成就 也不要居功自傲",
@@ -2017,9 +2017,9 @@ function answers(guaYao) {
     case "讼九四":
       return {
         gua: "讼",
-        daXiang: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
+        guaCi: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
         yao: "九四",
-        xiaoXiang: "复即命, 渝安贞; 不失也.",
+        yaoCi: "复即命, 渝安贞; 不失也.",
         origin: "不克讼, 复即命, 渝安贞, 吉.",
         meaning: "不再起诉 安于现状 正固吉祥",
         videoUrls: [
@@ -2041,9 +2041,9 @@ function answers(guaYao) {
     case "讼九五":
       return {
         gua: "讼",
-        daXiang: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
+        guaCi: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
         yao: "九五",
-        xiaoXiang: "讼, 元吉, 以中正也.",
+        yaoCi: "讼, 元吉, 以中正也.",
         origin: "讼, 元吉.",
         meaning: "官司得到了公正的判决 最好的吉祥",
         videoUrls: [
@@ -2065,9 +2065,9 @@ function answers(guaYao) {
     case "讼上九":
       return {
         gua: "讼",
-        daXiang: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
+        guaCi: "有孚, 窒惕, 中吉. 终凶. 利见大人, 不利涉大川.",
         yao: "上九",
-        xiaoXiang: "以讼受福, 亦不足敬也.",
+        yaoCi: "以讼受福, 亦不足敬也.",
         origin: "或锡之鞶带, 终朝三褫之.",
         meaning: "得到官位 但一天之内会多次失去",
         videoUrls: [
@@ -2089,9 +2089,9 @@ function answers(guaYao) {
     case "师初六":
       return {
         gua: "师",
-        daXiang: "贞, 丈人吉, 无咎.",
+        guaCi: "贞, 丈人吉, 无咎.",
         yao: "初六",
-        xiaoXiang: "师出以律, 失律凶也.",
+        yaoCi: "师出以律, 失律凶也.",
         origin: "师出以律, 否臧凶.",
         meaning: "军纪严明 否则有灾祸",
         videoUrls: [
@@ -2113,9 +2113,9 @@ function answers(guaYao) {
     case "师九二":
       return {
         gua: "师",
-        daXiang: "贞, 丈人吉, 无咎.",
+        guaCi: "贞, 丈人吉, 无咎.",
         yao: "九二",
-        xiaoXiang: "在师中吉, 承天宠也. 王三锡命, 怀万邦也.",
+        yaoCi: "在师中吉, 承天宠也. 王三锡命, 怀万邦也.",
         origin: "在师中，吉无咎，王三锡命.",
         meaning: "率军出征 正固 不偏不倚 可获吉祥 无灾祸 君王会多次嘉奖",
         videoUrls: [
@@ -2137,9 +2137,9 @@ function answers(guaYao) {
     case "师六三":
       return {
         gua: "师",
-        daXiang: "贞, 丈人吉, 无咎.",
+        guaCi: "贞, 丈人吉, 无咎.",
         yao: "六三",
-        xiaoXiang: "师或舆尸, 大无功也.",
+        yaoCi: "师或舆尸, 大无功也.",
         origin: "师或舆尸, 凶.",
         meaning: "士兵从战场上运辉尸体 凶险",
         videoUrls: [
@@ -2161,9 +2161,9 @@ function answers(guaYao) {
     case "师六四":
       return {
         gua: "师",
-        daXiang: "贞, 丈人吉, 无咎.",
+        guaCi: "贞, 丈人吉, 无咎.",
         yao: "六四",
-        xiaoXiang: "左次无咎, 未失常也.",
+        yaoCi: "左次无咎, 未失常也.",
         origin: "师左次, 无咎.",
         meaning: "率军及时撤退 可避祸",
         videoUrls: [
@@ -2185,9 +2185,9 @@ function answers(guaYao) {
     case "师六五":
       return {
         gua: "师",
-        daXiang: "贞, 丈人吉, 无咎.",
+        guaCi: "贞, 丈人吉, 无咎.",
         yao: "六五",
-        xiaoXiang: "长子帅师, 以中行也. 弟子舆师, 使不当也.",
+        yaoCi: "长子帅师, 以中行也. 弟子舆师, 使不当也.",
         origin: "田有禽, 利执言, 无咎. 长子帅师, 弟子舆尸, 贞凶.",
         meaning:
           "田间有动物 象征着有利于发表观点 无灾祸 有德的人可统帅军队 无德的人会战败 即使正固也有凶相",
@@ -2210,9 +2210,9 @@ function answers(guaYao) {
     case "师上六":
       return {
         gua: "师",
-        daXiang: "贞, 丈人吉, 无咎.",
+        guaCi: "贞, 丈人吉, 无咎.",
         yao: "上六",
-        xiaoXiang: "大君有命, 以正功也. 小人勿用, 必乱邦也.",
+        yaoCi: "大君有命, 以正功也. 小人勿用, 必乱邦也.",
         origin: "大君有命, 开国承家, 小人勿用.",
         meaning: "天子颁布诏命 论功封爵 需要重用君子远离小人",
         videoUrls: [
@@ -2234,9 +2234,9 @@ function answers(guaYao) {
     case "比初六":
       return {
         gua: "比",
-        daXiang: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
+        guaCi: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
         yao: "初六",
-        xiaoXiang: "比之初六, 有它吉也.",
+        yaoCi: "比之初六, 有它吉也.",
         origin: "有孚比之, 无咎. 有孚盈缶, 终来有它吉.",
         meaning: "以诚待人 会得到更多的朋友 吉祥",
         videoUrls: [
@@ -2258,9 +2258,9 @@ function answers(guaYao) {
     case "比六二":
       return {
         gua: "比",
-        daXiang: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
+        guaCi: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
         yao: "六二",
-        xiaoXiang: "比之自内, 不自失也.",
+        yaoCi: "比之自内, 不自失也.",
         origin: "比之自内, 贞吉.",
         meaning: "加强内部团结 来辅佐君主 吉祥",
         videoUrls: [
@@ -2282,9 +2282,9 @@ function answers(guaYao) {
     case "比六三":
       return {
         gua: "比",
-        daXiang: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
+        guaCi: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
         yao: "六三",
-        xiaoXiang: "比之匪人, 不亦伤乎?",
+        yaoCi: "比之匪人, 不亦伤乎?",
         origin: "比之匪人.",
         meaning: "亲附了不该亲附的人",
         videoUrls: [
@@ -2306,9 +2306,9 @@ function answers(guaYao) {
     case "比六四":
       return {
         gua: "比",
-        daXiang: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
+        guaCi: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
         yao: "六四",
-        xiaoXiang: "外比于贤, 以从上也.",
+        yaoCi: "外比于贤, 以从上也.",
         origin: "外比之, 贞吉.",
         meaning: "交往中相互信任 加强团结 吉祥",
         videoUrls: [
@@ -2330,10 +2330,9 @@ function answers(guaYao) {
     case "比九五":
       return {
         gua: "比",
-        daXiang: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
+        guaCi: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
         yao: "九五",
-        xiaoXiang:
-          "显比之吉, 位正中也. 舍逆取顺, 失前禽也. 邑人不诫, 上使中也.",
+        yaoCi: "显比之吉, 位正中也. 舍逆取顺, 失前禽也. 邑人不诫, 上使中也.",
         origin: "显比, 王用三驱, 失前禽. 邑人不诫, 吉.",
         meaning:
           "光明正大交往 君王用三面包围的方式狩猎 失去前面的禽兽 老百姓不害怕君王 吉祥",
@@ -2356,9 +2355,9 @@ function answers(guaYao) {
     case "比上六":
       return {
         gua: "比",
-        daXiang: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
+        guaCi: "吉. 原筮, 元永贞, 无咎. 不宁方来, 后夫凶.",
         yao: "上六",
-        xiaoXiang: "比之无首, 无所终也.",
+        yaoCi: "比之无首, 无所终也.",
         origin: "比之无首, 凶.",
         meaning: "结交不到首领 凶相",
         videoUrls: [
@@ -2380,9 +2379,9 @@ function answers(guaYao) {
     case "小畜初九":
       return {
         gua: "小畜",
-        daXiang: "亨. 密云不雨, 自我西郊.",
+        guaCi: "亨. 密云不雨, 自我西郊.",
         yao: "初九",
-        xiaoXiang: "复自道, 其义吉也.",
+        yaoCi: "复自道, 其义吉也.",
         origin: "复自道, 何其咎? 吉.",
         meaning: "重复自己的做事风格 无灾且吉祥",
         videoUrls: [
@@ -2404,9 +2403,9 @@ function answers(guaYao) {
     case "小畜九二":
       return {
         gua: "小畜",
-        daXiang: "亨. 密云不雨, 自我西郊.",
+        guaCi: "亨. 密云不雨, 自我西郊.",
         yao: "九二",
-        xiaoXiang: "牵复在中, 亦不自失也.",
+        yaoCi: "牵复在中, 亦不自失也.",
         origin: "牵复, 吉.",
         meaning: "被牵连而返回本位 吉祥",
         videoUrls: [
@@ -2428,9 +2427,9 @@ function answers(guaYao) {
     case "小畜九三":
       return {
         gua: "小畜",
-        daXiang: "亨. 密云不雨, 自我西郊.",
+        guaCi: "亨. 密云不雨, 自我西郊.",
         yao: "九三",
-        xiaoXiang: "夫妻反目, 不能正室也.",
+        yaoCi: "夫妻反目, 不能正室也.",
         origin: "舆说辐, 夫妻反目.",
         meaning: "大车脱落了辐条 夫妻反目失和",
         videoUrls: [
@@ -2452,9 +2451,9 @@ function answers(guaYao) {
     case "小畜六四":
       return {
         gua: "小畜",
-        daXiang: "亨. 密云不雨, 自我西郊.",
+        guaCi: "亨. 密云不雨, 自我西郊.",
         yao: "六四",
-        xiaoXiang: "有孚惕出, 上合志也.",
+        yaoCi: "有孚惕出, 上合志也.",
         origin: "有孚, 血去惕出, 无咎.",
         meaning: "有诚信 不再忧虑 从恐惧中走出来 无灾祸",
         videoUrls: [
@@ -2476,9 +2475,9 @@ function answers(guaYao) {
     case "小畜九五":
       return {
         gua: "小畜",
-        daXiang: "亨. 密云不雨, 自我西郊.",
+        guaCi: "亨. 密云不雨, 自我西郊.",
         yao: "九五",
-        xiaoXiang: "有孚挛如, 不独富也.",
+        yaoCi: "有孚挛如, 不独富也.",
         origin: "有孚挛如, 富以其邻.",
         meaning: "诚信相连 与邻居共享富裕",
         videoUrls: [
@@ -2500,9 +2499,9 @@ function answers(guaYao) {
     case "小畜上九":
       return {
         gua: "小畜",
-        daXiang: "亨. 密云不雨, 自我西郊.",
+        guaCi: "亨. 密云不雨, 自我西郊.",
         yao: "上九",
-        xiaoXiang: "既雨既处, 德积载也. 君子征凶, 有所疑也.",
+        yaoCi: "既雨既处, 德积载也. 君子征凶, 有所疑也.",
         origin: "既雨既处, 尚德载. 妇贞厉. 月几望, 君子征凶.",
         meaning:
           "所需雨水已积满要下雨了 最终可以安居 积德满载 妇女正固会有危险 月亮快要满盈 有德行的人远行凶险",
@@ -2525,9 +2524,9 @@ function answers(guaYao) {
     case "履初九":
       return {
         gua: "履",
-        daXiang: "履虎尾, 不咥人, 亨.",
+        guaCi: "履虎尾, 不咥人, 亨.",
         yao: "初九",
-        xiaoXiang: "素履之往, 独行愿也.",
+        yaoCi: "素履之往, 独行愿也.",
         origin: "素履, 往无咎.",
         meaning: "衣着朴实无华 向前走无灾祸",
         videoUrls: [
@@ -2550,9 +2549,9 @@ function answers(guaYao) {
     case "履九二":
       return {
         gua: "履",
-        daXiang: "履虎尾, 不咥人, 亨.",
+        guaCi: "履虎尾, 不咥人, 亨.",
         yao: "九二",
-        xiaoXiang: "幽人贞吉, 中不自乱也.",
+        yaoCi: "幽人贞吉, 中不自乱也.",
         origin: "履道坦坦, 幽人贞吉.",
         meaning: "走在平坦的大道上 安然的人占问此卦吉祥",
         videoUrls: [
@@ -2575,9 +2574,9 @@ function answers(guaYao) {
     case "履六三":
       return {
         gua: "履",
-        daXiang: "履虎尾, 不咥人, 亨.",
+        guaCi: "履虎尾, 不咥人, 亨.",
         yao: "六三",
-        xiaoXiang:
+        yaoCi:
           "眇能视, 不足以, 有明也. 跛能履, 不足以与行也. 咥人之凶, 位不当也. 武人为于大君, 志刚也.",
         origin: "眇能视, 跛能履. 履虎尾, 咥人, 凶. 武人为于大君.",
         meaning:
@@ -2602,9 +2601,9 @@ function answers(guaYao) {
     case "履九四":
       return {
         gua: "履",
-        daXiang: "履虎尾, 不咥人, 亨.",
+        guaCi: "履虎尾, 不咥人, 亨.",
         yao: "九四",
-        xiaoXiang: "愬愬终吉, 志行也.",
+        yaoCi: "愬愬终吉, 志行也.",
         origin: "履虎尾, 愬愬, 终吉.",
         meaning: "踩在老虎尾巴上 恐惧最后退去 吉祥",
         videoUrls: [
@@ -2627,9 +2626,9 @@ function answers(guaYao) {
     case "履九五":
       return {
         gua: "履",
-        daXiang: "履虎尾, 不咥人, 亨.",
+        guaCi: "履虎尾, 不咥人, 亨.",
         yao: "九五",
-        xiaoXiang: "夬履贞厉, 位正当也.",
+        yaoCi: "夬履贞厉, 位正当也.",
         origin: "夬履，贞厉.",
         meaning: "奋不顾身 冒然前行 占卜此卦者 凶",
         videoUrls: [
@@ -2652,9 +2651,9 @@ function answers(guaYao) {
     case "履上九":
       return {
         gua: "履",
-        daXiang: "履虎尾, 不咥人, 亨.",
+        guaCi: "履虎尾, 不咥人, 亨.",
         yao: "上九",
-        xiaoXiang: "元吉在上, 大有庆也.",
+        yaoCi: "元吉在上, 大有庆也.",
         origin: "视履考祥, 其旋元吉.",
         meaning: "不断反思审视自己的所作所为 最终吉祥",
         videoUrls: [
@@ -2677,9 +2676,9 @@ function answers(guaYao) {
     case "泰初九":
       return {
         gua: "泰",
-        daXiang: "小往大来, 吉亨.",
+        guaCi: "小往大来, 吉亨.",
         yao: "初九",
-        xiaoXiang: "拔茅征吉, 志在外也.",
+        yaoCi: "拔茅征吉, 志在外也.",
         origin: "拔茅茹, 以其汇, 征吉.",
         meaning: "拔出的茅草离开地面向上是吉利征兆 出门远行吉祥",
         videoUrls: [
@@ -2701,9 +2700,9 @@ function answers(guaYao) {
     case "泰九二":
       return {
         gua: "泰",
-        daXiang: "小往大来, 吉亨.",
+        guaCi: "小往大来, 吉亨.",
         yao: "九二",
-        xiaoXiang: "包荒, 得尚于中行, 以光大也.",
+        yaoCi: "包荒, 得尚于中行, 以光大也.",
         origin: "包荒, 用冯河, 不遐遗, 朋亡, 得尚于中行.",
         meaning:
           "有包容大川似的宽广胸怀 可以徒步涉过大河急流 礼贤下士 对远方的贤德之人也不遗弃 不结成小团体 不结党营私 能够辅佐公正有道德的君主",
@@ -2726,9 +2725,9 @@ function answers(guaYao) {
     case "泰九三":
       return {
         gua: "泰",
-        daXiang: "小往大来, 吉亨.",
+        guaCi: "小往大来, 吉亨.",
         yao: "九三",
-        xiaoXiang: "无往不复, 天地际也.",
+        yaoCi: "无往不复, 天地际也.",
         origin: "无平不陂, 无往不复; 艰贞无咎, 勿悔恤其孚, 于食有福.",
         meaning:
           "处境艰难 正固 没有灾祸 不要怕不能取信于人 在饮食方面有口福之吉",
@@ -2750,9 +2749,9 @@ function answers(guaYao) {
     case "泰六四":
       return {
         gua: "泰",
-        daXiang: "小往大来, 吉亨.",
+        guaCi: "小往大来, 吉亨.",
         yao: "六四",
-        xiaoXiang: "翩翩不富, 皆失实也. 不戒以孚, 中心愿也.",
+        yaoCi: "翩翩不富, 皆失实也. 不戒以孚, 中心愿也.",
         origin: "翩翩不富, 以其邻, 不戒以孚.",
         meaning: "轻松而不靠财富就能得到邻居的支持 由于诚信而不加戒备",
         videoUrls: [
@@ -2774,9 +2773,9 @@ function answers(guaYao) {
     case "泰六五":
       return {
         gua: "泰",
-        daXiang: "小往大来, 吉亨.",
+        guaCi: "小往大来, 吉亨.",
         yao: "六五",
-        xiaoXiang: "以祉元吉, 中以行愿也.",
+        yaoCi: "以祉元吉, 中以行愿也.",
         origin: "帝乙归妹, 以祉元吉.",
         meaning: "帝乙嫁女 因此而获得福泽 最为吉祥",
         videoUrls: [
@@ -2798,9 +2797,9 @@ function answers(guaYao) {
     case "泰上六":
       return {
         gua: "泰",
-        daXiang: "小往大来, 吉亨.",
+        guaCi: "小往大来, 吉亨.",
         yao: "上六",
-        xiaoXiang: "城复于隍, 其命乱也.",
+        yaoCi: "城复于隍, 其命乱也.",
         origin: "城复于隍, 勿用师. 自邑告命, 贞吝.",
         meaning: "城墙倒塌在城壕里 不宜用兵 在城邑中祷告天命 占问必艰难之兆",
         videoUrls: [
@@ -2822,9 +2821,9 @@ function answers(guaYao) {
     case "否初六":
       return {
         gua: "否",
-        daXiang: "否之匪人, 不利君子贞, 大往小来.",
+        guaCi: "否之匪人, 不利君子贞, 大往小来.",
         yao: "初六",
-        xiaoXiang: "拔茅贞吉, 志在君也.",
+        yaoCi: "拔茅贞吉, 志在君也.",
         origin: "拔茅茹, 以其汇, 贞吉, 亨.",
         meaning: "拔出的茅草离开地面向上 吉利征兆 通达",
         videoUrls: [
@@ -2846,9 +2845,9 @@ function answers(guaYao) {
     case "否六二":
       return {
         gua: "否",
-        daXiang: "否之匪人, 不利君子贞, 大往小来.",
+        guaCi: "否之匪人, 不利君子贞, 大往小来.",
         yao: "六二",
-        xiaoXiang: "大人否, 亨, 不乱群也.",
+        yaoCi: "大人否, 亨, 不乱群也.",
         origin: "包承, 小人吉; 大人否, 亨.",
         meaning: "包容成灾 小人吉祥 君子闭塞 通达",
         videoUrls: [
@@ -2870,9 +2869,9 @@ function answers(guaYao) {
     case "否六三":
       return {
         gua: "否",
-        daXiang: "否之匪人, 不利君子贞, 大往小来.",
+        guaCi: "否之匪人, 不利君子贞, 大往小来.",
         yao: "六三",
-        xiaoXiang: "包羞, 位不当也.",
+        yaoCi: "包羞, 位不当也.",
         origin: "包羞.",
         meaning: "被包容而居于下位 最终招致羞辱",
         videoUrls: [
@@ -2894,9 +2893,9 @@ function answers(guaYao) {
     case "否九四":
       return {
         gua: "否",
-        daXiang: "否之匪人, 不利君子贞, 大往小来.",
+        guaCi: "否之匪人, 不利君子贞, 大往小来.",
         yao: "九四",
-        xiaoXiang: "有命无咎, 志行也.",
+        yaoCi: "有命无咎, 志行也.",
         origin: "有命无咎, 畴离祉.",
         meaning: "得到君王授命 没有灾祸 众人依附 共享福禄",
         videoUrls: [
@@ -2918,9 +2917,9 @@ function answers(guaYao) {
     case "否九五":
       return {
         gua: "否",
-        daXiang: "否之匪人, 不利君子贞, 大往小来.",
+        guaCi: "否之匪人, 不利君子贞, 大往小来.",
         yao: "九五",
-        xiaoXiang: "大人之吉, 位正当也.",
+        yaoCi: "大人之吉, 位正当也.",
         origin: "休否, 大人吉; 其亡其亡, 系于苞桑.",
         meaning:
           "君子不用躲避 君子可获吉祥 将要灭亡 将要灭亡 白自己拴在大桑树上 就会安然无恙",
@@ -2943,9 +2942,9 @@ function answers(guaYao) {
     case "否上九":
       return {
         gua: "否",
-        daXiang: "否之匪人, 不利君子贞, 大往小来.",
+        guaCi: "否之匪人, 不利君子贞, 大往小来.",
         yao: "上九",
-        xiaoXiang: "否终则倾, 何可长也.",
+        yaoCi: "否终则倾, 何可长也.",
         origin: "倾否, 先否后喜.",
         meaning: "苦尽甘来 皆大欢喜",
         videoUrls: [
@@ -2967,9 +2966,9 @@ function answers(guaYao) {
     case "同人初九":
       return {
         gua: "同人",
-        daXiang: "同人于野, 亨. 利涉大川, 利君子贞.",
+        guaCi: "同人于野, 亨. 利涉大川, 利君子贞.",
         yao: "初九",
-        xiaoXiang: "出门同人, 又谁咎也.",
+        yaoCi: "出门同人, 又谁咎也.",
         origin: "同人于门, 无咎.",
         meaning: "走出大门 与人亲近 无灾祸",
         videoUrls: [
@@ -2991,9 +2990,9 @@ function answers(guaYao) {
     case "同人六二":
       return {
         gua: "同人",
-        daXiang: "同人于野, 亨. 利涉大川, 利君子贞.",
+        guaCi: "同人于野, 亨. 利涉大川, 利君子贞.",
         yao: "六二",
-        xiaoXiang: "同人于宗, 吝道也.",
+        yaoCi: "同人于宗, 吝道也.",
         origin: "同人于宗, 吝.",
         meaning: "亲近同族的人 必然艰难",
         videoUrls: [
@@ -3015,9 +3014,9 @@ function answers(guaYao) {
     case "同人九三":
       return {
         gua: "同人",
-        daXiang: "同人于野, 亨. 利涉大川, 利君子贞.",
+        guaCi: "同人于野, 亨. 利涉大川, 利君子贞.",
         yao: "九三",
-        xiaoXiang: "伏戎于莽, 敌刚也. 三岁不兴, 安行也.",
+        yaoCi: "伏戎于莽, 敌刚也. 三岁不兴, 安行也.",
         origin: "伏戎于莽, 升其高陵, 三岁不兴.",
         meaning: "在草丛中设好伏兵 登高望远 三年不能发动战争",
         videoUrls: [
@@ -3039,9 +3038,9 @@ function answers(guaYao) {
     case "同人九四":
       return {
         gua: "同人",
-        daXiang: "同人于野, 亨. 利涉大川, 利君子贞.",
+        guaCi: "同人于野, 亨. 利涉大川, 利君子贞.",
         yao: "九四",
-        xiaoXiang: "乘其墉, 义弗克也, 其吉, 则困而反则也.",
+        yaoCi: "乘其墉, 义弗克也, 其吉, 则困而反则也.",
         origin: "乘其墉, 弗克攻, 吉.",
         meaning: "占据城头之上 自行退兵而不进攻 可获吉祥",
         videoUrls: [
@@ -3063,9 +3062,9 @@ function answers(guaYao) {
     case "同人九五":
       return {
         gua: "同人",
-        daXiang: "同人于野, 亨. 利涉大川, 利君子贞.",
+        guaCi: "同人于野, 亨. 利涉大川, 利君子贞.",
         yao: "九五",
-        xiaoXiang: "同人之先, 以中直也. 大师相遇, 言相克也.",
+        yaoCi: "同人之先, 以中直也. 大师相遇, 言相克也.",
         origin: "同人, 先号啕而后笑, 大师克相遇.",
         meaning: "与人同心同德 先哭后笑 大军会师 庆祝胜利",
         videoUrls: [
@@ -3087,9 +3086,9 @@ function answers(guaYao) {
     case "同人上九":
       return {
         gua: "同人",
-        daXiang: "同人于野, 亨. 利涉大川, 利君子贞.",
+        guaCi: "同人于野, 亨. 利涉大川, 利君子贞.",
         yao: "上九",
-        xiaoXiang: "同人于郊, 志未得也.",
+        yaoCi: "同人于郊, 志未得也.",
         origin: "同人于郊, 无悔.",
         meaning: "与人在郊外亲善和睦 不会有困厄",
         videoUrls: [
@@ -3111,9 +3110,9 @@ function answers(guaYao) {
     case "大有初九":
       return {
         gua: "大有",
-        daXiang: "元亨.",
+        guaCi: "元亨.",
         yao: "初九",
-        xiaoXiang: "大有初九, 无交害也.",
+        yaoCi: "大有初九, 无交害也.",
         origin: "无交害, 匪咎; 艰则无咎.",
         meaning:
           "有人交往 不涉及利害 自然不会招致灾祸 须知 需要经历艰辛 才可避免灾祸",
@@ -3136,9 +3135,9 @@ function answers(guaYao) {
     case "大有九二":
       return {
         gua: "大有",
-        daXiang: "元亨.",
+        guaCi: "元亨.",
         yao: "九二",
-        xiaoXiang: "大车以载, 积中不败也.",
+        yaoCi: "大车以载, 积中不败也.",
         origin: "大车以载, 有攸往, 无咎.",
         meaning: "用大车载物 无论去哪里 都不会有灾祸",
         videoUrls: [
@@ -3160,9 +3159,9 @@ function answers(guaYao) {
     case "大有九三":
       return {
         gua: "大有",
-        daXiang: "元亨.",
+        guaCi: "元亨.",
         yao: "九三",
-        xiaoXiang: "公用亨于天子, 小人害也.",
+        yaoCi: "公用亨于天子, 小人害也.",
         origin: "公用亨于天子, 小人弗克.",
         meaning: "君王宴请公侯 小人不可以参与",
         videoUrls: [
@@ -3184,9 +3183,9 @@ function answers(guaYao) {
     case "大有九四":
       return {
         gua: "大有",
-        daXiang: "元亨.",
+        guaCi: "元亨.",
         yao: "九四",
-        xiaoXiang: "匪其彭, 无咎, 明辨晰也.",
+        yaoCi: "匪其彭, 无咎, 明辨晰也.",
         origin: "匪其彭, 无咎.",
         meaning: "不骄不躁 无灾祸",
         videoUrls: [
@@ -3208,9 +3207,9 @@ function answers(guaYao) {
     case "大有六五":
       return {
         gua: "大有",
-        daXiang: "元亨.",
+        guaCi: "元亨.",
         yao: "六五",
-        xiaoXiang: "厥孚交如, 信以发志也. 威如之吉, 易而无备也.",
+        yaoCi: "厥孚交如, 信以发志也. 威如之吉, 易而无备也.",
         origin: "厥孚交如, 威如, 吉.",
         meaning: "胸怀坦荡 上下以诚相待 威严自显 可获吉祥",
         videoUrls: [
@@ -3232,9 +3231,9 @@ function answers(guaYao) {
     case "大有上九":
       return {
         gua: "大有",
-        daXiang: "元亨.",
+        guaCi: "元亨.",
         yao: "上九",
-        xiaoXiang: "大有上吉, 自天佑也.",
+        yaoCi: "大有上吉, 自天佑也.",
         origin: "自天祐之, 吉无不利.",
         meaning: "会得到上天的帮助 吉祥而无不利",
         videoUrls: [
@@ -3256,9 +3255,9 @@ function answers(guaYao) {
     case "谦初六":
       return {
         gua: "谦",
-        daXiang: "亨, 君子有终.",
+        guaCi: "亨, 君子有终.",
         yao: "初六",
-        xiaoXiang: "谦谦君子, 卑以自牧也.",
+        yaoCi: "谦谦君子, 卑以自牧也.",
         origin: "谦谦君子, 用涉大川. 吉.",
         meaning: "谦虚而富有美德的君子 梵语大江大河 可获吉祥",
         videoUrls: [
@@ -3279,9 +3278,9 @@ function answers(guaYao) {
     case "谦六二":
       return {
         gua: "谦",
-        daXiang: "亨, 君子有终.",
+        guaCi: "亨, 君子有终.",
         yao: "六二",
-        xiaoXiang: "鸣谦贞吉, 中心得也.",
+        yaoCi: "鸣谦贞吉, 中心得也.",
         origin: "鸣谦, 贞吉",
         meaning: "谦虚之名传扬外界 正固吉祥",
         videoUrls: [
@@ -3302,9 +3301,9 @@ function answers(guaYao) {
     case "谦九三":
       return {
         gua: "谦",
-        daXiang: "亨, 君子有终.",
+        guaCi: "亨, 君子有终.",
         yao: "九三",
-        xiaoXiang: "劳谦君子, 万民服也.",
+        yaoCi: "劳谦君子, 万民服也.",
         origin: "劳谦君子, 有终吉",
         meaning: "有功而谦虚 君子保持谦逊 正固吉祥",
         videoUrls: [
@@ -3325,9 +3324,9 @@ function answers(guaYao) {
     case "谦六四":
       return {
         gua: "谦",
-        daXiang: "亨, 君子有终.",
+        guaCi: "亨, 君子有终.",
         yao: "六四",
-        xiaoXiang: "无不利, 㧑谦, 不违则也.",
+        yaoCi: "无不利, 㧑谦, 不违则也.",
         origin: "无不利, 撝谦",
         meaning: "发扬谦逊美德 行事无往不利",
         videoUrls: [
@@ -3348,9 +3347,9 @@ function answers(guaYao) {
     case "谦六五":
       return {
         gua: "谦",
-        daXiang: "亨, 君子有终.",
+        guaCi: "亨, 君子有终.",
         yao: "六五",
-        xiaoXiang: "利用侵伐, 征不服也.",
+        yaoCi: "利用侵伐, 征不服也.",
         origin: "不富以其邻, 利用侵伐, 无不利",
         meaning: "与邻国同遭侵略 则需共同应战 如此无往不利",
         videoUrls: [
@@ -3371,9 +3370,9 @@ function answers(guaYao) {
     case "谦上六":
       return {
         gua: "谦",
-        daXiang: "亨, 君子有终.",
+        guaCi: "亨, 君子有终.",
         yao: "上六",
-        xiaoXiang: "鸣谦, 志未得也. 可用行师, 征邑国也.",
+        yaoCi: "鸣谦, 志未得也. 可用行师, 征邑国也.",
         origin: "鸣谦, 利用行师, 征邑国",
         meaning: "谦虚之名传扬外界 利于兴兵征伐 占领新的领地",
         videoUrls: [
@@ -3394,9 +3393,9 @@ function answers(guaYao) {
     case "豫初六":
       return {
         gua: "豫",
-        daXiang: "利建侯行师.",
+        guaCi: "利建侯行师.",
         yao: "初六",
-        xiaoXiang: "初六鸣豫, 志穷凶也.",
+        yaoCi: "初六鸣豫, 志穷凶也.",
         origin: "鸣豫, 凶",
         meaning: "响应愉悦的态度 有凶险",
         videoUrls: [
@@ -3419,9 +3418,9 @@ function answers(guaYao) {
     case "豫六二":
       return {
         gua: "豫",
-        daXiang: "利建侯行师.",
+        guaCi: "利建侯行师.",
         yao: "六二",
-        xiaoXiang: "不终日, 贞吉, 以中正也.",
+        yaoCi: "不终日, 贞吉, 以中正也.",
         origin: "介于石, 不终日, 贞吉",
         meaning: "德行坚贞胜过磐石 不浪费生命 正固吉祥",
         videoUrls: [
@@ -3444,9 +3443,9 @@ function answers(guaYao) {
     case "豫六三":
       return {
         gua: "豫",
-        daXiang: "利建侯行师.",
+        guaCi: "利建侯行师.",
         yao: "六三",
-        xiaoXiang: "盱豫有悔, 位不当也.",
+        yaoCi: "盱豫有悔, 位不当也.",
         origin: "盱豫, 悔. 迟有悔.",
         meaning: "小人媚上以逸乐惑主 会有忧悔 悔恨太迟会更后悔",
         videoUrls: [
@@ -3469,9 +3468,9 @@ function answers(guaYao) {
     case "豫九四":
       return {
         gua: "豫",
-        daXiang: "利建侯行师.",
+        guaCi: "利建侯行师.",
         yao: "九四",
-        xiaoXiang: "由豫大有得, 志大行也.",
+        yaoCi: "由豫大有得, 志大行也.",
         origin: "由豫, 大有得, 勿疑, 朋盍簪.",
         meaning:
           "喜乐自来 会有大的收获 不比猜疑 像簪子聚拢头发一样将朋友们聚集在一起",
@@ -3495,9 +3494,9 @@ function answers(guaYao) {
     case "豫六五":
       return {
         gua: "豫",
-        daXiang: "利建侯行师.",
+        guaCi: "利建侯行师.",
         yao: "六五",
-        xiaoXiang: "六五贞疾, 乘刚也. 恒不死, 中未亡也.",
+        yaoCi: "六五贞疾, 乘刚也. 恒不死, 中未亡也.",
         origin: "贞疾, 恒不死.",
         meaning: "占问疫病吉凶 得此卦者 会病期长 但不会死亡",
         videoUrls: [
@@ -3520,9 +3519,9 @@ function answers(guaYao) {
     case "豫上六":
       return {
         gua: "豫",
-        daXiang: "利建侯行师.",
+        guaCi: "利建侯行师.",
         yao: "上六",
-        xiaoXiang: "冥豫在上, 何可长也?",
+        yaoCi: "冥豫在上, 何可长也?",
         origin: "冥豫, 成有渝, 无咎.",
         meaning:
           "已处在天昏地暗的局面 去沉溺于寻欢作乐 十分危险 若改弦更张 可避免灾祸",
@@ -3546,9 +3545,9 @@ function answers(guaYao) {
     case "随初九":
       return {
         gua: "随",
-        daXiang: "元亨利贞, 无咎.",
+        guaCi: "元亨利贞, 无咎.",
         yao: "初九",
-        xiaoXiang: "官有渝, 从正吉也. 出门交有功, 不失也.",
+        yaoCi: "官有渝, 从正吉也. 出门交有功, 不失也.",
         origin: "官有渝, 贞吉. 出门交有功.",
         meaning: "官位有变动 正固吉祥 出门交友不会有过失",
         videoUrls: [
@@ -3570,9 +3569,9 @@ function answers(guaYao) {
     case "随六二":
       return {
         gua: "随",
-        daXiang: "元亨利贞, 无咎.",
+        guaCi: "元亨利贞, 无咎.",
         yao: "六二",
-        xiaoXiang: "系小子, 弗兼与也.",
+        yaoCi: "系小子, 弗兼与也.",
         origin: "系小子, 失丈夫.",
         meaning: "依附小人会失去德高望重的人",
         videoUrls: [
@@ -3594,9 +3593,9 @@ function answers(guaYao) {
     case "随六三":
       return {
         gua: "随",
-        daXiang: "元亨利贞, 无咎.",
+        guaCi: "元亨利贞, 无咎.",
         yao: "六三",
-        xiaoXiang: "系丈夫, 志舍下也.",
+        yaoCi: "系丈夫, 志舍下也.",
         origin: "系丈夫, 失小子. 随有求得, 利居贞.",
         meaning: "依附德高望重的人会失去小人 跟随有追求的人会有所得 利于正固",
         videoUrls: [
@@ -3618,9 +3617,9 @@ function answers(guaYao) {
     case "随九四":
       return {
         gua: "随",
-        daXiang: "元亨利贞, 无咎.",
+        guaCi: "元亨利贞, 无咎.",
         yao: "九四",
-        xiaoXiang: "随有获, 其义凶也. 有孚在道, 明功也.",
+        yaoCi: "随有获, 其义凶也. 有孚在道, 明功也.",
         origin: "随有获, 贞凶. 有孚在道, 以明, 何咎.",
         meaning:
           "跟随别人去获得利益 即便守正道 也是凶 有诚信的做事 光明磊落 怎么会有错",
@@ -3643,9 +3642,9 @@ function answers(guaYao) {
     case "随九五":
       return {
         gua: "随",
-        daXiang: "元亨利贞, 无咎.",
+        guaCi: "元亨利贞, 无咎.",
         yao: "九五",
-        xiaoXiang: "孚于嘉吉, 位正中也.",
+        yaoCi: "孚于嘉吉, 位正中也.",
         origin: "孚于嘉, 吉.",
         meaning: "真诚的随从嘉言善行 吉祥",
         videoUrls: [
@@ -3667,9 +3666,9 @@ function answers(guaYao) {
     case "随上六":
       return {
         gua: "随",
-        daXiang: "元亨利贞, 无咎.",
+        guaCi: "元亨利贞, 无咎.",
         yao: "上六",
-        xiaoXiang: "拘系之, 上穷也.",
+        yaoCi: "拘系之, 上穷也.",
         origin: "拘系之, 乃从维之. 王用亨于西山.",
         meaning: "先拘押起来 后又捆绑起来 成为君王在西山祭祀的牺牲品",
         videoUrls: [
@@ -3691,9 +3690,9 @@ function answers(guaYao) {
     case "蛊初六":
       return {
         gua: "蛊",
-        daXiang: "元亨, 利涉大川. 先甲三日, 后甲三日.",
+        guaCi: "元亨, 利涉大川. 先甲三日, 后甲三日.",
         yao: "初六",
-        xiaoXiang: "干父之蛊, 意承考也.",
+        yaoCi: "干父之蛊, 意承考也.",
         origin: "干父之蛊, 有子, 考无咎. 厉, 终吉.",
         meaning:
           "改正父亲的过失 有了这样的儿子 父辈以及父辈以上可避免灾祸 即使开始会有危险 最后可获得吉祥",
@@ -3716,9 +3715,9 @@ function answers(guaYao) {
     case "蛊九二":
       return {
         gua: "蛊",
-        daXiang: "元亨, 利涉大川. 先甲三日, 后甲三日.",
+        guaCi: "元亨, 利涉大川. 先甲三日, 后甲三日.",
         yao: "九二",
-        xiaoXiang: "干母之蛊, 得中道也.",
+        yaoCi: "干母之蛊, 得中道也.",
         origin: "干母之蛊, 不可贞.",
         meaning: "改正母亲的过失 不能固守专断",
         videoUrls: [
@@ -3740,9 +3739,9 @@ function answers(guaYao) {
     case "蛊九三":
       return {
         gua: "蛊",
-        daXiang: "元亨, 利涉大川. 先甲三日, 后甲三日.",
+        guaCi: "元亨, 利涉大川. 先甲三日, 后甲三日.",
         yao: "九三",
-        xiaoXiang: "干父之蛊, 终无咎也.",
+        yaoCi: "干父之蛊, 终无咎也.",
         origin: "干父之蛊, 小有悔, 无大咎.",
         meaning: "改正父亲的过失 即便遭遇小困难 但无大灾",
         videoUrls: [
@@ -3764,9 +3763,9 @@ function answers(guaYao) {
     case "蛊六四":
       return {
         gua: "蛊",
-        daXiang: "元亨, 利涉大川. 先甲三日, 后甲三日.",
+        guaCi: "元亨, 利涉大川. 先甲三日, 后甲三日.",
         yao: "六四",
-        xiaoXiang: "裕父之蛊, 往未得也.",
+        yaoCi: "裕父之蛊, 往未得也.",
         origin: "裕父之蛊, 往见吝.",
         meaning: "姑息纵容父亲的过错 往往出现艰难",
         videoUrls: [
@@ -3788,9 +3787,9 @@ function answers(guaYao) {
     case "蛊六五":
       return {
         gua: "蛊",
-        daXiang: "元亨, 利涉大川. 先甲三日, 后甲三日.",
+        guaCi: "元亨, 利涉大川. 先甲三日, 后甲三日.",
         yao: "六五",
-        xiaoXiang: "干父用誉, 承以德也.",
+        yaoCi: "干父用誉, 承以德也.",
         origin: "干父之蛊, 用誉.",
         meaning: "改正父亲的过失 会得到赞誉",
         videoUrls: [
@@ -3812,9 +3811,9 @@ function answers(guaYao) {
     case "蛊上九":
       return {
         gua: "蛊",
-        daXiang: "元亨, 利涉大川. 先甲三日, 后甲三日.",
+        guaCi: "元亨, 利涉大川. 先甲三日, 后甲三日.",
         yao: "上九",
-        xiaoXiang: "不事王侯, 志可则也.",
+        yaoCi: "不事王侯, 志可则也.",
         origin: "不事王侯, 高尚其事.",
         meaning: "不侍奉王侯 专注于自己的事业",
         videoUrls: [
@@ -3836,9 +3835,9 @@ function answers(guaYao) {
     case "临初九":
       return {
         gua: "临",
-        daXiang: "元, 亨, 利, 贞. 至于八月有凶.",
+        guaCi: "元, 亨, 利, 贞. 至于八月有凶.",
         yao: "初九",
-        xiaoXiang: "咸临, 贞吉, 志行正也.",
+        yaoCi: "咸临, 贞吉, 志行正也.",
         origin: "咸临, 贞吉.",
         meaning: "心怀感化之心降临到民众 可获吉祥",
         videoUrls: [
@@ -3860,9 +3859,9 @@ function answers(guaYao) {
     case "临九二":
       return {
         gua: "临",
-        daXiang: "元, 亨, 利, 贞. 至于八月有凶.",
+        guaCi: "元, 亨, 利, 贞. 至于八月有凶.",
         yao: "九二",
-        xiaoXiang: "咸临, 吉, 无不利, 未顺命也.",
+        yaoCi: "咸临, 吉, 无不利, 未顺命也.",
         origin: "咸临, 吉, 无不利.",
         meaning: "心怀感化之心降临到民众 吉祥 无所不利",
         videoUrls: [
@@ -3884,9 +3883,9 @@ function answers(guaYao) {
     case "临六三":
       return {
         gua: "临",
-        daXiang: "元, 亨, 利, 贞. 至于八月有凶.",
+        guaCi: "元, 亨, 利, 贞. 至于八月有凶.",
         yao: "六三",
-        xiaoXiang: "甘临, 位不当也. 既忧之, 咎不长也.",
+        yaoCi: "甘临, 位不当也. 既忧之, 咎不长也.",
         origin: "甘临, 无攸利. 即忧之, 无咎.",
         meaning: "用钳制的政策治理民众 无益处 已然知晓自己的过失 无灾祸",
         videoUrls: [
@@ -3908,9 +3907,9 @@ function answers(guaYao) {
     case "临六四":
       return {
         gua: "临",
-        daXiang: "元, 亨, 利, 贞. 至于八月有凶.",
+        guaCi: "元, 亨, 利, 贞. 至于八月有凶.",
         yao: "六四",
-        xiaoXiang: "至临无咎, 位当也.",
+        yaoCi: "至临无咎, 位当也.",
         origin: "至临, 无咎.",
         meaning: "亲子体察民情 无灾祸",
         videoUrls: [
@@ -3932,9 +3931,9 @@ function answers(guaYao) {
     case "临六五":
       return {
         gua: "临",
-        daXiang: "元, 亨, 利, 贞. 至于八月有凶.",
+        guaCi: "元, 亨, 利, 贞. 至于八月有凶.",
         yao: "六五",
-        xiaoXiang: "大君之宜, 行中之谓也.",
+        yaoCi: "大君之宜, 行中之谓也.",
         origin: "知临, 大君之宜, 吉.",
         meaning: "以聪明才智实行督导 可以视为王道 可获吉祥",
         videoUrls: [
@@ -3956,9 +3955,9 @@ function answers(guaYao) {
     case "临上六":
       return {
         gua: "临",
-        daXiang: "元, 亨, 利, 贞. 至于八月有凶.",
+        guaCi: "元, 亨, 利, 贞. 至于八月有凶.",
         yao: "上六",
-        xiaoXiang: "敦临之吉, 志在内也.",
+        yaoCi: "敦临之吉, 志在内也.",
         origin: "敦临, 吉, 无咎.",
         meaning: "敦厚宽仁 体察民情 可获吉祥 无灾祸",
         videoUrls: [
@@ -3980,9 +3979,9 @@ function answers(guaYao) {
     case "观初六":
       return {
         gua: "观",
-        daXiang: "盥而不荐, 有孚颙若.",
+        guaCi: "盥而不荐, 有孚颙若.",
         yao: "初六",
-        xiaoXiang: "初六童观, 小人道也.",
+        yaoCi: "初六童观, 小人道也.",
         origin: "童观, 小人无咎, 君子吝.",
         meaning: "以孩童的视角观察事物 小人没有灾祸 君子会有灾祸",
         videoUrls: [
@@ -4004,9 +4003,9 @@ function answers(guaYao) {
     case "观六二":
       return {
         gua: "观",
-        daXiang: "盥而不荐, 有孚颙若.",
+        guaCi: "盥而不荐, 有孚颙若.",
         yao: "六二",
-        xiaoXiang: "窥观女贞, 亦可丑也.",
+        yaoCi: "窥观女贞, 亦可丑也.",
         origin: "窥观, 利女贞.",
         meaning: "暗中窥探观察 适宜女子正固",
         videoUrls: [
@@ -4028,9 +4027,9 @@ function answers(guaYao) {
     case "观六三":
       return {
         gua: "观",
-        daXiang: "盥而不荐, 有孚颙若.",
+        guaCi: "盥而不荐, 有孚颙若.",
         yao: "六三",
-        xiaoXiang: "观我生进退, 未失道也.",
+        yaoCi: "观我生进退, 未失道也.",
         origin: "观我生, 进退.",
         meaning: "查醒自己的言行 审时度势 小心谨慎的决定进退",
         videoUrls: [
@@ -4052,9 +4051,9 @@ function answers(guaYao) {
     case "观六四":
       return {
         gua: "观",
-        daXiang: "盥而不荐, 有孚颙若.",
+        guaCi: "盥而不荐, 有孚颙若.",
         yao: "六四",
-        xiaoXiang: "观国之光, 尚宾也.",
+        yaoCi: "观国之光, 尚宾也.",
         origin: "观国之光, 利用宾于王.",
         meaning: "观察一个国家的风土人情 适宜用宾客之力朝见君王",
         videoUrls: [
@@ -4076,9 +4075,9 @@ function answers(guaYao) {
     case "观九五":
       return {
         gua: "观",
-        daXiang: "盥而不荐, 有孚颙若.",
+        guaCi: "盥而不荐, 有孚颙若.",
         yao: "九五",
-        xiaoXiang: "观我生, 观民也.",
+        yaoCi: "观我生, 观民也.",
         origin: "观我生, 君子无咎.",
         meaning: "观察同国的民情 君子无灾祸",
         videoUrls: [
@@ -4100,9 +4099,9 @@ function answers(guaYao) {
     case "观上九":
       return {
         gua: "观",
-        daXiang: "盥而不荐, 有孚颙若.",
+        guaCi: "盥而不荐, 有孚颙若.",
         yao: "上九",
-        xiaoXiang: "观其生, 志未平也.",
+        yaoCi: "观其生, 志未平也.",
         origin: "观其生, 君子无咎.",
         meaning: "观察外国的民情 君子无灾祸",
         videoUrls: [
@@ -4124,9 +4123,9 @@ function answers(guaYao) {
     case "噬嗑初九":
       return {
         gua: "噬嗑",
-        daXiang: "亨. 利用狱.",
+        guaCi: "亨. 利用狱.",
         yao: "初九",
-        xiaoXiang: "履校灭趾, 不行也.",
+        yaoCi: "履校灭趾, 不行也.",
         origin: "屦校灭趾, 无咎.",
         meaning: "脚上带上木枷 损伤了脚趾 无灾祸",
         videoUrls: [
@@ -4148,9 +4147,9 @@ function answers(guaYao) {
     case "噬嗑六二":
       return {
         gua: "噬嗑",
-        daXiang: "亨. 利用狱.",
+        guaCi: "亨. 利用狱.",
         yao: "六二",
-        xiaoXiang: "噬肤灭鼻, 乘刚也.",
+        yaoCi: "噬肤灭鼻, 乘刚也.",
         origin: "噬肤灭鼻, 无咎.",
         meaning: "咬食肥肉 使鼻子陷入肉中 无灾祸",
         videoUrls: [
@@ -4172,9 +4171,9 @@ function answers(guaYao) {
     case "噬嗑六三":
       return {
         gua: "噬嗑",
-        daXiang: "亨. 利用狱.",
+        guaCi: "亨. 利用狱.",
         yao: "六三",
-        xiaoXiang: "遇毒, 位不当也.",
+        yaoCi: "遇毒, 位不当也.",
         origin: "噬腊肉, 遇毒. 小吝, 无咎.",
         meaning: "咬腊肉干 中了毒 小有不顺 无灾祸",
         videoUrls: [
@@ -4196,9 +4195,9 @@ function answers(guaYao) {
     case "噬嗑九四":
       return {
         gua: "噬嗑",
-        daXiang: "亨. 利用狱.",
+        guaCi: "亨. 利用狱.",
         yao: "九四",
-        xiaoXiang: "利艰贞吉, 未光也.",
+        yaoCi: "利艰贞吉, 未光也.",
         origin: "噬干胏, 得金矢. 利艰贞, 吉.",
         meaning: "啃吃骨头 发现骨头中有金属箭头 卜问艰难之事 结果是吉利的",
         videoUrls: [
@@ -4220,9 +4219,9 @@ function answers(guaYao) {
     case "噬嗑六五":
       return {
         gua: "噬嗑",
-        daXiang: "亨. 利用狱.",
+        guaCi: "亨. 利用狱.",
         yao: "六五",
-        xiaoXiang: "贞厉无咎, 得当也.",
+        yaoCi: "贞厉无咎, 得当也.",
         origin: "噬干肉, 得黄金. 贞厉, 无咎.",
         meaning: "吃风干的肉 得到黄金 正固思危 无灾祸",
         videoUrls: [
@@ -4244,9 +4243,9 @@ function answers(guaYao) {
     case "噬嗑上九":
       return {
         gua: "噬嗑",
-        daXiang: "亨. 利用狱.",
+        guaCi: "亨. 利用狱.",
         yao: "上九",
-        xiaoXiang: "何校灭耳, 聪不明也.",
+        yaoCi: "何校灭耳, 聪不明也.",
         origin: "何校灭耳, 凶.",
         meaning: "肩带木枷遮住耳朵 有凶险",
         videoUrls: [
@@ -4268,9 +4267,9 @@ function answers(guaYao) {
     case "贲初九":
       return {
         gua: "贲",
-        daXiang: "亨. 小利有所往.",
+        guaCi: "亨. 小利有所往.",
         yao: "初九",
-        xiaoXiang: "舍车而徒, 义弗乘也.",
+        yaoCi: "舍车而徒, 义弗乘也.",
         origin: "贲其趾, 舍车而徒.",
         meaning: "修饰脚趾弃车步行而走",
         videoUrls: [
@@ -4292,9 +4291,9 @@ function answers(guaYao) {
     case "贲六二":
       return {
         gua: "贲",
-        daXiang: "亨. 小利有所往.",
+        guaCi: "亨. 小利有所往.",
         yao: "六二",
-        xiaoXiang: "贲其须, 与上兴也.",
+        yaoCi: "贲其须, 与上兴也.",
         origin: "贲其须.",
         meaning: "修饰自己的胡须 帮助君王振兴国家",
         videoUrls: [
@@ -4316,9 +4315,9 @@ function answers(guaYao) {
     case "贲九三":
       return {
         gua: "贲",
-        daXiang: "亨. 小利有所往.",
+        guaCi: "亨. 小利有所往.",
         yao: "九三",
-        xiaoXiang: "永贞之吉, 终莫之陵也.",
+        yaoCi: "永贞之吉, 终莫之陵也.",
         origin: "贲如, 濡如, 永贞吉.",
         meaning: "修饰过后再加以润色 长期正固吉祥",
         videoUrls: [
@@ -4340,9 +4339,9 @@ function answers(guaYao) {
     case "贲六四":
       return {
         gua: "贲",
-        daXiang: "亨. 小利有所往.",
+        guaCi: "亨. 小利有所往.",
         yao: "六四",
-        xiaoXiang: "六四, 当位疑也. 匪寇婚媾, 终无尤也.",
+        yaoCi: "六四, 当位疑也. 匪寇婚媾, 终无尤也.",
         origin: "贲如, 皤如, 白马翰如, 匪寇婚媾.",
         meaning:
           "修饰得如此雅致 骑的白马有如此纯洁无暇 不是盗寇 是来求婚的佳人",
@@ -4365,9 +4364,9 @@ function answers(guaYao) {
     case "贲六五":
       return {
         gua: "贲",
-        daXiang: "亨. 小利有所往.",
+        guaCi: "亨. 小利有所往.",
         yao: "六五",
-        xiaoXiang: "六五之吉, 有喜也.",
+        yaoCi: "六五之吉, 有喜也.",
         origin: "贲于丘园, 束帛戋戋, 吝, 终吉.",
         meaning: "修饰山丘园林 用了大量的布帛 艰难 但最终会获得吉祥",
         videoUrls: [
@@ -4389,9 +4388,9 @@ function answers(guaYao) {
     case "贲上九":
       return {
         gua: "贲",
-        daXiang: "亨. 小利有所往.",
+        guaCi: "亨. 小利有所往.",
         yao: "上九",
-        xiaoXiang: "白贲无咎, 上得志也.",
+        yaoCi: "白贲无咎, 上得志也.",
         origin: "白贲, 无咎.",
         meaning: "以白色为装饰 无灾祸",
         videoUrls: [
@@ -4413,9 +4412,9 @@ function answers(guaYao) {
     case "剥初六":
       return {
         gua: "剥",
-        daXiang: "不利有攸往.",
+        guaCi: "不利有攸往.",
         yao: "初六",
-        xiaoXiang: "剥床以足, 以灭下也.",
+        yaoCi: "剥床以足, 以灭下也.",
         origin: "剥床以足, 蔑贞, 凶.",
         meaning: "剥落床体从床脚开始 致使床腿损坏 有凶险",
         videoUrls: [
@@ -4437,9 +4436,9 @@ function answers(guaYao) {
     case "剥六二":
       return {
         gua: "剥",
-        daXiang: "不利有攸往.",
+        guaCi: "不利有攸往.",
         yao: "六二",
-        xiaoXiang: "剥床以辨, 未有与也.",
+        yaoCi: "剥床以辨, 未有与也.",
         origin: "剥床以辨, 蔑贞, 凶.",
         meaning: "剥落床体从床头开始 致使床头损坏 有凶险",
         videoUrls: [
@@ -4461,9 +4460,9 @@ function answers(guaYao) {
     case "剥六三":
       return {
         gua: "剥",
-        daXiang: "不利有攸往.",
+        guaCi: "不利有攸往.",
         yao: "六三",
-        xiaoXiang: "剥之无咎, 失上下也.",
+        yaoCi: "剥之无咎, 失上下也.",
         origin: "剥之, 无咎.",
         meaning: "剥落 无灾祸",
         videoUrls: [
@@ -4485,9 +4484,9 @@ function answers(guaYao) {
     case "剥六四":
       return {
         gua: "剥",
-        daXiang: "不利有攸往.",
+        guaCi: "不利有攸往.",
         yao: "六四",
-        xiaoXiang: "剥床以肤, 切近灾也.",
+        yaoCi: "剥床以肤, 切近灾也.",
         origin: "剥床以肤, 凶.",
         meaning: "剥蚀到床板 有凶险",
         videoUrls: [
@@ -4509,9 +4508,9 @@ function answers(guaYao) {
     case "剥六五":
       return {
         gua: "剥",
-        daXiang: "不利有攸往.",
+        guaCi: "不利有攸往.",
         yao: "六五",
-        xiaoXiang: "以宫人宠, 终无尤也.",
+        yaoCi: "以宫人宠, 终无尤也.",
         origin: "贯鱼, 以宫人宠, 无不利.",
         meaning: "像鱼鲜排成一行一样 以宫人的身份受到宠幸 无往不利",
         videoUrls: [
@@ -4533,9 +4532,9 @@ function answers(guaYao) {
     case "剥上九":
       return {
         gua: "剥",
-        daXiang: "不利有攸往.",
+        guaCi: "不利有攸往.",
         yao: "上九",
-        xiaoXiang: "君子得舆, 民所载也. 小人剥庐, 终不可用也.",
+        yaoCi: "君子得舆, 民所载也. 小人剥庐, 终不可用也.",
         origin: "硕果不食, 君子得舆, 小人剥庐.",
         meaning: "不吃硕大的果子 君子得到民众的拥戴 小人遭到覆巢之灾",
         videoUrls: [
@@ -4557,9 +4556,9 @@ function answers(guaYao) {
     case "复初九":
       return {
         gua: "复",
-        daXiang: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
+        guaCi: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
         yao: "初九",
-        xiaoXiang: "不远之复, 以修身也.",
+        yaoCi: "不远之复, 以修身也.",
         origin: "不远复, 无只悔, 元吉.",
         meaning: "行而未远就适时而返 没有造成很大的悔意 大吉大利",
         videoUrls: [
@@ -4581,9 +4580,9 @@ function answers(guaYao) {
     case "复六二":
       return {
         gua: "复",
-        daXiang: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
+        guaCi: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
         yao: "六二",
-        xiaoXiang: "休复之吉, 以下仁也.",
+        yaoCi: "休复之吉, 以下仁也.",
         origin: "休复, 吉.",
         meaning: "停止返回 可获吉祥",
         videoUrls: [
@@ -4605,9 +4604,9 @@ function answers(guaYao) {
     case "复六三":
       return {
         gua: "复",
-        daXiang: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
+        guaCi: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
         yao: "六三",
-        xiaoXiang: "频复之厉, 义无咎也.",
+        yaoCi: "频复之厉, 义无咎也.",
         origin: "频复, 厉, 无咎.",
         meaning: "频繁的返回 艰难 无灾祸",
         videoUrls: [
@@ -4629,9 +4628,9 @@ function answers(guaYao) {
     case "复六四":
       return {
         gua: "复",
-        daXiang: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
+        guaCi: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
         yao: "六四",
-        xiaoXiang: "中行独复, 以从道也.",
+        yaoCi: "中行独复, 以从道也.",
         origin: "中行独复.",
         meaning: "中途独自返回",
         videoUrls: [
@@ -4653,9 +4652,9 @@ function answers(guaYao) {
     case "复六五":
       return {
         gua: "复",
-        daXiang: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
+        guaCi: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
         yao: "六五",
-        xiaoXiang: "敦复无悔, 中以自考也.",
+        yaoCi: "敦复无悔, 中以自考也.",
         origin: "敦复，无悔.",
         meaning: "敦厚笃诚的返回 没有悔恨",
         videoUrls: [
@@ -4677,9 +4676,9 @@ function answers(guaYao) {
     case "复上六":
       return {
         gua: "复",
-        daXiang: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
+        guaCi: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
         yao: "上六",
-        xiaoXiang: "迷复之凶, 反君道也.",
+        yaoCi: "迷复之凶, 反君道也.",
         origin:
           "迷复, 凶, 有灾眚. 用行师, 终有大败, 以其国君凶, 至于十年不克征.",
         meaning:
@@ -4703,9 +4702,9 @@ function answers(guaYao) {
     case "无妄初九":
       return {
         gua: "无妄",
-        daXiang: "元亨利贞. 其匪正有眚, 不利有攸往.",
+        guaCi: "元亨利贞. 其匪正有眚, 不利有攸往.",
         yao: "初九",
-        xiaoXiang: "无妄之往, 得志也.",
+        yaoCi: "无妄之往, 得志也.",
         origin: "无妄, 往吉.",
         meaning: "不妄为 按照自己的心志 前行吉祥",
         videoUrls: [
@@ -4727,9 +4726,9 @@ function answers(guaYao) {
     case "无妄六二":
       return {
         gua: "无妄",
-        daXiang: "元亨利贞. 其匪正有眚, 不利有攸往.",
+        guaCi: "元亨利贞. 其匪正有眚, 不利有攸往.",
         yao: "六二",
-        xiaoXiang: "不耕获, 未富也.",
+        yaoCi: "不耕获, 未富也.",
         origin: "不耕获, 不菑畲, 则利有攸往.",
         meaning: "不耕耘却有收获 不开荒却有良田 则有利于有所作为",
         videoUrls: [
@@ -4751,9 +4750,9 @@ function answers(guaYao) {
     case "无妄六三":
       return {
         gua: "无妄",
-        daXiang: "元亨利贞. 其匪正有眚, 不利有攸往.",
+        guaCi: "元亨利贞. 其匪正有眚, 不利有攸往.",
         yao: "六三",
-        xiaoXiang: "行人得牛, 邑人灾也.",
+        yaoCi: "行人得牛, 邑人灾也.",
         origin: "无妄之灾. 或系之牛, 行人之得, 邑人之灾.",
         meaning: "意想不到的灾祸到来 路人牵走被绳子拴住的耕牛 城里人有灾祸",
         videoUrls: [
@@ -4775,9 +4774,9 @@ function answers(guaYao) {
     case "无妄九四":
       return {
         gua: "无妄",
-        daXiang: "元亨利贞. 其匪正有眚, 不利有攸往.",
+        guaCi: "元亨利贞. 其匪正有眚, 不利有攸往.",
         yao: "九四",
-        xiaoXiang: "可贞无咎, 固有之也.",
+        yaoCi: "可贞无咎, 固有之也.",
         origin: "可贞, 无咎.",
         meaning: "可以正固 无灾祸",
         videoUrls: [
@@ -4799,9 +4798,9 @@ function answers(guaYao) {
     case "无妄九五":
       return {
         gua: "无妄",
-        daXiang: "元亨利贞. 其匪正有眚, 不利有攸往.",
+        guaCi: "元亨利贞. 其匪正有眚, 不利有攸往.",
         yao: "九五",
-        xiaoXiang: "无妄之药, 不可试也.",
+        yaoCi: "无妄之药, 不可试也.",
         origin: "无妄之疾, 勿药有喜.",
         meaning: "得了意想不到的疾病 不比用药治疗 自会痊愈",
         videoUrls: [
@@ -4823,9 +4822,9 @@ function answers(guaYao) {
     case "无妄上九":
       return {
         gua: "无妄",
-        daXiang: "元亨利贞. 其匪正有眚, 不利有攸往.",
+        guaCi: "元亨利贞. 其匪正有眚, 不利有攸往.",
         yao: "上九",
-        xiaoXiang: "无妄之行, 穷之灾也.",
+        yaoCi: "无妄之行, 穷之灾也.",
         origin: "无妄, 行有眚, 无攸利.",
         meaning: "切勿妄为 将有灾祸 无益处",
         videoUrls: [
@@ -4847,9 +4846,9 @@ function answers(guaYao) {
     case "大畜初九":
       return {
         gua: "大畜",
-        daXiang: "利贞, 不家食吉, 利涉大川.",
+        guaCi: "利贞, 不家食吉, 利涉大川.",
         yao: "初九",
-        xiaoXiang: "有厉利已, 不犯灾也.",
+        yaoCi: "有厉利已, 不犯灾也.",
         origin: "有厉, 利已.",
         meaning: "有危险 适宜停止",
         videoUrls: [
@@ -4870,9 +4869,9 @@ function answers(guaYao) {
     case "大畜九二":
       return {
         gua: "大畜",
-        daXiang: "利贞, 不家食吉, 利涉大川.",
+        guaCi: "利贞, 不家食吉, 利涉大川.",
         yao: "九二",
-        xiaoXiang: "舆说辐, 中无尤也.",
+        yaoCi: "舆说辐, 中无尤也.",
         origin: "舆说輹.",
         meaning: "车身与车轴相分离",
         videoUrls: [
@@ -4893,9 +4892,9 @@ function answers(guaYao) {
     case "大畜九三":
       return {
         gua: "大畜",
-        daXiang: "利贞, 不家食吉, 利涉大川.",
+        guaCi: "利贞, 不家食吉, 利涉大川.",
         yao: "九三",
-        xiaoXiang: "利有攸往, 上合志也.",
+        yaoCi: "利有攸往, 上合志也.",
         origin: "良马逐, 利艰贞. 曰闲舆卫, 利有攸往.",
         meaning: "骏马互相追逐 有利于艰难中正固 每日演练战车防卫 适宜有所作为",
         videoUrls: [
@@ -4916,9 +4915,9 @@ function answers(guaYao) {
     case "大畜六四":
       return {
         gua: "大畜",
-        daXiang: "利贞, 不家食吉, 利涉大川.",
+        guaCi: "利贞, 不家食吉, 利涉大川.",
         yao: "六四",
-        xiaoXiang: "六四元吉, 有喜也.",
+        yaoCi: "六四元吉, 有喜也.",
         origin: "童牛之牿, 元吉.",
         meaning: "在牛的角上拴上一根木头 大吉大利",
         videoUrls: [
@@ -4939,9 +4938,9 @@ function answers(guaYao) {
     case "大畜六五":
       return {
         gua: "大畜",
-        daXiang: "利贞, 不家食吉, 利涉大川.",
+        guaCi: "利贞, 不家食吉, 利涉大川.",
         yao: "六五",
-        xiaoXiang: "六五之吉, 有庆也.",
+        yaoCi: "六五之吉, 有庆也.",
         origin: "豮豕之牙, 吉.",
         meaning: "是烈性的猪长出牙齿 可获吉祥",
         videoUrls: [
@@ -4962,9 +4961,9 @@ function answers(guaYao) {
     case "大畜上九":
       return {
         gua: "大畜",
-        daXiang: "利贞, 不家食吉, 利涉大川.",
+        guaCi: "利贞, 不家食吉, 利涉大川.",
         yao: "上九",
-        xiaoXiang: "何天之衢, 道大行也.",
+        yaoCi: "何天之衢, 道大行也.",
         origin: "何天之衢, 亨.",
         meaning: "四通八达的道路 亨通顺畅",
         videoUrls: [
@@ -4985,9 +4984,9 @@ function answers(guaYao) {
     case "颐初九":
       return {
         gua: "颐",
-        daXiang: "贞吉. 观颐, 自求口实.",
+        guaCi: "贞吉. 观颐, 自求口实.",
         yao: "初九",
-        xiaoXiang: "观我朵颐, 亦不足贵也.",
+        yaoCi: "观我朵颐, 亦不足贵也.",
         origin: "舍尔灵龟, 观我朵颐, 凶.",
         meaning: "自己储藏着大量的财宝 还要羡嫉人家的财物 必遭凶险之事",
         videoUrls: [
@@ -5009,9 +5008,9 @@ function answers(guaYao) {
     case "颐六二":
       return {
         gua: "颐",
-        daXiang: "贞吉. 观颐, 自求口实.",
+        guaCi: "贞吉. 观颐, 自求口实.",
         yao: "六二",
-        xiaoXiang: "六二征凶, 行失类也.",
+        yaoCi: "六二征凶, 行失类也.",
         origin: "颠颐, 拂经; 于丘颐, 征凶.",
         meaning:
           "为了糊口 就得在山坡上开荒种地 为了生计而去抢劫别人 这是凶险之事",
@@ -5034,9 +5033,9 @@ function answers(guaYao) {
     case "颐六三":
       return {
         gua: "颐",
-        daXiang: "贞吉. 观颐, 自求口实.",
+        guaCi: "贞吉. 观颐, 自求口实.",
         yao: "六三",
-        xiaoXiang: "十年勿用, 道大悖也.",
+        yaoCi: "十年勿用, 道大悖也.",
         origin: "拂颐, 贞凶. 十年勿用, 无攸利.",
         meaning: "违反颐精养气之道 即使正固也有凶险 十年内不能施展才能 无益处",
         videoUrls: [
@@ -5058,9 +5057,9 @@ function answers(guaYao) {
     case "颐六四":
       return {
         gua: "颐",
-        daXiang: "贞吉. 观颐, 自求口实.",
+        guaCi: "贞吉. 观颐, 自求口实.",
         yao: "六四",
-        xiaoXiang: "颠颐之吉, 上施光也.",
+        yaoCi: "颠颐之吉, 上施光也.",
         origin: "颠颐, 吉. 虎视眈眈, 其欲逐逐, 无咎.",
         meaning:
           "所求不过糊口 害人之心不可存 吉利 虎视眈眈 防人之心不可无 这样就可以安享天年 悠然自得 无灾祸",
@@ -5083,9 +5082,9 @@ function answers(guaYao) {
     case "颐六五":
       return {
         gua: "颐",
-        daXiang: "贞吉. 观颐, 自求口实.",
+        guaCi: "贞吉. 观颐, 自求口实.",
         yao: "六五",
-        xiaoXiang: "居贞之吉, 顺以从上也.",
+        yaoCi: "居贞之吉, 顺以从上也.",
         origin: "拂经, 居贞吉. 不可涉大川.",
         meaning: "违反规律 在家正固 可获吉祥 不可以跨越大江大河",
         videoUrls: [
@@ -5107,9 +5106,9 @@ function answers(guaYao) {
     case "颐上九":
       return {
         gua: "颐",
-        daXiang: "贞吉. 观颐, 自求口实.",
+        guaCi: "贞吉. 观颐, 自求口实.",
         yao: "上九",
-        xiaoXiang: "由颐厉吉, 大有庆也.",
+        yaoCi: "由颐厉吉, 大有庆也.",
         origin: "由颐, 厉吉. 利涉大川.",
         meaning: "遵循生活正道 先艰难而终吉利 筮遇此爻 有利于涉水渡河",
         videoUrls: [
@@ -5131,9 +5130,9 @@ function answers(guaYao) {
     case "大过初六":
       return {
         gua: "大过",
-        daXiang: "栋桡, 利有攸往, 亨.",
+        guaCi: "栋桡, 利有攸往, 亨.",
         yao: "初六",
-        xiaoXiang: "藉用白茅, 柔在下也.",
+        yaoCi: "藉用白茅, 柔在下也.",
         origin: "藉用白茅, 无咎.",
         meaning: "用洁净的茅草铺地以陈设祭品 无灾祸",
         videoUrls: [
@@ -5155,9 +5154,9 @@ function answers(guaYao) {
     case "大过九二":
       return {
         gua: "大过",
-        daXiang: "栋桡, 利有攸往, 亨.",
+        guaCi: "栋桡, 利有攸往, 亨.",
         yao: "九二",
-        xiaoXiang: "老夫女妻, 过以相与也.",
+        yaoCi: "老夫女妻, 过以相与也.",
         origin: "枯杨生稊, 老夫得其女妻, 无不利.",
         meaning: "枯树发芽 老翁娶新妻 无所不利",
         videoUrls: [
@@ -5179,9 +5178,9 @@ function answers(guaYao) {
     case "大过九三":
       return {
         gua: "大过",
-        daXiang: "栋桡, 利有攸往, 亨.",
+        guaCi: "栋桡, 利有攸往, 亨.",
         yao: "九三",
-        xiaoXiang: "栋桡之凶, 不可以有辅也.",
+        yaoCi: "栋桡之凶, 不可以有辅也.",
         origin: "栋桡, 凶.",
         meaning: "房梁弯曲 有凶险",
         videoUrls: [
@@ -5203,9 +5202,9 @@ function answers(guaYao) {
     case "大过九四":
       return {
         gua: "大过",
-        daXiang: "栋桡, 利有攸往, 亨.",
+        guaCi: "栋桡, 利有攸往, 亨.",
         yao: "九四",
-        xiaoXiang: "栋隆之吉, 不桡乎下也.",
+        yaoCi: "栋隆之吉, 不桡乎下也.",
         origin: "栋隆, 吉. 有它吝.",
         meaning: "房梁隆起 可获吉祥 如果有意外发生 则行事艰难",
         videoUrls: [
@@ -5227,9 +5226,9 @@ function answers(guaYao) {
     case "大过九五":
       return {
         gua: "大过",
-        daXiang: "栋桡, 利有攸往, 亨.",
+        guaCi: "栋桡, 利有攸往, 亨.",
         yao: "九五",
-        xiaoXiang: "枯杨生华, 何可久也? 老妇士夫, 亦可丑也.",
+        yaoCi: "枯杨生华, 何可久也? 老妇士夫, 亦可丑也.",
         origin: "枯杨生花, 老妇得其士夫, 无咎无誉.",
         meaning: "枯树开花 老妇与少男结合 无灾祸 无赞誉",
         videoUrls: [
@@ -5251,9 +5250,9 @@ function answers(guaYao) {
     case "大过上六":
       return {
         gua: "大过",
-        daXiang: "栋桡, 利有攸往, 亨.",
+        guaCi: "栋桡, 利有攸往, 亨.",
         yao: "上六",
-        xiaoXiang: "过涉之凶, 不可咎也.",
+        yaoCi: "过涉之凶, 不可咎也.",
         origin: "过涉灭顶, 凶, 无咎.",
         meaning: "徒步过河 被水淹灭了 头顶 有凶险 无灾祸",
         videoUrls: [
@@ -5275,9 +5274,9 @@ function answers(guaYao) {
     case "坎初六":
       return {
         gua: "坎",
-        daXiang: "习坎, 有孚, 维心亨. 行有尚.",
+        guaCi: "习坎, 有孚, 维心亨. 行有尚.",
         yao: "初六",
-        xiaoXiang: "习坎入坎, 失道凶也.",
+        yaoCi: "习坎入坎, 失道凶也.",
         origin: "习坎, 入于坎窞, 凶.",
         meaning: "在重重险阻之中 掉入陷阱 有凶险",
         videoUrls: [
@@ -5299,9 +5298,9 @@ function answers(guaYao) {
     case "坎九二":
       return {
         gua: "坎",
-        daXiang: "习坎, 有孚, 维心亨. 行有尚.",
+        guaCi: "习坎, 有孚, 维心亨. 行有尚.",
         yao: "九二",
-        xiaoXiang: "求小得, 未出中也.",
+        yaoCi: "求小得, 未出中也.",
         origin: "坎有险, 求小得.",
         meaning: "在陷阱中经历危险 谋求小事 会有获得",
         videoUrls: [
@@ -5323,9 +5322,9 @@ function answers(guaYao) {
     case "坎六三":
       return {
         gua: "坎",
-        daXiang: "习坎, 有孚, 维心亨. 行有尚.",
+        guaCi: "习坎, 有孚, 维心亨. 行有尚.",
         yao: "六三",
-        xiaoXiang: "来之坎坎, 终无功也.",
+        yaoCi: "来之坎坎, 终无功也.",
         origin: "来之坎坎, 险且枕, 入于坎窞, 勿用.",
         meaning:
           "来来回回都处于险难之中 陷穴既险也深 一旦落入陷阱之中 暂时无法施展才能",
@@ -5348,9 +5347,9 @@ function answers(guaYao) {
     case "坎六四":
       return {
         gua: "坎",
-        daXiang: "习坎, 有孚, 维心亨. 行有尚.",
+        guaCi: "习坎, 有孚, 维心亨. 行有尚.",
         yao: "六四",
-        xiaoXiang: "樽酒簋贰, 刚柔际也.",
+        yaoCi: "樽酒簋贰, 刚柔际也.",
         origin: "樽酒簋贰, 用缶, 纳约自牖, 终无咎.",
         meaning:
           "将一杯薄酒 两盘供品 用瓦罐装起来 从窗户送进简约的祭品 最后无灾祸",
@@ -5373,9 +5372,9 @@ function answers(guaYao) {
     case "坎九五":
       return {
         gua: "坎",
-        daXiang: "习坎, 有孚, 维心亨. 行有尚.",
+        guaCi: "习坎, 有孚, 维心亨. 行有尚.",
         yao: "九五",
-        xiaoXiang: "坎不盈, 中未大也.",
+        yaoCi: "坎不盈, 中未大也.",
         origin: "坎不盈, 只既平, 无咎.",
         meaning: "陷穴尚未满溢 到需要稳定时则艰难自平 无灾祸",
         videoUrls: [
@@ -5397,9 +5396,9 @@ function answers(guaYao) {
     case "坎上六":
       return {
         gua: "坎",
-        daXiang: "习坎, 有孚, 维心亨. 行有尚.",
+        guaCi: "习坎, 有孚, 维心亨. 行有尚.",
         yao: "上六",
-        xiaoXiang: "上六失道, 凶三岁也.",
+        yaoCi: "上六失道, 凶三岁也.",
         origin: "系用徵纆, 寘于丛棘, 三岁不得, 凶.",
         meaning: "用绳索将犯人捆绑起来放入荆棘草丛之中 三年不让解脱 比有凶险",
         videoUrls: [
@@ -5421,9 +5420,9 @@ function answers(guaYao) {
     case "离初九":
       return {
         gua: "离",
-        daXiang: "利贞, 亨. 畜牝牛, 吉.",
+        guaCi: "利贞, 亨. 畜牝牛, 吉.",
         yao: "初九",
-        xiaoXiang: "履错之敬, 以辟咎也.",
+        yaoCi: "履错之敬, 以辟咎也.",
         origin: "履错然, 敬之, 无咎.",
         meaning: "步子错乱 但保持谨慎恭敬 无灾祸",
         videoUrls: [
@@ -5445,9 +5444,9 @@ function answers(guaYao) {
     case "离六二":
       return {
         gua: "离",
-        daXiang: "利贞, 亨. 畜牝牛, 吉.",
+        guaCi: "利贞, 亨. 畜牝牛, 吉.",
         yao: "六二",
-        xiaoXiang: "黄离元吉, 得中道也.",
+        yaoCi: "黄离元吉, 得中道也.",
         origin: "黄离, 元吉.",
         meaning: "有黄色附于物 大吉大利",
         videoUrls: [
@@ -5469,9 +5468,9 @@ function answers(guaYao) {
     case "离九三":
       return {
         gua: "离",
-        daXiang: "利贞, 亨. 畜牝牛, 吉.",
+        guaCi: "利贞, 亨. 畜牝牛, 吉.",
         yao: "九三",
-        xiaoXiang: "日昃之离, 何可久也.",
+        yaoCi: "日昃之离, 何可久也.",
         origin: "日昃之离, 不鼓缶而歌, 则大耋之嗟, 凶.",
         meaning:
           "太阳快要落山 如果不能边打击瓦罐边唱歌 就会发出垂老之人的哀叹 有凶险",
@@ -5494,9 +5493,9 @@ function answers(guaYao) {
     case "离九四":
       return {
         gua: "离",
-        daXiang: "利贞, 亨. 畜牝牛, 吉.",
+        guaCi: "利贞, 亨. 畜牝牛, 吉.",
         yao: "九四",
-        xiaoXiang: "突如其来如, 无所容也.",
+        yaoCi: "突如其来如, 无所容也.",
         origin: "突如其来如, 焚如, 死如, 弃如.",
         meaning: "突如其来 如同火焰熊熊燃烧 会有生命危险 会被抛弃",
         videoUrls: [
@@ -5518,9 +5517,9 @@ function answers(guaYao) {
     case "离六五":
       return {
         gua: "离",
-        daXiang: "利贞, 亨. 畜牝牛, 吉.",
+        guaCi: "利贞, 亨. 畜牝牛, 吉.",
         yao: "六五",
-        xiaoXiang: "六五之吉, 离王公也.",
+        yaoCi: "六五之吉, 离王公也.",
         origin: "出涕沱若, 戚嗟若, 吉.",
         meaning: "眼泪涌出的样子 悲戚哀叹的样子 然后可获吉祥",
         videoUrls: [
@@ -5542,9 +5541,9 @@ function answers(guaYao) {
     case "离上九":
       return {
         gua: "离",
-        daXiang: "利贞, 亨. 畜牝牛, 吉.",
+        guaCi: "利贞, 亨. 畜牝牛, 吉.",
         yao: "上九",
-        xiaoXiang: "王用出征, 以正邦也.",
+        yaoCi: "王用出征, 以正邦也.",
         origin: "王用出征, 有嘉. 折首, 获匪其丑, 无咎.",
         meaning:
           "君王用贤人出门远行 对能够斩杀敌方首领的人给予嘉奖 不俘获一般的随从 无灾祸",
@@ -5567,9 +5566,9 @@ function answers(guaYao) {
     case "咸初六":
       return {
         gua: "咸",
-        daXiang: "亨, 利贞. 取女吉.",
+        guaCi: "亨, 利贞. 取女吉.",
         yao: "初六",
-        xiaoXiang: "咸其拇, 志在外也.",
+        yaoCi: "咸其拇, 志在外也.",
         origin: "咸其拇.",
         meaning: "感应发生在脚上的大拇指 因势而动",
         videoUrls: [
@@ -5591,9 +5590,9 @@ function answers(guaYao) {
     case "咸六二":
       return {
         gua: "咸",
-        daXiang: "亨, 利贞. 取女吉.",
+        guaCi: "亨, 利贞. 取女吉.",
         yao: "六二",
-        xiaoXiang: "虽凶居吉, 顺不害也.",
+        yaoCi: "虽凶居吉, 顺不害也.",
         origin: "咸其腓, 凶, 居吉.",
         meaning: "感应发生在小腿肚 有凶险 在家里不出来 可获吉祥",
         videoUrls: [
@@ -5615,9 +5614,9 @@ function answers(guaYao) {
     case "咸九三":
       return {
         gua: "咸",
-        daXiang: "亨, 利贞. 取女吉.",
+        guaCi: "亨, 利贞. 取女吉.",
         yao: "九三",
-        xiaoXiang: "咸其股, 亦不处也. 志在随人, 所执下也.",
+        yaoCi: "咸其股, 亦不处也. 志在随人, 所执下也.",
         origin: "咸其股, 执其随, 往吝.",
         meaning: "感应发生在大腿 执迷于盲目追随别人 步履维艰",
         videoUrls: [
@@ -5639,9 +5638,9 @@ function answers(guaYao) {
     case "咸九四":
       return {
         gua: "咸",
-        daXiang: "亨, 利贞. 取女吉.",
+        guaCi: "亨, 利贞. 取女吉.",
         yao: "九四",
-        xiaoXiang: "贞吉悔亡, 未感害也. 憧憧往来, 未光大也.",
+        yaoCi: "贞吉悔亡, 未感害也. 憧憧往来, 未光大也.",
         origin: "贞吉悔亡, 憧憧往来, 朋从尔思.",
         meaning:
           "可获吉祥 危难窘境会消失 即使心意不安 思绪不绝 朋友最后会顺从你的意愿",
@@ -5664,9 +5663,9 @@ function answers(guaYao) {
     case "咸九五":
       return {
         gua: "咸",
-        daXiang: "亨, 利贞. 取女吉.",
+        guaCi: "亨, 利贞. 取女吉.",
         yao: "九五",
-        xiaoXiang: "咸其脢, 志末也.",
+        yaoCi: "咸其脢, 志末也.",
         origin: "咸其脢，无悔.",
         meaning: "感应发生在脊背上 不会有后悔",
         videoUrls: [
@@ -5688,9 +5687,9 @@ function answers(guaYao) {
     case "咸上六":
       return {
         gua: "咸",
-        daXiang: "亨, 利贞. 取女吉.",
+        guaCi: "亨, 利贞. 取女吉.",
         yao: "上六",
-        xiaoXiang: "咸其辅, 颊, 舌, 滕口说也.",
+        yaoCi: "咸其辅, 颊, 舌, 滕口说也.",
         origin: "咸其辅, 颊, 舌.",
         meaning: "感应发生在 口舌 牙床 面颊 都会因势而动",
         videoUrls: [
@@ -5712,9 +5711,9 @@ function answers(guaYao) {
     case "恒初六":
       return {
         gua: "恒",
-        daXiang: "亨, 无咎, 利贞. 利有攸往.",
+        guaCi: "亨, 无咎, 利贞. 利有攸往.",
         yao: "初六",
-        xiaoXiang: "浚恒之凶, 始求深也.",
+        yaoCi: "浚恒之凶, 始求深也.",
         origin: "浚恒, 贞凶, 无攸利.",
         meaning: "有所追求 持续追求过于长 即使正固也有凶险 无益处",
         videoUrls: [
@@ -5736,9 +5735,9 @@ function answers(guaYao) {
     case "恒九二":
       return {
         gua: "恒",
-        daXiang: "亨, 无咎, 利贞. 利有攸往.",
+        guaCi: "亨, 无咎, 利贞. 利有攸往.",
         yao: "九二",
-        xiaoXiang: "九二悔亡, 能久中也.",
+        yaoCi: "九二悔亡, 能久中也.",
         origin: "悔亡.",
         meaning: "窘境会消失",
         videoUrls: [
@@ -5760,9 +5759,9 @@ function answers(guaYao) {
     case "恒九三":
       return {
         gua: "恒",
-        daXiang: "亨, 无咎, 利贞. 利有攸往.",
+        guaCi: "亨, 无咎, 利贞. 利有攸往.",
         yao: "九三",
-        xiaoXiang: "不恒其德, 无所容也.",
+        yaoCi: "不恒其德, 无所容也.",
         origin: "不恒其德, 或承之羞, 贞吝.",
         meaning: "不能长期保持美德 有时会蒙受羞辱 行事艰难",
         videoUrls: [
@@ -5784,9 +5783,9 @@ function answers(guaYao) {
     case "恒九四":
       return {
         gua: "恒",
-        daXiang: "亨, 无咎, 利贞. 利有攸往.",
+        guaCi: "亨, 无咎, 利贞. 利有攸往.",
         yao: "九四",
-        xiaoXiang: "久非其位, 安得禽也?",
+        yaoCi: "久非其位, 安得禽也?",
         origin: "田无禽.",
         meaning: "田间没有禽兽",
         videoUrls: [
@@ -5808,9 +5807,9 @@ function answers(guaYao) {
     case "恒六五":
       return {
         gua: "恒",
-        daXiang: "亨, 无咎, 利贞. 利有攸往.",
+        guaCi: "亨, 无咎, 利贞. 利有攸往.",
         yao: "六五",
-        xiaoXiang: "妇人贞吉, 从一而终也. 夫子制义, 从妇凶也",
+        yaoCi: "妇人贞吉, 从一而终也. 夫子制义, 从妇凶也",
         origin: "恒其德, 贞. 妇人吉, 夫子凶.",
         meaning: "长久的保持美德正固 女人可获得吉祥 男人会处境凶险",
         videoUrls: [
@@ -5832,9 +5831,9 @@ function answers(guaYao) {
     case "恒上六":
       return {
         gua: "恒",
-        daXiang: "亨, 无咎, 利贞. 利有攸往.",
+        guaCi: "亨, 无咎, 利贞. 利有攸往.",
         yao: "上六",
-        xiaoXiang: "振恒在上, 大无功也.",
+        yaoCi: "振恒在上, 大无功也.",
         origin: "振恒, 凶.",
         meaning: "震动不安 不能持之以恒 有凶险",
         videoUrls: [
@@ -5856,9 +5855,9 @@ function answers(guaYao) {
     case "遁初六":
       return {
         gua: "遁",
-        daXiang: "亨. 小利贞.",
+        guaCi: "亨. 小利贞.",
         yao: "初六",
-        xiaoXiang: "遁尾之厉, 不往何灾也.",
+        yaoCi: "遁尾之厉, 不往何灾也.",
         origin: "遁尾, 厉. 勿用有攸往.",
         meaning: "退避不及 落在后面 有凶险 暂时不宜作为 施展才能",
         videoUrls: [
@@ -5880,9 +5879,9 @@ function answers(guaYao) {
     case "遁六二":
       return {
         gua: "遁",
-        daXiang: "亨. 小利贞.",
+        guaCi: "亨. 小利贞.",
         yao: "六二",
-        xiaoXiang: "执用黄牛, 固志也.",
+        yaoCi: "执用黄牛, 固志也.",
         origin: "执之用黄牛之革, 莫之胜说.",
         meaning: "被黄牛皮绳捆绑 没有人能够逃脱",
         videoUrls: [
@@ -5904,9 +5903,9 @@ function answers(guaYao) {
     case "遁九三":
       return {
         gua: "遁",
-        daXiang: "亨. 小利贞.",
+        guaCi: "亨. 小利贞.",
         yao: "九三",
-        xiaoXiang: "系遁之厉, 有疾惫也. 畜臣妾吉, 不可大事也.",
+        yaoCi: "系遁之厉, 有疾惫也. 畜臣妾吉, 不可大事也.",
         origin: "系遁, 有疾厉. 畜臣妾, 吉.",
         meaning: "由于被牵累而难以逃脱 会生病 有危险 畜养奴仆和侍妾 可获吉祥",
         videoUrls: [
@@ -5928,9 +5927,9 @@ function answers(guaYao) {
     case "遁九四":
       return {
         gua: "遁",
-        daXiang: "亨. 小利贞.",
+        guaCi: "亨. 小利贞.",
         yao: "九四",
-        xiaoXiang: "君子好遁, 小人否也.",
+        yaoCi: "君子好遁, 小人否也.",
         origin: "好遁, 君子吉, 小人否.",
         meaning: "行事有利于逃跑时 君子可获吉祥 小人则难以挣脱",
         videoUrls: [
@@ -5952,9 +5951,9 @@ function answers(guaYao) {
     case "遁九五":
       return {
         gua: "遁",
-        daXiang: "亨. 小利贞.",
+        guaCi: "亨. 小利贞.",
         yao: "九五",
-        xiaoXiang: "嘉遁贞吉, 以正志也.",
+        yaoCi: "嘉遁贞吉, 以正志也.",
         origin: "嘉遁, 贞吉.",
         meaning: "选择最佳时机退出 可获吉祥",
         videoUrls: [
@@ -5976,9 +5975,9 @@ function answers(guaYao) {
     case "遁上九":
       return {
         gua: "遁",
-        daXiang: "亨. 小利贞.",
+        guaCi: "亨. 小利贞.",
         yao: "上九",
-        xiaoXiang: "肥遁, 无不利, 无所疑也.",
+        yaoCi: "肥遁, 无不利, 无所疑也.",
         origin: "肥遁, 无不利.",
         meaning: "远走高飞 完全退避 无所不利",
         videoUrls: [
@@ -6000,9 +5999,9 @@ function answers(guaYao) {
     case "大壮初九":
       return {
         gua: "大壮",
-        daXiang: "利贞.",
+        guaCi: "利贞.",
         yao: "初九",
-        xiaoXiang: "壮于趾, 其孚穷也.",
+        yaoCi: "壮于趾, 其孚穷也.",
         origin: "壮于趾, 征凶, 有孚.",
         meaning: "脚趾变粗壮 出门远行 有凶险 需要有诚信",
         videoUrls: [
@@ -6024,9 +6023,9 @@ function answers(guaYao) {
     case "大壮九二":
       return {
         gua: "大壮",
-        daXiang: "利贞.",
+        guaCi: "利贞.",
         yao: "九二",
-        xiaoXiang: "九二贞吉, 以中也.",
+        yaoCi: "九二贞吉, 以中也.",
         origin: "贞吉.",
         meaning: "正固吉祥",
         videoUrls: [
@@ -6048,9 +6047,9 @@ function answers(guaYao) {
     case "大壮九三":
       return {
         gua: "大壮",
-        daXiang: "利贞.",
+        guaCi: "利贞.",
         yao: "九三",
-        xiaoXiang: "小人用壮, 君子罔也.",
+        yaoCi: "小人用壮, 君子罔也.",
         origin: "小人用壮，君子用罔，贞厉。羝羊触藩，羸其角.",
         meaning: "小人靠力量 君子蔑视蛮力 正固有危险 公山羊用角顶篱笆 角被缠住",
         videoUrls: [
@@ -6072,9 +6071,9 @@ function answers(guaYao) {
     case "大壮九四":
       return {
         gua: "大壮",
-        daXiang: "利贞.",
+        guaCi: "利贞.",
         yao: "九四",
-        xiaoXiang: "藩决不羸, 尚往也.",
+        yaoCi: "藩决不羸, 尚往也.",
         origin: "贞吉, 悔亡; 藩决不羸, 壮于大舆之輹.",
         meaning:
           "正固吉祥 忧悔消除 因为公羊冲决篱笆 摆脱了拘系 但又被车轮撞伤 不能乱冲乱撞了",
@@ -6097,9 +6096,9 @@ function answers(guaYao) {
     case "大壮六五":
       return {
         gua: "大壮",
-        daXiang: "利贞.",
+        guaCi: "利贞.",
         yao: "六五",
-        xiaoXiang: "丧羊于易, 位不当也.",
+        yaoCi: "丧羊于易, 位不当也.",
         origin: "丧羊于易, 无悔.",
         meaning: "在田边丢失山羊 不会有忧悔",
         videoUrls: [
@@ -6121,9 +6120,9 @@ function answers(guaYao) {
     case "大壮上六":
       return {
         gua: "大壮",
-        daXiang: "利贞.",
+        guaCi: "利贞.",
         yao: "上六",
-        xiaoXiang: "不能退, 不能遂, 不祥也. 艰则吉, 咎不长也.",
+        yaoCi: "不能退, 不能遂, 不祥也. 艰则吉, 咎不长也.",
         origin: "羝羊触藩, 不能退, 不能遂, 无攸利. 艰则吉.",
         meaning: "公山羊用角顶篱笆 不能退后 不能前进 无益处 艰难过后可获吉祥",
         videoUrls: [
@@ -6145,9 +6144,9 @@ function answers(guaYao) {
     case "晋初六":
       return {
         gua: "晋",
-        daXiang: "康侯用锡马蕃庶, 昼日三接.",
+        guaCi: "康侯用锡马蕃庶, 昼日三接.",
         yao: "初六",
-        xiaoXiang: "晋如摧如, 独行正也. 裕无咎, 未受命也.",
+        yaoCi: "晋如摧如, 独行正也. 裕无咎, 未受命也.",
         origin: "晋如, 摧如, 贞吉. 罔孚, 裕, 无咎.",
         meaning: "晋升中遭遇挫折阻碍 正固吉祥 暂时没有收到信任 无灾祸",
         videoUrls: [
@@ -6169,9 +6168,9 @@ function answers(guaYao) {
     case "晋六二":
       return {
         gua: "晋",
-        daXiang: "康侯用锡马蕃庶, 昼日三接.",
+        guaCi: "康侯用锡马蕃庶, 昼日三接.",
         yao: "六二",
-        xiaoXiang: "受兹介福, 以中正也.",
+        yaoCi: "受兹介福, 以中正也.",
         origin: "晋如, 愁如, 贞吉. 受兹介福, 于其王母.",
         meaning: "晋升中遭遇忧愁 正固吉祥 将会从祖母那里受到宏大的恩泽",
         videoUrls: [
@@ -6193,9 +6192,9 @@ function answers(guaYao) {
     case "晋六三":
       return {
         gua: "晋",
-        daXiang: "康侯用锡马蕃庶, 昼日三接.",
+        guaCi: "康侯用锡马蕃庶, 昼日三接.",
         yao: "六三",
-        xiaoXiang: "众允之志, 上行也.",
+        yaoCi: "众允之志, 上行也.",
         origin: "众允, 悔亡.",
         meaning: "获得众人的信任 忧悔消除",
         videoUrls: [
@@ -6217,9 +6216,9 @@ function answers(guaYao) {
     case "晋九四":
       return {
         gua: "晋",
-        daXiang: "康侯用锡马蕃庶, 昼日三接.",
+        guaCi: "康侯用锡马蕃庶, 昼日三接.",
         yao: "九四",
-        xiaoXiang: "硕鼠贞厉, 位不当也.",
+        yaoCi: "硕鼠贞厉, 位不当也.",
         origin: "晋如鼫鼠, 贞厉.",
         meaning: "今生如同 老鼠一样 即贪婪有没有一技之长 正固有危险",
         videoUrls: [
@@ -6241,9 +6240,9 @@ function answers(guaYao) {
     case "晋六五":
       return {
         gua: "晋",
-        daXiang: "康侯用锡马蕃庶, 昼日三接.",
+        guaCi: "康侯用锡马蕃庶, 昼日三接.",
         yao: "六五",
-        xiaoXiang: "失得勿恤, 往有庆也.",
+        yaoCi: "失得勿恤, 往有庆也.",
         origin: "悔亡, 失得勿恤, 往吉, 无不利.",
         meaning: "忧悔消除 无需再为得失而忧虑 有所作为可获吉祥 无所不利",
         videoUrls: [
@@ -6265,9 +6264,9 @@ function answers(guaYao) {
     case "晋上九":
       return {
         gua: "晋",
-        daXiang: "康侯用锡马蕃庶, 昼日三接.",
+        guaCi: "康侯用锡马蕃庶, 昼日三接.",
         yao: "上九",
-        xiaoXiang: "维用伐邑, 道未光也.",
+        yaoCi: "维用伐邑, 道未光也.",
         origin: "晋其角, 维用伐邑, 厉吉无咎, 贞吝.",
         meaning: "晋升到了顶点 用征讨小国而建立功勋 危中有吉 无灾祸 正固有难",
         videoUrls: [
@@ -6289,9 +6288,9 @@ function answers(guaYao) {
     case "明夷初九":
       return {
         gua: "明夷",
-        daXiang: "利艰贞.",
+        guaCi: "利艰贞.",
         yao: "初九",
-        xiaoXiang: "君子于行, 义不食也.",
+        yaoCi: "君子于行, 义不食也.",
         origin: "明夷于飞, 垂其翼. 君子于行, 三日不食. 有攸往, 主人有言.",
         meaning:
           "在昏暗中 就像飞鸟低垂着翅膀 惊慌飞行 君子若要退避隐藏 就是丢掉职位 三天没有吃饭 一旦有所作为 会受到主人的责备",
@@ -6315,9 +6314,9 @@ function answers(guaYao) {
     case "明夷六二":
       return {
         gua: "明夷",
-        daXiang: "利艰贞.",
+        guaCi: "利艰贞.",
         yao: "六二",
-        xiaoXiang: "六二之吉, 顺以则也.",
+        yaoCi: "六二之吉, 顺以则也.",
         origin: "明夷, 夷于左股, 用拯马壮, 吉.",
         meaning: "在昏暗中 伤到左大腿 如果有良马来救 可获吉祥",
         videoUrls: [
@@ -6340,9 +6339,9 @@ function answers(guaYao) {
     case "明夷九三":
       return {
         gua: "明夷",
-        daXiang: "利艰贞.",
+        guaCi: "利艰贞.",
         yao: "九三",
-        xiaoXiang: "南狩之志, 乃大得也.",
+        yaoCi: "南狩之志, 乃大得也.",
         origin: "明夷于南狩, 得其大首, 不可疾, 贞.",
         meaning: "在昏暗中 去南方狩猎 想获得丰厚 不可操之过急 正固",
         videoUrls: [
@@ -6365,9 +6364,9 @@ function answers(guaYao) {
     case "明夷六四":
       return {
         gua: "明夷",
-        daXiang: "利艰贞.",
+        guaCi: "利艰贞.",
         yao: "六四",
-        xiaoXiang: "入于左腹, 获心意也.",
+        yaoCi: "入于左腹, 获心意也.",
         origin: "入于左腹, 获明夷之心, 出于门庭.",
         meaning: "进入王宫内部 洞悉昏暗的内部情况 最后离开王宫庭院", // 薇子 离开 商纣 王
         videoUrls: [
@@ -6390,9 +6389,9 @@ function answers(guaYao) {
     case "明夷六五":
       return {
         gua: "明夷",
-        daXiang: "利艰贞.",
+        guaCi: "利艰贞.",
         yao: "六五",
-        xiaoXiang: "箕子之贞, 明不可息也.",
+        yaoCi: "箕子之贞, 明不可息也.",
         origin: "箕子之明夷, 利贞.",
         meaning: "像箕子受难时一样 保持正固",
         videoUrls: [
@@ -6415,9 +6414,9 @@ function answers(guaYao) {
     case "明夷上六":
       return {
         gua: "明夷",
-        daXiang: "利艰贞.",
+        guaCi: "利艰贞.",
         yao: "上六",
-        xiaoXiang: "初登于天, 照四国也. 后入于地, 失则也.",
+        yaoCi: "初登于天, 照四国也. 后入于地, 失则也.",
         origin: "不明, 晦; 初登于天, 后入于地.",
         meaning: "不光明 晦暗 起初像天空中升起 最后又落到地上",
         videoUrls: [
@@ -6440,9 +6439,9 @@ function answers(guaYao) {
     case "家人初九":
       return {
         gua: "家人",
-        daXiang: "利女贞.",
+        guaCi: "利女贞.",
         yao: "初九",
-        xiaoXiang: "闲有家，志未变也.",
+        yaoCi: "闲有家，志未变也.",
         origin: "闲有家, 悔亡.",
         meaning: "持家能够预防不测之灾 忧悔消亡",
         videoUrls: [
@@ -6464,9 +6463,9 @@ function answers(guaYao) {
     case "家人六二":
       return {
         gua: "家人",
-        daXiang: "利女贞.",
+        guaCi: "利女贞.",
         yao: "六二",
-        xiaoXiang: "六二之吉, 顺以巽也.",
+        yaoCi: "六二之吉, 顺以巽也.",
         origin: "无攸遂, 在中馈, 贞吉.",
         meaning:
           "不可随心所欲地追求外部事业与功名 而是尽心竭力的料理家中的饮食起居 可获吉祥",
@@ -6489,9 +6488,9 @@ function answers(guaYao) {
     case "家人九三":
       return {
         gua: "家人",
-        daXiang: "利女贞.",
+        guaCi: "利女贞.",
         yao: "九三",
-        xiaoXiang: "家人嗃嗃, 未失也. 妇子嘻嘻, 失家节也.",
+        yaoCi: "家人嗃嗃, 未失也. 妇子嘻嘻, 失家节也.",
         origin: "家人嗃嗃, 悔厉, 吉; 妇子嘻嘻, 终吝.",
         meaning:
           "治家过于严厉常常因为过分训斥家人而感到后悔 先凶后吉 夫人孩子嬉笑 不加约束 最后会有灾祸",
@@ -6514,9 +6513,9 @@ function answers(guaYao) {
     case "家人六四":
       return {
         gua: "家人",
-        daXiang: "利女贞.",
+        guaCi: "利女贞.",
         yao: "六四",
-        xiaoXiang: "富家大吉, 顺在位也.",
+        yaoCi: "富家大吉, 顺在位也.",
         origin: "富家, 大吉.",
         meaning: "家庭富裕 大吉大利",
         videoUrls: [
@@ -6538,9 +6537,9 @@ function answers(guaYao) {
     case "家人九五":
       return {
         gua: "家人",
-        daXiang: "利女贞.",
+        guaCi: "利女贞.",
         yao: "九五",
-        xiaoXiang: "王假有家, 交相爱也.",
+        yaoCi: "王假有家, 交相爱也.",
         origin: "王假有家, 勿恤, 吉.",
         meaning: "君王治国如治家一样 不必忧虑 可获吉祥",
         videoUrls: [
@@ -6562,9 +6561,9 @@ function answers(guaYao) {
     case "家人上九":
       return {
         gua: "家人",
-        daXiang: "利女贞.",
+        guaCi: "利女贞.",
         yao: "上九",
-        xiaoXiang: "威如之吉, 反身之谓也.",
+        yaoCi: "威如之吉, 反身之谓也.",
         origin: "有孚威如, 终吉.",
         meaning: "心存诚信 严于持家 最后可获吉祥",
         videoUrls: [
@@ -6586,9 +6585,9 @@ function answers(guaYao) {
     case "睽初九":
       return {
         gua: "睽",
-        daXiang: "小事吉.",
+        guaCi: "小事吉.",
         yao: "初九",
-        xiaoXiang: "见恶人, 以辟咎也.",
+        yaoCi: "见恶人, 以辟咎也.",
         origin: "悔亡, 丧马勿逐, 自复. 见恶人, 无咎.",
         meaning:
           "忧悔消除 丢失了的马 不必去追逐 马自会返回 谨慎谦虚地对待与自己对立的人 无灾祸",
@@ -6611,9 +6610,9 @@ function answers(guaYao) {
     case "睽九二":
       return {
         gua: "睽",
-        daXiang: "小事吉.",
+        guaCi: "小事吉.",
         yao: "九二",
-        xiaoXiang: "遇主于巷, 未失道也.",
+        yaoCi: "遇主于巷, 未失道也.",
         origin: "遇主于巷, 无咎.",
         meaning: "在小巷中遇到主人 无灾祸",
         videoUrls: [
@@ -6635,9 +6634,9 @@ function answers(guaYao) {
     case "睽六三":
       return {
         gua: "睽",
-        daXiang: "小事吉.",
+        guaCi: "小事吉.",
         yao: "六三",
-        xiaoXiang: "见舆曳, 位不当也. 无初有终, 遇刚也.",
+        yaoCi: "见舆曳, 位不当也. 无初有终, 遇刚也.",
         origin: "见舆曳, 其牛掣. 其人天且劓, 无初有终.",
         meaning:
           "看见大车艰难前行 驾车的牛受到牵制无法前行 驾车的人受到了 墨刑和劓刑 虽然历经磨难 但最终会有美好结局",
@@ -6660,9 +6659,9 @@ function answers(guaYao) {
     case "睽九四":
       return {
         gua: "睽",
-        daXiang: "小事吉.",
+        guaCi: "小事吉.",
         yao: "九四",
-        xiaoXiang: "交孚无咎, 志行也.",
+        yaoCi: "交孚无咎, 志行也.",
         origin: "睽孤, 遇元夫. 交孚, 厉无咎.",
         meaning: "乖离而孤独 但刚好遇到一位贵人 交往中以诚相待 有危险 无灾祸",
         videoUrls: [
@@ -6684,9 +6683,9 @@ function answers(guaYao) {
     case "睽六五":
       return {
         gua: "睽",
-        daXiang: "小事吉.",
+        guaCi: "小事吉.",
         yao: "六五",
-        xiaoXiang: "厥宗噬肤, 往有庆也.",
+        yaoCi: "厥宗噬肤, 往有庆也.",
         origin: "悔亡, 厥宗噬肤, 往何咎.",
         meaning: "忧悔消除 与族人一起吃肉 前进的路上还会有什么灾祸呢",
         videoUrls: [
@@ -6708,9 +6707,9 @@ function answers(guaYao) {
     case "睽上九":
       return {
         gua: "睽",
-        daXiang: "小事吉.",
+        guaCi: "小事吉.",
         yao: "上九",
-        xiaoXiang: "遇雨之吉, 群疑亡也.",
+        yaoCi: "遇雨之吉, 群疑亡也.",
         origin:
           "睽孤, 见豕负涂, 载鬼一车. 先张之弧, 后说之弧. 匪寇婚媾, 往遇雨则吉.",
         meaning:
@@ -6734,9 +6733,9 @@ function answers(guaYao) {
     case "蹇初六":
       return {
         gua: "蹇",
-        daXiang: "利西南, 不利东北. 利见大人, 贞吉.",
+        guaCi: "利西南, 不利东北. 利见大人, 贞吉.",
         yao: "初六",
-        xiaoXiang: "往蹇来誉, 宜待也.",
+        yaoCi: "往蹇来誉, 宜待也.",
         origin: "往蹇来誉.",
         meaning: "有所行动 尽管行事艰难 但归来满载荣誉",
         videoUrls: [
@@ -6758,9 +6757,9 @@ function answers(guaYao) {
     case "蹇六二":
       return {
         gua: "蹇",
-        daXiang: "利西南, 不利东北. 利见大人, 贞吉.",
+        guaCi: "利西南, 不利东北. 利见大人, 贞吉.",
         yao: "六二",
-        xiaoXiang: "王臣蹇蹇, 终无尤也.",
+        yaoCi: "王臣蹇蹇, 终无尤也.",
         origin: "王臣蹇蹇, 匪躬之故.",
         meaning: "君王的臣子遇到险难 不是因为自己的缘故",
         videoUrls: [
@@ -6782,9 +6781,9 @@ function answers(guaYao) {
     case "蹇九三":
       return {
         gua: "蹇",
-        daXiang: "利西南, 不利东北. 利见大人, 贞吉.",
+        guaCi: "利西南, 不利东北. 利见大人, 贞吉.",
         yao: "九三",
-        xiaoXiang: "往蹇来反, 内喜之也.",
+        yaoCi: "往蹇来反, 内喜之也.",
         origin: "往蹇来反.",
         meaning: "在外行动会遭遇艰难 不如及早返回",
         videoUrls: [
@@ -6806,9 +6805,9 @@ function answers(guaYao) {
     case "蹇六四":
       return {
         gua: "蹇",
-        daXiang: "利西南, 不利东北. 利见大人, 贞吉.",
+        guaCi: "利西南, 不利东北. 利见大人, 贞吉.",
         yao: "六四",
-        xiaoXiang: "往蹇来连, 当位实也.",
+        yaoCi: "往蹇来连, 当位实也.",
         origin: "往蹇来连.",
         meaning: "在外行动会遭遇艰难 返回时有车乘",
         videoUrls: [
@@ -6830,9 +6829,9 @@ function answers(guaYao) {
     case "蹇九五":
       return {
         gua: "蹇",
-        daXiang: "利西南, 不利东北. 利见大人, 贞吉.",
+        guaCi: "利西南, 不利东北. 利见大人, 贞吉.",
         yao: "九五",
-        xiaoXiang: "大蹇朋来, 以中节也.",
+        yaoCi: "大蹇朋来, 以中节也.",
         origin: "大蹇朋来.",
         meaning: "行事十分艰难 朋友们纷纷来帮助",
         videoUrls: [
@@ -6854,9 +6853,9 @@ function answers(guaYao) {
     case "蹇上六":
       return {
         gua: "蹇",
-        daXiang: "利西南, 不利东北. 利见大人, 贞吉.",
+        guaCi: "利西南, 不利东北. 利见大人, 贞吉.",
         yao: "上六",
-        xiaoXiang: "往蹇来硕, 志在内也. 利见大人, 以从贵也.",
+        yaoCi: "往蹇来硕, 志在内也. 利见大人, 以从贵也.",
         origin: "往蹇来硕, 吉. 利见大人.",
         meaning: "外出遭遇艰难 归来硕果累累可获吉祥 有利于大德大才的人出现",
         videoUrls: [
@@ -6878,9 +6877,9 @@ function answers(guaYao) {
     case "解初六":
       return {
         gua: "解",
-        daXiang: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
+        guaCi: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
         yao: "初六",
-        xiaoXiang: "刚柔之际, 义无咎也.",
+        yaoCi: "刚柔之际, 义无咎也.",
         origin: "无咎.",
         meaning: "无灾祸",
         videoUrls: [
@@ -6903,9 +6902,9 @@ function answers(guaYao) {
     case "解九二":
       return {
         gua: "解",
-        daXiang: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
+        guaCi: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
         yao: "九二",
-        xiaoXiang: "九二贞吉, 得中道也.",
+        yaoCi: "九二贞吉, 得中道也.",
         origin: "田获三狐, 得黄矢, 贞吉.",
         meaning: "打猎时获得三只狐狸 又获得黄色箭矢 正固吉祥",
         videoUrls: [
@@ -6928,9 +6927,9 @@ function answers(guaYao) {
     case "解六三":
       return {
         gua: "解",
-        daXiang: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
+        guaCi: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
         yao: "六三",
-        xiaoXiang: "负且乘, 亦可丑也. 自我致戎, 又谁咎也.",
+        yaoCi: "负且乘, 亦可丑也. 自我致戎, 又谁咎也.",
         origin: "负且乘, 致寇至, 贞吝.",
         meaning: "背负着重物出行 招致贼寇抢劫 即使正固 也会有灾祸",
         videoUrls: [
@@ -6953,9 +6952,9 @@ function answers(guaYao) {
     case "解九四":
       return {
         gua: "解",
-        daXiang: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
+        guaCi: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
         yao: "九四",
-        xiaoXiang: "解而拇, 未当位也.",
+        yaoCi: "解而拇, 未当位也.",
         origin: "解而拇, 朋至斯孚.",
         meaning: "像解开被绑的拇指一般摆脱小人的纠缠 朋友才会心怀诚信前来帮助",
         videoUrls: [
@@ -6978,9 +6977,9 @@ function answers(guaYao) {
     case "解六五":
       return {
         gua: "解",
-        daXiang: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
+        guaCi: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
         yao: "六五",
-        xiaoXiang: "君子有解, 小人退也.",
+        yaoCi: "君子有解, 小人退也.",
         origin: "君子维有解, 吉, 有孚于小人.",
         meaning: "君王被束缚又得到解脱 可获吉祥 能够用诚信感化小人",
         videoUrls: [
@@ -7003,9 +7002,9 @@ function answers(guaYao) {
     case "解上六":
       return {
         gua: "解",
-        daXiang: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
+        guaCi: "利西南, 无所往, 其来复吉. 有攸往, 夙吉.",
         yao: "上六",
-        xiaoXiang: "公用射隼, 以解悖也.",
+        yaoCi: "公用射隼, 以解悖也.",
         origin: "公用射隼, 于高墉之上, 获之无不利.",
         meaning: "王公用弓箭在高处射下一只大隼 并且捕获了 无往不利",
         videoUrls: [
@@ -7028,9 +7027,9 @@ function answers(guaYao) {
     case "损初九":
       return {
         gua: "损",
-        daXiang: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
+        guaCi: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
         yao: "初九",
-        xiaoXiang: "已事遄往，尚合志也.",
+        yaoCi: "已事遄往，尚合志也.",
         origin: "已事遄往, 无咎, 酌损之.",
         meaning:
           "停止自己的事情 尽快帮助他人 无灾祸 不过适当斟酌减损自己一部分利益就可以了",
@@ -7054,9 +7053,9 @@ function answers(guaYao) {
     case "损九二":
       return {
         gua: "损",
-        daXiang: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
+        guaCi: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
         yao: "九二",
-        xiaoXiang: "九二利贞, 中以为志也.",
+        yaoCi: "九二利贞, 中以为志也.",
         origin: "利贞, 征凶. 弗损, 益之.",
         meaning: "有利于正固 出门远行有凶险 不要减少 会得到增益",
         videoUrls: [
@@ -7079,9 +7078,9 @@ function answers(guaYao) {
     case "损六三":
       return {
         gua: "损",
-        daXiang: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
+        guaCi: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
         yao: "六三",
-        xiaoXiang: "一人行, 三则疑也.",
+        yaoCi: "一人行, 三则疑也.",
         origin: "三人行, 则损一人; 一人行, 则得其友.",
         meaning:
           "三个人一起前行 有一个人会受到伤害 一个人独行 就会遇到志同道合的朋友",
@@ -7105,9 +7104,9 @@ function answers(guaYao) {
     case "损六四":
       return {
         gua: "损",
-        daXiang: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
+        guaCi: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
         yao: "六四",
-        xiaoXiang: "损其疾, 亦可喜也.",
+        yaoCi: "损其疾, 亦可喜也.",
         origin: "损其疾, 使遄有喜, 无咎.",
         meaning: "尽快解决自身疾患 迎接喜庆的到来 无灾祸",
         videoUrls: [
@@ -7130,9 +7129,9 @@ function answers(guaYao) {
     case "损六五":
       return {
         gua: "损",
-        daXiang: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
+        guaCi: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
         yao: "六五",
-        xiaoXiang: "六五元吉, 自上佑也.",
+        yaoCi: "六五元吉, 自上佑也.",
         origin: "或益之, 十朋之龟, 弗克违. 元吉.",
         meaning: "有人送来价值连城的神龟 不要推辞 大吉大利",
         videoUrls: [
@@ -7155,9 +7154,9 @@ function answers(guaYao) {
     case "损上九":
       return {
         gua: "损",
-        daXiang: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
+        guaCi: "有孚, 元吉, 无咎, 可贞. 利有攸往. 曷之用? 二簋可用享.",
         yao: "上九",
-        xiaoXiang: "弗损益之, 大得志也.",
+        yaoCi: "弗损益之, 大得志也.",
         origin: "弗损, 益之, 无咎. 贞吉. 利有攸往, 得臣无家.",
         meaning:
           "不要减损 会得到增益 无灾祸 正固吉祥 适宜有所行动 会得到臣民没有自己的家",
@@ -7181,9 +7180,9 @@ function answers(guaYao) {
     case "益初九":
       return {
         gua: "益",
-        daXiang: "利有攸往, 利涉大川.",
+        guaCi: "利有攸往, 利涉大川.",
         yao: "初九",
-        xiaoXiang: "元吉无咎, 下不厚事也.",
+        yaoCi: "元吉无咎, 下不厚事也.",
         origin: "利用为大作, 元吉, 无咎.",
         meaning: "有利于大展宏图 大吉大利 无灾祸",
         videoUrls: [
@@ -7206,9 +7205,9 @@ function answers(guaYao) {
     case "益六二":
       return {
         gua: "益",
-        daXiang: "利有攸往, 利涉大川.",
+        guaCi: "利有攸往, 利涉大川.",
         yao: "六二",
-        xiaoXiang: "或益之, 自外来也.",
+        yaoCi: "或益之, 自外来也.",
         origin: "或益之, 十朋之龟, 弗克违, 永贞吉. 王用享于帝, 吉.",
         meaning:
           "有人送来价值连城的神龟 不要推辞 恒久之事 正固吉祥 君王祭祀先帝 可获吉祥",
@@ -7232,9 +7231,9 @@ function answers(guaYao) {
     case "益六三":
       return {
         gua: "益",
-        daXiang: "利有攸往, 利涉大川.",
+        guaCi: "利有攸往, 利涉大川.",
         yao: "六三",
-        xiaoXiang: "益用凶事, 固有之也.",
+        yaoCi: "益用凶事, 固有之也.",
         origin: "益之用凶事, 无咎. 有孚中行, 告公用圭.",
         meaning:
           "将得到的好处来救助凶险之事 无灾祸 要以诚相待 时刻像手执玉圭向王公告急求助那样谨慎",
@@ -7258,9 +7257,9 @@ function answers(guaYao) {
     case "益六四":
       return {
         gua: "益",
-        daXiang: "利有攸往, 利涉大川.",
+        guaCi: "利有攸往, 利涉大川.",
         yao: "六四",
-        xiaoXiang: "告公从, 以益志也.",
+        yaoCi: "告公从, 以益志也.",
         origin: "中行, 告公从. 利用为依迁国.",
         meaning:
           "执持守中正道谨慎行事 得到王公信任 有利于凭此来完成迁都利民的大业",
@@ -7284,9 +7283,9 @@ function answers(guaYao) {
     case "益九五":
       return {
         gua: "益",
-        daXiang: "利有攸往, 利涉大川.",
+        guaCi: "利有攸往, 利涉大川.",
         yao: "九五",
-        xiaoXiang: "有孚惠心, 勿问之矣. 惠我德, 大得志也.",
+        yaoCi: "有孚惠心, 勿问之矣. 惠我德, 大得志也.",
         origin: "有孚惠心, 勿问元吉. 有孚惠我德.",
         meaning:
           "心中有诚信 不用占问 就是 大吉大利 天下人一定会以仁爱之心回报我的仁爱之德",
@@ -7310,9 +7309,9 @@ function answers(guaYao) {
     case "益上九":
       return {
         gua: "益",
-        daXiang: "利有攸往, 利涉大川.",
+        guaCi: "利有攸往, 利涉大川.",
         yao: "上九",
-        xiaoXiang: "莫益之, 偏辞也. 或击之, 自外来也.",
+        yaoCi: "莫益之, 偏辞也. 或击之, 自外来也.",
         origin: "莫益之, 或击之, 立心勿恒, 凶.",
         meaning: "没有得到增益帮助 或者受到攻击 树立决心不够坚定 有凶险",
         videoUrls: [
@@ -7335,9 +7334,9 @@ function answers(guaYao) {
     case "夬初九":
       return {
         gua: "夬",
-        daXiang: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
+        guaCi: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
         yao: "初九",
-        xiaoXiang: "不胜而往, 咎也.",
+        yaoCi: "不胜而往, 咎也.",
         origin: "壮于前趾, 往不胜为咎.",
         meaning: "脚趾前部粗壮 冒然前行不会取胜 会招致灾祸",
         videoUrls: [
@@ -7360,9 +7359,9 @@ function answers(guaYao) {
     case "夬九二":
       return {
         gua: "夬",
-        daXiang: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
+        guaCi: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
         yao: "九二",
-        xiaoXiang: "有戎勿恤, 得中道也.",
+        yaoCi: "有戎勿恤, 得中道也.",
         origin: "惕号, 莫夜有戎, 勿恤.",
         meaning: "受到惊吓发出声音 深夜有军队经过 不用担心",
         videoUrls: [
@@ -7385,9 +7384,9 @@ function answers(guaYao) {
     case "夬九三":
       return {
         gua: "夬",
-        daXiang: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
+        guaCi: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
         yao: "九三",
-        xiaoXiang: "君子夬夬, 终无咎也.",
+        yaoCi: "君子夬夬, 终无咎也.",
         origin: "壮于頄, 有凶. 君子夬夬, 独行遇雨, 若濡有愠, 无咎.",
         meaning:
           "面颊之间的骨头强壮 有凶险 君子毅然前行 独自遇雨受淋雨水淋湿了衣服 尽管有怨怒 无灾祸",
@@ -7411,9 +7410,9 @@ function answers(guaYao) {
     case "夬九四":
       return {
         gua: "夬",
-        daXiang: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
+        guaCi: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
         yao: "九四",
-        xiaoXiang: "其行次且, 位不当也. 闻言不信, 聪不明也.",
+        yaoCi: "其行次且, 位不当也. 闻言不信, 聪不明也.",
         origin: "臀无肤, 其行次且. 牵羊悔亡, 闻言不信.",
         meaning:
           "臀部无皮 行走艰难 如果能牵羊而行 忧悔消除 无耐听了这话的人并不相信",
@@ -7437,9 +7436,9 @@ function answers(guaYao) {
     case "夬九五":
       return {
         gua: "夬",
-        daXiang: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
+        guaCi: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
         yao: "九五",
-        xiaoXiang: "中行无咎, 中未光也.",
+        yaoCi: "中行无咎, 中未光也.",
         origin: "苋陆夬夬, 中行无咎.",
         meaning: "细角山羊毅然前行 守中正道 无灾祸",
         videoUrls: [
@@ -7462,9 +7461,9 @@ function answers(guaYao) {
     case "夬上六":
       return {
         gua: "夬",
-        daXiang: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
+        guaCi: "扬于王庭. 孚号有厉. 告自邑, 不利即戎, 利有攸往.",
         yao: "上六",
-        xiaoXiang: "无号之凶, 终不可长也.",
+        yaoCi: "无号之凶, 终不可长也.",
         origin: "无号, 终有凶.",
         meaning: "不要大声发出声音 因为凶险最终会到来",
         videoUrls: [
@@ -7487,9 +7486,9 @@ function answers(guaYao) {
     case "姤初六":
       return {
         gua: "姤",
-        daXiang: "女壮, 勿用取女.",
+        guaCi: "女壮, 勿用取女.",
         yao: "初六",
-        xiaoXiang: "系于金柅, 柔道牵也.",
+        yaoCi: "系于金柅, 柔道牵也.",
         origin: "系于金柅, 贞吉. 有攸往, 见凶. 羸豕孚蹢躅.",
         meaning:
           "紧紧缚在金属织具上 正固吉祥 急于有所行动 会遭遇到凶险 就像猪被捆绑住竭力挣扎一样",
@@ -7512,9 +7511,9 @@ function answers(guaYao) {
     case "姤九二":
       return {
         gua: "姤",
-        daXiang: "女壮, 勿用取女.",
+        guaCi: "女壮, 勿用取女.",
         yao: "九二",
-        xiaoXiang: "包有鱼, 义不及宾也.",
+        yaoCi: "包有鱼, 义不及宾也.",
         origin: "包有鱼, 无咎, 不利宾.",
         meaning: "厨房有鱼 无灾祸 不适宜宴请宾客",
         videoUrls: [
@@ -7536,9 +7535,9 @@ function answers(guaYao) {
     case "姤九三":
       return {
         gua: "姤",
-        daXiang: "女壮, 勿用取女.",
+        guaCi: "女壮, 勿用取女.",
         yao: "九三",
-        xiaoXiang: "其行次且, 行未牵也.",
+        yaoCi: "其行次且, 行未牵也.",
         origin: "臀无肤, 其行次且. 厉, 无大咎.",
         meaning: "屁股上没有皮肤 走路会很艰难 有危险 但无大灾祸",
         videoUrls: [
@@ -7560,9 +7559,9 @@ function answers(guaYao) {
     case "姤九四":
       return {
         gua: "姤",
-        daXiang: "女壮, 勿用取女.",
+        guaCi: "女壮, 勿用取女.",
         yao: "九四",
-        xiaoXiang: "无鱼之凶, 远民也.",
+        yaoCi: "无鱼之凶, 远民也.",
         origin: "包无鱼, 起凶.",
         meaning: "厨房无鱼 会引发凶险",
         videoUrls: [
@@ -7584,9 +7583,9 @@ function answers(guaYao) {
     case "姤九五":
       return {
         gua: "姤",
-        daXiang: "女壮, 勿用取女.",
+        guaCi: "女壮, 勿用取女.",
         yao: "九五",
-        xiaoXiang: "九五含章, 中正也. 有陨自天, 志不舍命也.",
+        yaoCi: "九五含章, 中正也. 有陨自天, 志不舍命也.",
         origin: "以杞包瓜, 含章, 有陨自天.",
         meaning: "用杞树萌护树下的瓜果 象征着蕴藏文采 会从天而降",
         videoUrls: [
@@ -7608,9 +7607,9 @@ function answers(guaYao) {
     case "姤上九":
       return {
         gua: "姤",
-        daXiang: "女壮, 勿用取女.",
+        guaCi: "女壮, 勿用取女.",
         yao: "上九",
-        xiaoXiang: "姤其角, 上穷吝也.",
+        yaoCi: "姤其角, 上穷吝也.",
         origin: "姤其角, 吝, 无咎.",
         meaning: "走入空荡的角落里 凶险 无灾祸",
         videoUrls: [
@@ -7632,9 +7631,9 @@ function answers(guaYao) {
     case "萃初六":
       return {
         gua: "萃",
-        daXiang: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
+        guaCi: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
         yao: "初六",
-        xiaoXiang: "乃乱乃萃, 其志乱也.",
+        yaoCi: "乃乱乃萃, 其志乱也.",
         origin: "有孚不终, 乃乱乃萃. 若号, 一握为笑. 勿恤, 往无咎.",
         meaning:
           "心怀诚信但没有坚持到最后 出现了混乱与新的聚集 如果发出大的声音 就在此时占卜到 一握之数 随后大笑 不用忧虑 有所行动无灾祸",
@@ -7658,9 +7657,9 @@ function answers(guaYao) {
     case "萃六二":
       return {
         gua: "萃",
-        daXiang: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
+        guaCi: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
         yao: "六二",
-        xiaoXiang: "引吉无咎, 中未变也.",
+        yaoCi: "引吉无咎, 中未变也.",
         origin: "引吉, 无咎. 孚乃利用禴.",
         meaning: "迎来吉祥 无灾祸 心怀诚信有利于祭祀求福",
         videoUrls: [
@@ -7683,9 +7682,9 @@ function answers(guaYao) {
     case "萃六三":
       return {
         gua: "萃",
-        daXiang: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
+        guaCi: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
         yao: "六三",
-        xiaoXiang: "往无咎, 上巽也.",
+        yaoCi: "往无咎, 上巽也.",
         origin: "萃如, 嗟如, 无攸利. 往无咎, 小吝.",
         meaning: "由于汇聚而产生叹息 无益处 有所行动无灾祸 小凶险",
         videoUrls: [
@@ -7708,9 +7707,9 @@ function answers(guaYao) {
     case "萃九四":
       return {
         gua: "萃",
-        daXiang: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
+        guaCi: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
         yao: "九四",
-        xiaoXiang: "大吉无咎, 位不当也.",
+        yaoCi: "大吉无咎, 位不当也.",
         origin: "大吉, 无咎.",
         meaning: "大的吉祥 无灾祸",
         videoUrls: [
@@ -7733,9 +7732,9 @@ function answers(guaYao) {
     case "萃九五":
       return {
         gua: "萃",
-        daXiang: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
+        guaCi: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
         yao: "九五",
-        xiaoXiang: "萃有位, 志未光也.",
+        yaoCi: "萃有位, 志未光也.",
         origin: "萃有位, 无咎. 匪孚, 元永贞, 悔亡.",
         meaning:
           "汇聚而适得其位 无灾祸 但还不能获取众人的信任 开始并持续正固 忧悔消除",
@@ -7759,9 +7758,9 @@ function answers(guaYao) {
     case "萃上六":
       return {
         gua: "萃",
-        daXiang: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
+        guaCi: "亨. 王假有庙. 利见大人, 亨, 利贞. 用大牲吉, 利有攸往.",
         yao: "上六",
-        xiaoXiang: "赍咨涕洟, 未安上也.",
+        yaoCi: "赍咨涕洟, 未安上也.",
         origin: "赍咨涕洟, 无咎.",
         meaning: "悲伤叹息又痛哭流涕 没灾祸",
         videoUrls: [
@@ -7784,9 +7783,9 @@ function answers(guaYao) {
     case "升初六":
       return {
         gua: "升",
-        daXiang: "元亨, 用见大人, 勿恤, 南征吉.",
+        guaCi: "元亨, 用见大人, 勿恤, 南征吉.",
         yao: "初六",
-        xiaoXiang: "允升大吉, 上合志也.",
+        yaoCi: "允升大吉, 上合志也.",
         origin: "允升, 大吉.",
         meaning: "不断长进上升 大的吉祥",
         videoUrls: [
@@ -7809,9 +7808,9 @@ function answers(guaYao) {
     case "升九二":
       return {
         gua: "升",
-        daXiang: "元亨, 用见大人, 勿恤, 南征吉.",
+        guaCi: "元亨, 用见大人, 勿恤, 南征吉.",
         yao: "九二",
-        xiaoXiang: "九二之孚, 有喜也.",
+        yaoCi: "九二之孚, 有喜也.",
         origin: "孚乃利用禴, 无咎.",
         meaning: "心怀诚信有助于祭祀求福 无灾祸",
         videoUrls: [
@@ -7834,9 +7833,9 @@ function answers(guaYao) {
     case "升九三":
       return {
         gua: "升",
-        daXiang: "元亨, 用见大人, 勿恤, 南征吉.",
+        guaCi: "元亨, 用见大人, 勿恤, 南征吉.",
         yao: "九三",
-        xiaoXiang: "升虚邑, 无所疑也.",
+        yaoCi: "升虚邑, 无所疑也.",
         origin: "升虚邑.",
         meaning: "上升到空旷的城邑 如入无人之境",
         videoUrls: [
@@ -7859,9 +7858,9 @@ function answers(guaYao) {
     case "升六四":
       return {
         gua: "升",
-        daXiang: "元亨, 用见大人, 勿恤, 南征吉.",
+        guaCi: "元亨, 用见大人, 勿恤, 南征吉.",
         yao: "六四",
-        xiaoXiang: "王用亨于岐山, 顺事也.",
+        yaoCi: "王用亨于岐山, 顺事也.",
         origin: "王用亨于岐山, 吉, 无咎.",
         meaning: "君王来到岐山祭祀神灵 可获吉祥 无灾祸",
         videoUrls: [
@@ -7884,9 +7883,9 @@ function answers(guaYao) {
     case "升六五":
       return {
         gua: "升",
-        daXiang: "元亨, 用见大人, 勿恤, 南征吉.",
+        guaCi: "元亨, 用见大人, 勿恤, 南征吉.",
         yao: "六五",
-        xiaoXiang: "贞吉升阶, 大得志也.",
+        yaoCi: "贞吉升阶, 大得志也.",
         origin: "贞吉, 升阶.",
         meaning: "正固吉祥 步步高升",
         videoUrls: [
@@ -7909,9 +7908,9 @@ function answers(guaYao) {
     case "升上六":
       return {
         gua: "升",
-        daXiang: "元亨, 用见大人, 勿恤, 南征吉.",
+        guaCi: "元亨, 用见大人, 勿恤, 南征吉.",
         yao: "上六",
-        xiaoXiang: "冥升在上, 消不富也.",
+        yaoCi: "冥升在上, 消不富也.",
         origin: "冥升, 利于不息之贞.",
         meaning: "深夜还要上升 有利于停止上升而正固",
         videoUrls: [
@@ -7934,9 +7933,9 @@ function answers(guaYao) {
     case "困初六":
       return {
         gua: "困",
-        daXiang: "亨, 贞, 大人吉, 无咎. 有言不信.",
+        guaCi: "亨, 贞, 大人吉, 无咎. 有言不信.",
         yao: "初六",
-        xiaoXiang: "入于幽谷, 幽不明也.",
+        yaoCi: "入于幽谷, 幽不明也.",
         origin: "臀困于株木, 入于幽谷, 三岁不觌.",
         meaning: "困坐在树干上无法安身 只得退居幽暗的山谷里 三年不能露面",
         videoUrls: [
@@ -7959,9 +7958,9 @@ function answers(guaYao) {
     case "困九二":
       return {
         gua: "困",
-        daXiang: "亨, 贞, 大人吉, 无咎. 有言不信.",
+        guaCi: "亨, 贞, 大人吉, 无咎. 有言不信.",
         yao: "九二",
-        xiaoXiang: "困于酒食, 中有庆也.",
+        yaoCi: "困于酒食, 中有庆也.",
         origin: "困于酒食, 朱绂方来, 利用享祀. 征凶, 无咎.",
         meaning:
           "喝醉了酒 大红祭祀衣服刚刚送来 正好用来祭祀 此时出门远行有凶险 无灾祸",
@@ -7985,9 +7984,9 @@ function answers(guaYao) {
     case "困六三":
       return {
         gua: "困",
-        daXiang: "亨, 贞, 大人吉, 无咎. 有言不信.",
+        guaCi: "亨, 贞, 大人吉, 无咎. 有言不信.",
         yao: "六三",
-        xiaoXiang: "据于蒺藜, 乘刚也. 入于其宫, 不见其妻, 不祥也.",
+        yaoCi: "据于蒺藜, 乘刚也. 入于其宫, 不见其妻, 不祥也.",
         origin: "困于石, 据于疾藜. 入于其宫, 不见其妻, 凶.",
         meaning:
           "被困到乱石之中 靠着有刺的荆棘爬了出来 回到家中 看不到妻子 有凶险",
@@ -8011,9 +8010,9 @@ function answers(guaYao) {
     case "困九四":
       return {
         gua: "困",
-        daXiang: "亨, 贞, 大人吉, 无咎. 有言不信.",
+        guaCi: "亨, 贞, 大人吉, 无咎. 有言不信.",
         yao: "九四",
-        xiaoXiang: "来徐徐, 志在下也. 虽不当位, 有与也.",
+        yaoCi: "来徐徐, 志在下也. 虽不当位, 有与也.",
         origin: "来徐徐, 困于金车, 吝, 有终.",
         meaning:
           "迈着步子缓缓走来 被一辆豪华的大车挡住了去路 有麻烦 但会有好的结果",
@@ -8037,9 +8036,9 @@ function answers(guaYao) {
     case "困九五":
       return {
         gua: "困",
-        daXiang: "亨, 贞, 大人吉, 无咎. 有言不信.",
+        guaCi: "亨, 贞, 大人吉, 无咎. 有言不信.",
         yao: "九五",
-        xiaoXiang: "劓刖, 志未得也. 乃徐有说, 以中直也. 利用祭祀, 受福也.",
+        yaoCi: "劓刖, 志未得也. 乃徐有说, 以中直也. 利用祭祀, 受福也.",
         origin: "劓刖, 困于赤绂. 乃徐, 有说, 利用祭祀.",
         meaning:
           "使用割鼻断足刑罚来治理众人 困难是因红色祭服引起 因而就渐渐的不再穿了 有利于祭祀",
@@ -8063,9 +8062,9 @@ function answers(guaYao) {
     case "困上六":
       return {
         gua: "困",
-        daXiang: "亨, 贞, 大人吉, 无咎. 有言不信.",
+        guaCi: "亨, 贞, 大人吉, 无咎. 有言不信.",
         yao: "上六",
-        xiaoXiang: "困于葛藟, 未当也. 动悔有悔, 吉行也.",
+        yaoCi: "困于葛藟, 未当也. 动悔有悔, 吉行也.",
         origin: "困于葛藟, 于臲卼, 曰动悔. 有悔, 征吉.",
         meaning:
           "被葛藤纠缠的惶恐不安有所行动会感到后悔 应该幡然悔悟 出门远行 可获吉祥",
@@ -8089,9 +8088,9 @@ function answers(guaYao) {
     case "井初六":
       return {
         gua: "井",
-        daXiang: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
+        guaCi: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
         yao: "初六",
-        xiaoXiang: "井泥不食, 下也. 旧井无禽, 时舍也.",
+        yaoCi: "井泥不食, 下也. 旧井无禽, 时舍也.",
         origin: "井泥不食, 旧井无禽.",
         meaning: "井底污泥淤积 井水已经不能再食用 井枯树死 飞鸟再也不来栖息",
         videoUrls: [
@@ -8113,9 +8112,9 @@ function answers(guaYao) {
     case "井九二":
       return {
         gua: "井",
-        daXiang: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
+        guaCi: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
         yao: "九二",
-        xiaoXiang: "井谷射鲋, 无与也.",
+        yaoCi: "井谷射鲋, 无与也.",
         origin: "井谷射鲋, 瓮敝漏.",
         meaning: "井中积水处被当作捉鱼的场所 用来打水的瓦罐破漏不能再用",
         videoUrls: [
@@ -8137,9 +8136,9 @@ function answers(guaYao) {
     case "井九三":
       return {
         gua: "井",
-        daXiang: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
+        guaCi: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
         yao: "九三",
-        xiaoXiang: "井渫不食, 行恻也. 求王明, 受福也.",
+        yaoCi: "井渫不食, 行恻也. 求王明, 受福也.",
         origin: "井渫不食, 为我心恻. 可用汲, 王明, 并受其福.",
         meaning:
           "井中淤泥已被清除仍然没有人取水食用 让人心生悲伤 井水已可食用 应该尽快来取水 君王圣明 与臣民共享恩泽",
@@ -8162,9 +8161,9 @@ function answers(guaYao) {
     case "井六四":
       return {
         gua: "井",
-        daXiang: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
+        guaCi: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
         yao: "六四",
-        xiaoXiang: "井甃无咎, 修井也.",
+        yaoCi: "井甃无咎, 修井也.",
         origin: "井甃, 无咎.",
         meaning: "修整井壁 无灾祸",
         videoUrls: [
@@ -8186,9 +8185,9 @@ function answers(guaYao) {
     case "井九五":
       return {
         gua: "井",
-        daXiang: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
+        guaCi: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
         yao: "九五",
-        xiaoXiang: "寒泉之食, 中正也.",
+        yaoCi: "寒泉之食, 中正也.",
         origin: "井冽寒泉, 食.",
         meaning: "井水清澈明净就像甘甜凉爽的泉水一样 可供饮用",
         videoUrls: [
@@ -8210,9 +8209,9 @@ function answers(guaYao) {
     case "井上六":
       return {
         gua: "井",
-        daXiang: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
+        guaCi: "改邑不改井, 无丧无得. 往来井井. 汔至亦未繘井. 羸其瓶, 凶.",
         yao: "上六",
-        xiaoXiang: "元吉在上, 大成也.",
+        yaoCi: "元吉在上, 大成也.",
         origin: "井收勿幕, 有孚元吉.",
         meaning: "修整水井的事已然完成 无需再盖井口 此时心怀诚信 大吉大利",
         videoUrls: [
@@ -8234,9 +8233,9 @@ function answers(guaYao) {
     case "革初九":
       return {
         gua: "革",
-        daXiang: "己日乃孚. 元亨利贞. 悔亡.",
+        guaCi: "己日乃孚. 元亨利贞. 悔亡.",
         yao: "初九",
-        xiaoXiang: "巩用黄牛, 不可以有为也.",
+        yaoCi: "巩用黄牛, 不可以有为也.",
         origin: "巩用黄牛之革.",
         meaning: "用黄牛皮绳牢牢拴住 以免轻举妄动",
         videoUrls: [
@@ -8259,9 +8258,9 @@ function answers(guaYao) {
     case "革六二":
       return {
         gua: "革",
-        daXiang: "己日乃孚. 元亨利贞. 悔亡.",
+        guaCi: "己日乃孚. 元亨利贞. 悔亡.",
         yao: "六二",
-        xiaoXiang: "己日革之, 行有嘉也.",
+        yaoCi: "己日革之, 行有嘉也.",
         origin: "己日乃革之. 征吉, 无咎.",
         meaning: "到了己日断然进行改革 出兵讨伐可获吉祥 无灾祸",
         videoUrls: [
@@ -8284,9 +8283,9 @@ function answers(guaYao) {
     case "革九三":
       return {
         gua: "革",
-        daXiang: "己日乃孚. 元亨利贞. 悔亡.",
+        guaCi: "己日乃孚. 元亨利贞. 悔亡.",
         yao: "九三",
-        xiaoXiang: "革言三就, 又何之矣.",
+        yaoCi: "革言三就, 又何之矣.",
         origin: "征凶, 贞厉. 革言三就, 有孚.",
         meaning:
           "出门远行会有凶险 即使正固也有危险 变革要集思广益 行动时要有诚信",
@@ -8310,9 +8309,9 @@ function answers(guaYao) {
     case "革九四":
       return {
         gua: "革",
-        daXiang: "己日乃孚. 元亨利贞. 悔亡.",
+        guaCi: "己日乃孚. 元亨利贞. 悔亡.",
         yao: "九四",
-        xiaoXiang: "改命之吉, 信志也.",
+        yaoCi: "改命之吉, 信志也.",
         origin: "悔亡, 有孚, 改命, 吉.",
         meaning: "忧悔消除 行动时要有诚信 改朝换代 顺天应命 可获吉祥",
         videoUrls: [
@@ -8335,9 +8334,9 @@ function answers(guaYao) {
     case "革九五":
       return {
         gua: "革",
-        daXiang: "己日乃孚. 元亨利贞. 悔亡.",
+        guaCi: "己日乃孚. 元亨利贞. 悔亡.",
         yao: "九五",
-        xiaoXiang: "大人虎变, 其文炳也.",
+        yaoCi: "大人虎变, 其文炳也.",
         origin: "大人虎变, 未占有孚.",
         meaning:
           "有才能的人变革时气势会像老虎一样威猛 不必占卜 也能有光大诚信的美德",
@@ -8361,9 +8360,9 @@ function answers(guaYao) {
     case "革上六":
       return {
         gua: "革",
-        daXiang: "己日乃孚. 元亨利贞. 悔亡.",
+        guaCi: "己日乃孚. 元亨利贞. 悔亡.",
         yao: "上六",
-        xiaoXiang: "君子豹变, 其文蔚也. 小人革面, 顺以从君也.",
+        yaoCi: "君子豹变, 其文蔚也. 小人革面, 顺以从君也.",
         origin: "君子豹变, 小人革面. 征凶, 居贞吉.",
         meaning:
           "有才能的人变革时行动会像豹子一样迅速 小人改变往日的面目 出兵讨伐会有凶险 居家守中 正固吉祥",
@@ -8387,9 +8386,9 @@ function answers(guaYao) {
     case "鼎初六":
       return {
         gua: "鼎",
-        daXiang: "元吉, 亨.",
+        guaCi: "元吉, 亨.",
         yao: "初六",
-        xiaoXiang: "鼎颠趾, 未悖也. 利出否, 以从贵也.",
+        yaoCi: "鼎颠趾, 未悖也. 利出否, 以从贵也.",
         origin: "鼎颠趾, 利出否. 得妾以其子, 无咎.",
         meaning:
           "大鼎翻倒 其足向上 适宜倒掉无用之物 就如同妻妾生子 其妾因子而被扶作正室 无灾祸",
@@ -8414,9 +8413,9 @@ function answers(guaYao) {
     case "鼎九二":
       return {
         gua: "鼎",
-        daXiang: "元吉, 亨.",
+        guaCi: "元吉, 亨.",
         yao: "九二",
-        xiaoXiang: "鼎有实, 慎所之也. 我仇有疾, 终无尤也.",
+        yaoCi: "鼎有实, 慎所之也. 我仇有疾, 终无尤也.",
         origin: "鼎有实, 我仇有疾, 不我能即, 吉.",
         meaning: "鼎中盛满食物 我的对手患了疾病 所以不能靠近我 可获吉祥",
         videoUrls: [
@@ -8440,9 +8439,9 @@ function answers(guaYao) {
     case "鼎九三":
       return {
         gua: "鼎",
-        daXiang: "元吉, 亨.",
+        guaCi: "元吉, 亨.",
         yao: "九三",
-        xiaoXiang: "鼎耳革, 失其义也.",
+        yaoCi: "鼎耳革, 失其义也.",
         origin: "鼎耳革, 其行塞, 雉膏不食. 方雨, 亏悔, 终吉.",
         meaning:
           "鼎的耳朵被破坏了 无法被移动 鼎里的山鸡汤也喝不成了 待到阴阳调和 润雨出现才能消除悔恨 最终可获吉祥",
@@ -8467,9 +8466,9 @@ function answers(guaYao) {
     case "鼎九四":
       return {
         gua: "鼎",
-        daXiang: "元吉, 亨.",
+        guaCi: "元吉, 亨.",
         yao: "九四",
-        xiaoXiang: "覆公餗, 信如何也?",
+        yaoCi: "覆公餗, 信如何也?",
         origin: "鼎折足, 覆公餗, 其形渥, 凶.",
         meaning:
           "大鼎那堪重负导致鼎足断折 王公的美食都被倾倒出来 鼎身沾满污物 有凶险",
@@ -8494,9 +8493,9 @@ function answers(guaYao) {
     case "鼎六五":
       return {
         gua: "鼎",
-        daXiang: "元吉, 亨.",
+        guaCi: "元吉, 亨.",
         yao: "六五",
-        xiaoXiang: "鼎黄耳, 中以为实也.",
+        yaoCi: "鼎黄耳, 中以为实也.",
         origin: "鼎黄耳金铉, 利贞.",
         meaning: "大鼎配备上黄色的耳饰 鼎耳配备上铜制的吊环 有利于正固",
         videoUrls: [
@@ -8520,9 +8519,9 @@ function answers(guaYao) {
     case "鼎上九":
       return {
         gua: "鼎",
-        daXiang: "元吉, 亨.",
+        guaCi: "元吉, 亨.",
         yao: "上九",
-        xiaoXiang: "玉铉在上, 刚柔节也.",
+        yaoCi: "玉铉在上, 刚柔节也.",
         origin: "鼎玉铉, 大吉, 无不利.",
         meaning: "鼎耳配有玉制的吊环 大为吉利 无所不利",
         videoUrls: [
@@ -8546,9 +8545,9 @@ function answers(guaYao) {
     case "震初九":
       return {
         gua: "震",
-        daXiang: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
+        guaCi: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
         yao: "初九",
-        xiaoXiang: "震来虩虩, 恐致福也. 笑言哑哑, 后有则也.",
+        yaoCi: "震来虩虩, 恐致福也. 笑言哑哑, 后有则也.",
         origin: "震来虩虩, 后笑言哑哑, 吉.",
         meaning: "雷霆极响 震的万物惊惶恐惧 虽有有谈笑风生 吉祥",
         videoUrls: [
@@ -8571,9 +8570,9 @@ function answers(guaYao) {
     case "震六二":
       return {
         gua: "震",
-        daXiang: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
+        guaCi: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
         yao: "六二",
-        xiaoXiang: "震来厉, 乘刚也.",
+        yaoCi: "震来厉, 乘刚也.",
         origin: "震来厉, 亿丧贝. 跻于九陵, 勿逐, 七日得.",
         meaning:
           "雷霆极响待来危险 丢失钱财 应该登上九重高陵 不要追逐 七天内会失而复得",
@@ -8597,9 +8596,9 @@ function answers(guaYao) {
     case "震六三":
       return {
         gua: "震",
-        daXiang: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
+        guaCi: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
         yao: "六三",
-        xiaoXiang: "震苏苏, 位不当也.",
+        yaoCi: "震苏苏, 位不当也.",
         origin: "震苏苏, 震行无眚.",
         meaning: "雷霆震动 惊惶不安 伴随着震动前行 无灾难",
         videoUrls: [
@@ -8622,9 +8621,9 @@ function answers(guaYao) {
     case "震九四":
       return {
         gua: "震",
-        daXiang: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
+        guaCi: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
         yao: "九四",
-        xiaoXiang: "震遂泥, 未光也.",
+        yaoCi: "震遂泥, 未光也.",
         origin: "震遂泥.",
         meaning: "雷霆震动 惊慌失措 落入泥中",
         videoUrls: [
@@ -8647,9 +8646,9 @@ function answers(guaYao) {
     case "震六五":
       return {
         gua: "震",
-        daXiang: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
+        guaCi: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
         yao: "六五",
-        xiaoXiang: "震往来厉, 危行也. 其事在中, 大无丧也.",
+        yaoCi: "震往来厉, 危行也. 其事在中, 大无丧也.",
         origin: "震往来厉, 亿无丧, 有事.",
         meaning: "雷霆震动 上下往来都有危险 但无重大损失 会有事发生",
         videoUrls: [
@@ -8672,9 +8671,9 @@ function answers(guaYao) {
     case "震上六":
       return {
         gua: "震",
-        daXiang: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
+        guaCi: "亨. 震来虩虩, 笑言哑哑. 震惊百里, 不丧匕鬯.",
         yao: "上六",
-        xiaoXiang: "震索索, 未得中也. 虽凶无咎, 畏邻戒也.",
+        yaoCi: "震索索, 未得中也. 虽凶无咎, 畏邻戒也.",
         origin: "震索索, 视矍矍, 征凶. 震不于其躬, 于其邻, 无咎. 婚媾有言.",
         meaning:
           "雷霆震动 瑟瑟发抖 六神无主 出门远行有凶险 震动不是来自于自身而是来自于旁边的人 无灾祸 婚配会有责怪之言",
@@ -8698,9 +8697,9 @@ function answers(guaYao) {
     case "艮初六":
       return {
         gua: "艮",
-        daXiang: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
+        guaCi: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
         yao: "初六",
-        xiaoXiang: "艮其趾, 未失正也.",
+        yaoCi: "艮其趾, 未失正也.",
         origin: "艮其趾, 无咎. 利永贞.",
         meaning: "抑制脚趾使其难以起步 无灾祸 有利于占问长久之事",
         videoUrls: [
@@ -8723,9 +8722,9 @@ function answers(guaYao) {
     case "艮六二":
       return {
         gua: "艮",
-        daXiang: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
+        guaCi: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
         yao: "六二",
-        xiaoXiang: "不拯其随, 未退听也.",
+        yaoCi: "不拯其随, 未退听也.",
         origin: "艮其腓, 不拯其随, 其心不快.",
         meaning: "抑制小腿肚运动 既然无法拯救别人 只好随别人行动 心中不能舒畅",
         videoUrls: [
@@ -8748,9 +8747,9 @@ function answers(guaYao) {
     case "艮九三":
       return {
         gua: "艮",
-        daXiang: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
+        guaCi: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
         yao: "九三",
-        xiaoXiang: "艮其限, 危薰心也.",
+        yaoCi: "艮其限, 危薰心也.",
         origin: "艮其限, 列其夤, 厉薰心.",
         meaning:
           "抑制腰部运动 以至于撕裂了夹脊肉 凶险就像烈火烧灼 让人心急如焚",
@@ -8774,9 +8773,9 @@ function answers(guaYao) {
     case "艮六四":
       return {
         gua: "艮",
-        daXiang: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
+        guaCi: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
         yao: "六四",
-        xiaoXiang: "艮其身, 止诸躬也.",
+        yaoCi: "艮其身, 止诸躬也.",
         origin: "艮其身, 无咎.",
         meaning: "抑制身体上部运动 无灾祸",
         videoUrls: [
@@ -8799,9 +8798,9 @@ function answers(guaYao) {
     case "艮六五":
       return {
         gua: "艮",
-        daXiang: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
+        guaCi: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
         yao: "六五",
-        xiaoXiang: "艮其辅, 以中正也.",
+        yaoCi: "艮其辅, 以中正也.",
         origin: "艮其辅, 言有序, 悔亡.",
         meaning: "抑制脸颊运动 使之说话有条理 忧悔消除",
         videoUrls: [
@@ -8824,9 +8823,9 @@ function answers(guaYao) {
     case "艮上九":
       return {
         gua: "艮",
-        daXiang: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
+        guaCi: "艮其背, 不获其身, 行其庭, 不见其人, 无咎.",
         yao: "上九",
-        xiaoXiang: "敦艮之吉, 以厚终也.",
+        yaoCi: "敦艮之吉, 以厚终也.",
         origin: "敦艮, 吉.",
         meaning: "敦厚的美德压制邪欲恶念 吉祥",
         videoUrls: [
@@ -8849,9 +8848,9 @@ function answers(guaYao) {
     case "渐初六":
       return {
         gua: "渐",
-        daXiang: "女归吉, 利贞.",
+        guaCi: "女归吉, 利贞.",
         yao: "初六",
-        xiaoXiang: "小子之厉, 义无咎也.",
+        yaoCi: "小子之厉, 义无咎也.",
         origin: "鸿渐于干, 小子厉. 有言, 无咎.",
         meaning: "鸿雁飞行渐进到了河岸边 小雁有危险 被大雁叫住 无灾祸",
         videoUrls: [
@@ -8874,9 +8873,9 @@ function answers(guaYao) {
     case "渐六二":
       return {
         gua: "渐",
-        daXiang: "女归吉, 利贞.",
+        guaCi: "女归吉, 利贞.",
         yao: "六二",
-        xiaoXiang: "饮食衍衍, 不素饱也.",
+        yaoCi: "饮食衍衍, 不素饱也.",
         origin: "鸿渐于磐, 饮食衎衎, 吉.",
         meaning: "鸿雁飞行渐进到了磐石上 饮食和乐 吉祥",
         videoUrls: [
@@ -8899,10 +8898,9 @@ function answers(guaYao) {
     case "渐九三":
       return {
         gua: "渐",
-        daXiang: "女归吉, 利贞.",
+        guaCi: "女归吉, 利贞.",
         yao: "九三",
-        xiaoXiang:
-          "夫征不复, 离群丑也. 妇孕不育, 失其道也. 利用御寇, 顺相保也.",
+        yaoCi: "夫征不复, 离群丑也. 妇孕不育, 失其道也. 利用御寇, 顺相保也.",
         origin: "鸿渐于陆, 夫征不复, 妇孕不育, 凶. 利御寇.",
         meaning:
           "鸿雁飞行渐进到了小山顶上 丈夫征战未归 妻子怀孕流产 凶险之兆 但有利于抗击盗寇",
@@ -8926,9 +8924,9 @@ function answers(guaYao) {
     case "渐六四":
       return {
         gua: "渐",
-        daXiang: "女归吉, 利贞.",
+        guaCi: "女归吉, 利贞.",
         yao: "六四",
-        xiaoXiang: "或得其桷, 顺以巽也.",
+        yaoCi: "或得其桷, 顺以巽也.",
         origin: "鸿渐于木, 或得其桷, 无咎.",
         meaning: "鸿雁飞行渐进到了大树上 有的落到树枝上 没灾祸",
         videoUrls: [
@@ -8951,9 +8949,9 @@ function answers(guaYao) {
     case "渐九五":
       return {
         gua: "渐",
-        daXiang: "女归吉, 利贞.",
+        guaCi: "女归吉, 利贞.",
         yao: "九五",
-        xiaoXiang: "终莫之胜, 吉, 得所愿也.",
+        yaoCi: "终莫之胜, 吉, 得所愿也.",
         origin: "鸿渐于陵, 妇三岁不孕, 终莫之胜, 吉.",
         meaning:
           "鸿雁飞行渐进到了山丘上 妇女三年不能怀孕 但邪不压正 最终可获吉祥",
@@ -8977,9 +8975,9 @@ function answers(guaYao) {
     case "渐上九":
       return {
         gua: "渐",
-        daXiang: "女归吉, 利贞.",
+        guaCi: "女归吉, 利贞.",
         yao: "上九",
-        xiaoXiang: "其羽可用为仪吉, 不可乱也.",
+        yaoCi: "其羽可用为仪吉, 不可乱也.",
         origin: "鸿渐于陆, 其羽可用为仪, 吉.",
         meaning:
           "鸿雁飞行渐进到了小山顶上 羽毛美丽到可以用来做仪式的上用的装饰 吉祥",
@@ -9003,9 +9001,9 @@ function answers(guaYao) {
     case "归妹初九":
       return {
         gua: "归妹",
-        daXiang: "征凶, 无攸利.",
+        guaCi: "征凶, 无攸利.",
         yao: "初九",
-        xiaoXiang: "归妹以娣, 以恒也. 跛能履, 吉相承也.",
+        yaoCi: "归妹以娣, 以恒也. 跛能履, 吉相承也.",
         origin: "归妹以娣, 跛能履, 征吉.",
         meaning:
           "少女出嫁 妹妹作为从嫁做偏房 就像跛脚的人奋力前行 出门远行可获吉祥",
@@ -9029,9 +9027,9 @@ function answers(guaYao) {
     case "归妹九二":
       return {
         gua: "归妹",
-        daXiang: "征凶, 无攸利.",
+        guaCi: "征凶, 无攸利.",
         yao: "九二",
-        xiaoXiang: "利幽人之贞, 未变常也.",
+        yaoCi: "利幽人之贞, 未变常也.",
         origin: "眇能视, 利幽人之贞.",
         meaning: "视力不好的人勉强凝视 有利于安恬隐居之人占问",
         videoUrls: [
@@ -9054,9 +9052,9 @@ function answers(guaYao) {
     case "归妹六三":
       return {
         gua: "归妹",
-        daXiang: "征凶, 无攸利.",
+        guaCi: "征凶, 无攸利.",
         yao: "六三",
-        xiaoXiang: "归妹以须, 未当也.",
+        yaoCi: "归妹以须, 未当也.",
         origin: "归妹以须, 反归以娣.",
         meaning:
           "少女出嫁 姐姐作为从嫁做偏房 被遣回娘家 又以妹妹的身份从嫁做偏房",
@@ -9080,9 +9078,9 @@ function answers(guaYao) {
     case "归妹九四":
       return {
         gua: "归妹",
-        daXiang: "征凶, 无攸利.",
+        guaCi: "征凶, 无攸利.",
         yao: "九四",
-        xiaoXiang: "愆期之志, 有待而行也.",
+        yaoCi: "愆期之志, 有待而行也.",
         origin: "归妹愆期, 迟归有时.",
         meaning: "少女出嫁多次延期 迟迟未嫁 为的是等待时机出嫁",
         videoUrls: [
@@ -9105,9 +9103,9 @@ function answers(guaYao) {
     case "归妹六五":
       return {
         gua: "归妹",
-        daXiang: "征凶, 无攸利.",
+        guaCi: "征凶, 无攸利.",
         yao: "六五",
-        xiaoXiang: "帝乙归妹, 不如其娣之袂良也. 其位在中, 以贵行也.",
+        yaoCi: "帝乙归妹, 不如其娣之袂良也. 其位在中, 以贵行也.",
         origin: "帝乙归妹, 其君之袂, 不如其娣之袂良. 月几望, 吉.",
         meaning:
           "帝乙嫁女 正室的服装反而不如陪嫁妹妹的服装华丽 成亲之日定在既望之日 吉祥",
@@ -9131,9 +9129,9 @@ function answers(guaYao) {
     case "归妹上六":
       return {
         gua: "归妹",
-        daXiang: "征凶, 无攸利.",
+        guaCi: "征凶, 无攸利.",
         yao: "上六",
-        xiaoXiang: "上六无实, 承虚筐也.",
+        yaoCi: "上六无实, 承虚筐也.",
         origin: "女承筐无实, 士刲羊无血, 无攸利.",
         meaning: "新娘提着空篮子里面没有果实 新郎杀羊却未见羊血 无益处",
         videoUrls: [
@@ -9156,9 +9154,9 @@ function answers(guaYao) {
     case "丰初九":
       return {
         gua: "丰",
-        daXiang: "亨. 王假之, 勿忧, 宜日中.",
+        guaCi: "亨. 王假之, 勿忧, 宜日中.",
         yao: "初九",
-        xiaoXiang: "虽旬无咎, 过旬灾也.",
+        yaoCi: "虽旬无咎, 过旬灾也.",
         origin: "遇其配主, 虽旬无咎, 往有尚.",
         meaning: "遇到与自己匹配的人 十日内无灾祸 前往会得到尊重",
         videoUrls: [
@@ -9182,9 +9180,9 @@ function answers(guaYao) {
     case "丰六二":
       return {
         gua: "丰",
-        daXiang: "亨. 王假之, 勿忧, 宜日中.",
+        guaCi: "亨. 王假之, 勿忧, 宜日中.",
         yao: "六二",
-        xiaoXiang: "有孚发若, 信以发志也.",
+        yaoCi: "有孚发若, 信以发志也.",
         origin: "丰其蔀, 日中见斗. 往得疑疾. 有孚发若, 吉.",
         meaning:
           "草棚遮蔽很大 中午出现满天星斗 有所举动会受人猜忌 心怀诚信悔消除疑虑 吉祥",
@@ -9210,9 +9208,9 @@ function answers(guaYao) {
     case "丰九三":
       return {
         gua: "丰",
-        daXiang: "亨. 王假之, 勿忧, 宜日中.",
+        guaCi: "亨. 王假之, 勿忧, 宜日中.",
         yao: "九三",
-        xiaoXiang: "丰其沛, 不可大事也. 折其右肱, 终不可用也.",
+        yaoCi: "丰其沛, 不可大事也. 折其右肱, 终不可用也.",
         origin: "丰其沛, 日中见昧. 折其右肱, 无咎.",
         meaning: "丰厚遮掩了光明的幔帐 中午一片昏暗 此时折断了右臂 无灾祸",
         videoUrls: [
@@ -9237,9 +9235,9 @@ function answers(guaYao) {
     case "丰九四":
       return {
         gua: "丰",
-        daXiang: "亨. 王假之, 勿忧, 宜日中.",
+        guaCi: "亨. 王假之, 勿忧, 宜日中.",
         yao: "九四",
-        xiaoXiang: "丰其蔀, 位不当也. 日中见斗, 幽不明也. 遇其夷主, 吉行也.",
+        yaoCi: "丰其蔀, 位不当也. 日中见斗, 幽不明也. 遇其夷主, 吉行也.",
         origin: "丰其蔀, 日中见斗. 遇其夷主, 吉.",
         meaning: "草棚遮蔽很大 中午出现满天星斗 阴暗不明朗 遇到外邦的主人 吉祥",
         videoUrls: [
@@ -9264,9 +9262,9 @@ function answers(guaYao) {
     case "丰六五":
       return {
         gua: "丰",
-        daXiang: "亨. 王假之, 勿忧, 宜日中.",
+        guaCi: "亨. 王假之, 勿忧, 宜日中.",
         yao: "六五",
-        xiaoXiang: "六五之吉, 有庆也.",
+        yaoCi: "六五之吉, 有庆也.",
         origin: "来章, 有庆誉, 吉.",
         meaning: "迎接光明 会带来喜庆与赞誉 吉祥",
         videoUrls: [
@@ -9291,9 +9289,9 @@ function answers(guaYao) {
     case "丰上六":
       return {
         gua: "丰",
-        daXiang: "亨. 王假之, 勿忧, 宜日中.",
+        guaCi: "亨. 王假之, 勿忧, 宜日中.",
         yao: "上六",
-        xiaoXiang: "丰其屋, 天际翔也. 窥其户, 阒其无人, 自藏也.",
+        yaoCi: "丰其屋, 天际翔也. 窥其户, 阒其无人, 自藏也.",
         origin: "丰其屋, 蔀其家, 窥其户, 阒其无人, 三岁不觌, 凶.",
         meaning:
           "房屋高大 遮蔽了其他人家 从门缝里往里面看 里面空无一人 三年不见有人 凶险",
@@ -9319,9 +9317,9 @@ function answers(guaYao) {
     case "旅初六":
       return {
         gua: "旅",
-        daXiang: "小亨, 旅贞吉.",
+        guaCi: "小亨, 旅贞吉.",
         yao: "初六",
-        xiaoXiang: "旅琐琐, 志穷灾也.",
+        yaoCi: "旅琐琐, 志穷灾也.",
         origin: "旅琐琐, 斯其所取灾.",
         meaning: "外出旅行猥猥琐琐 举止多变 会招致灾祸",
         videoUrls: [
@@ -9344,9 +9342,9 @@ function answers(guaYao) {
     case "旅六二":
       return {
         gua: "旅",
-        daXiang: "小亨, 旅贞吉.",
+        guaCi: "小亨, 旅贞吉.",
         yao: "六二",
-        xiaoXiang: "得童仆贞, 终无尤也.",
+        yaoCi: "得童仆贞, 终无尤也.",
         origin: "旅即次, 怀其资, 得童仆, 贞.",
         meaning: "旅行的人入住客店 怀里揣着钱财 得到僮仆 可以正固",
         videoUrls: [
@@ -9369,9 +9367,9 @@ function answers(guaYao) {
     case "旅九三":
       return {
         gua: "旅",
-        daXiang: "小亨, 旅贞吉.",
+        guaCi: "小亨, 旅贞吉.",
         yao: "九三",
-        xiaoXiang: "旅焚其次, 亦以伤矣. 以旅与下, 其义丧也.",
+        yaoCi: "旅焚其次, 亦以伤矣. 以旅与下, 其义丧也.",
         origin: "旅焚其次, 丧其童仆, 贞厉.",
         meaning: "客店失了大火 童仆也跑了 即使正固也有危险",
         videoUrls: [
@@ -9394,9 +9392,9 @@ function answers(guaYao) {
     case "旅九四":
       return {
         gua: "旅",
-        daXiang: "小亨, 旅贞吉.",
+        guaCi: "小亨, 旅贞吉.",
         yao: "九四",
-        xiaoXiang: "旅于处, 未得位也. 得其资斧, 心未快也.",
+        yaoCi: "旅于处, 未得位也. 得其资斧, 心未快也.",
         origin: "旅于处, 得其资斧, 我心不快.",
         meaning: "旅行遭遇阻碍 尽管得到了一些钱财 但心中依然不愉快",
         videoUrls: [
@@ -9419,9 +9417,9 @@ function answers(guaYao) {
     case "旅六五":
       return {
         gua: "旅",
-        daXiang: "小亨, 旅贞吉.",
+        guaCi: "小亨, 旅贞吉.",
         yao: "六五",
-        xiaoXiang: "终以誉命, 上逮也.",
+        yaoCi: "终以誉命, 上逮也.",
         origin: "射雉一矢亡, 终以誉命.",
         meaning: "射杀野鸡 丢了一支箭矢 但到最后获得赞誉并受到封爵",
         videoUrls: [
@@ -9444,9 +9442,9 @@ function answers(guaYao) {
     case "旅上九":
       return {
         gua: "旅",
-        daXiang: "小亨, 旅贞吉.",
+        guaCi: "小亨, 旅贞吉.",
         yao: "上九",
-        xiaoXiang: "以旅在上, 其义焚也. 丧牛于易, 终莫之闻也.",
+        yaoCi: "以旅在上, 其义焚也. 丧牛于易, 终莫之闻也.",
         origin: "鸟焚其巢, 旅人先笑后号啕. 丧牛于易, 凶.",
         meaning:
           "树上的鸟烧了自己的巢穴 旅行的人先笑后大哭 田边丢了牛 凶险之兆",
@@ -9470,9 +9468,9 @@ function answers(guaYao) {
     case "巽初六":
       return {
         gua: "巽",
-        daXiang: "小亨. 利有攸往, 利见大人.",
+        guaCi: "小亨. 利有攸往, 利见大人.",
         yao: "初六",
-        xiaoXiang: "进退, 志疑也. 利武人之贞, 志治也.",
+        yaoCi: "进退, 志疑也. 利武人之贞, 志治也.",
         origin: "进退, 利武人之贞.",
         meaning: "进进退退 停滞不前 有利于勇敢的人占问",
         videoUrls: [
@@ -9494,9 +9492,9 @@ function answers(guaYao) {
     case "巽九二":
       return {
         gua: "巽",
-        daXiang: "小亨. 利有攸往, 利见大人.",
+        guaCi: "小亨. 利有攸往, 利见大人.",
         yao: "九二",
-        xiaoXiang: "纷若之吉, 得中也.",
+        yaoCi: "纷若之吉, 得中也.",
         origin: "巽在床下, 用史巫纷若, 吉, 无咎.",
         meaning:
           "过分顺从而屈居床下 若过能效仿 巫师 勤勉忙碌的样子 吉祥 无灾祸",
@@ -9519,9 +9517,9 @@ function answers(guaYao) {
     case "巽九三":
       return {
         gua: "巽",
-        daXiang: "小亨. 利有攸往, 利见大人.",
+        guaCi: "小亨. 利有攸往, 利见大人.",
         yao: "九三",
-        xiaoXiang: "频巽之吝, 志穷也.",
+        yaoCi: "频巽之吝, 志穷也.",
         origin: "频巽, 吝.",
         meaning: "一而再再而三的顺从他人 有凶险",
         videoUrls: [
@@ -9543,9 +9541,9 @@ function answers(guaYao) {
     case "巽六四":
       return {
         gua: "巽",
-        daXiang: "小亨. 利有攸往, 利见大人.",
+        guaCi: "小亨. 利有攸往, 利见大人.",
         yao: "六四",
-        xiaoXiang: "田获三品, 有功也.",
+        yaoCi: "田获三品, 有功也.",
         origin: "悔亡, 田获三品.",
         meaning: "忧悔消除 打猎时捕获了三头禽兽",
         videoUrls: [
@@ -9567,9 +9565,9 @@ function answers(guaYao) {
     case "巽九五":
       return {
         gua: "巽",
-        daXiang: "小亨. 利有攸往, 利见大人.",
+        guaCi: "小亨. 利有攸往, 利见大人.",
         yao: "九五",
-        xiaoXiang: "九五之吉, 位正中也.",
+        yaoCi: "九五之吉, 位正中也.",
         origin: "贞吉, 悔亡, 无不利. 无初有终. 先庚三日, 后庚三日, 吉.",
         meaning:
           "正固吉祥 忧悔消除 无所不利 起初不顺利 但最后能畅通无阻 时间是 丁日 戊日 己日 和 辛日 壬日 癸日 吉祥",
@@ -9592,9 +9590,9 @@ function answers(guaYao) {
     case "巽上九":
       return {
         gua: "巽",
-        daXiang: "小亨. 利有攸往, 利见大人.",
+        guaCi: "小亨. 利有攸往, 利见大人.",
         yao: "上九",
-        xiaoXiang: "巽在床下, 上穷也. 丧其资斧, 正乎凶也.",
+        yaoCi: "巽在床下, 上穷也. 丧其资斧, 正乎凶也.",
         origin: "巽在床下, 丧其资斧, 贞凶.",
         meaning:
           "谦卑恭顺到了极点而屈于床下 丧失了赖以谋生的资本 丧失了刚硬的本性 结果是凶险的",
@@ -9617,9 +9615,9 @@ function answers(guaYao) {
     case "兑初九":
       return {
         gua: "兑",
-        daXiang: "亨, 利贞.",
+        guaCi: "亨, 利贞.",
         yao: "初九",
-        xiaoXiang: "和兑之吉, 行未疑也.",
+        yaoCi: "和兑之吉, 行未疑也.",
         origin: "和兑, 吉.",
         meaning: "平和喜悦的待人态度 有利于正固",
         videoUrls: [
@@ -9642,9 +9640,9 @@ function answers(guaYao) {
     case "兑九二":
       return {
         gua: "兑",
-        daXiang: "亨, 利贞.",
+        guaCi: "亨, 利贞.",
         yao: "九二",
-        xiaoXiang: "孚兑之吉, 信志也.",
+        yaoCi: "孚兑之吉, 信志也.",
         origin: "孚兑, 吉, 悔亡.",
         meaning: "心怀诚信的待人态度 吉祥 忧悔消除",
         videoUrls: [
@@ -9667,9 +9665,9 @@ function answers(guaYao) {
     case "兑六三":
       return {
         gua: "兑",
-        daXiang: "亨, 利贞.",
+        guaCi: "亨, 利贞.",
         yao: "六三",
-        xiaoXiang: "来兑之凶, 位不当也.",
+        yaoCi: "来兑之凶, 位不当也.",
         origin: "来兑, 凶.",
         meaning: "前来求的喜悦 有凶险",
         videoUrls: [
@@ -9692,9 +9690,9 @@ function answers(guaYao) {
     case "兑九四":
       return {
         gua: "兑",
-        daXiang: "亨, 利贞.",
+        guaCi: "亨, 利贞.",
         yao: "九四",
-        xiaoXiang: "九四之喜, 有庆也.",
+        yaoCi: "九四之喜, 有庆也.",
         origin: "商未宁, 介疾有喜.",
         meaning: "商议之中和睦欢愉 但事情没有办成 消除小毛病会有喜庆之事",
         videoUrls: [
@@ -9717,9 +9715,9 @@ function answers(guaYao) {
     case "兑九五":
       return {
         gua: "兑",
-        daXiang: "亨, 利贞.",
+        guaCi: "亨, 利贞.",
         yao: "九五",
-        xiaoXiang: "孚于剥, 位正当也.",
+        yaoCi: "孚于剥, 位正当也.",
         origin: "孚于剥, 有厉.",
         meaning: "信任剥蚀阳刚的小人 有危险",
         videoUrls: [
@@ -9742,9 +9740,9 @@ function answers(guaYao) {
     case "兑上六":
       return {
         gua: "兑",
-        daXiang: "亨, 利贞.",
+        guaCi: "亨, 利贞.",
         yao: "上六",
-        xiaoXiang: "上六引兑, 未光也.",
+        yaoCi: "上六引兑, 未光也.",
         origin: "引兑.",
         meaning: "引诱别人与自己一起欢悦",
         videoUrls: [
@@ -9767,9 +9765,9 @@ function answers(guaYao) {
     case "涣初六":
       return {
         gua: "涣",
-        daXiang: "亨. 王假有庙. 利涉大川, 利贞.",
+        guaCi: "亨. 王假有庙. 利涉大川, 利贞.",
         yao: "初六",
-        xiaoXiang: "初六之吉, 顺也.",
+        yaoCi: "初六之吉, 顺也.",
         origin: "用拯马壮, 吉.",
         meaning: "乘强壮之马去救济患难 吉祥",
         videoUrls: [
@@ -9792,9 +9790,9 @@ function answers(guaYao) {
     case "涣九二":
       return {
         gua: "涣",
-        daXiang: "亨. 王假有庙. 利涉大川, 利贞.",
+        guaCi: "亨. 王假有庙. 利涉大川, 利贞.",
         yao: "九二",
-        xiaoXiang: "涣奔其机, 得愿也.",
+        yaoCi: "涣奔其机, 得愿也.",
         origin: "涣奔其机, 悔亡.",
         meaning: "大水流散 赶忙跑到 祭祀的案台 以祭告神灵祈求帮助 忧悔消除",
         videoUrls: [
@@ -9817,9 +9815,9 @@ function answers(guaYao) {
     case "涣六三":
       return {
         gua: "涣",
-        daXiang: "亨. 王假有庙. 利涉大川, 利贞.",
+        guaCi: "亨. 王假有庙. 利涉大川, 利贞.",
         yao: "六三",
-        xiaoXiang: "涣其躬, 志在外也.",
+        yaoCi: "涣其躬, 志在外也.",
         origin: "涣其躬, 无悔.",
         meaning: "大水冲击自身 没有悔恨",
         videoUrls: [
@@ -9842,9 +9840,9 @@ function answers(guaYao) {
     case "涣六四":
       return {
         gua: "涣",
-        daXiang: "亨. 王假有庙. 利涉大川, 利贞.",
+        guaCi: "亨. 王假有庙. 利涉大川, 利贞.",
         yao: "六四",
-        xiaoXiang: "涣其群, 元吉, 光大也.",
+        yaoCi: "涣其群, 元吉, 光大也.",
         origin: "涣其群, 元吉. 涣有丘, 匪夷所思.",
         meaning:
           "大水冲散了众人 大吉大利 大水冲上山陵 水势汹涌 可不是日常能够想象得到的",
@@ -9868,9 +9866,9 @@ function answers(guaYao) {
     case "涣九五":
       return {
         gua: "涣",
-        daXiang: "亨. 王假有庙. 利涉大川, 利贞.",
+        guaCi: "亨. 王假有庙. 利涉大川, 利贞.",
         yao: "九五",
-        xiaoXiang: "王居无咎, 正位也.",
+        yaoCi: "王居无咎, 正位也.",
         origin: "涣汗其大号, 涣王居, 无咎.",
         meaning: "君王频繁颁布诏令 君王居中守正可安居 无灾祸",
         videoUrls: [
@@ -9893,9 +9891,9 @@ function answers(guaYao) {
     case "涣上九":
       return {
         gua: "涣",
-        daXiang: "亨. 王假有庙. 利涉大川, 利贞.",
+        guaCi: "亨. 王假有庙. 利涉大川, 利贞.",
         yao: "上九",
-        xiaoXiang: "涣其血, 远害也.",
+        yaoCi: "涣其血, 远害也.",
         origin: "涣其血, 去逖出, 无咎.",
         meaning: "大水流散 能使得忧患消除 惊惧化解 无灾祸",
         videoUrls: [
@@ -9918,9 +9916,9 @@ function answers(guaYao) {
     case "节初九":
       return {
         gua: "节",
-        daXiang: "亨. 苦节不可贞.",
+        guaCi: "亨. 苦节不可贞.",
         yao: "初九",
-        xiaoXiang: "不出户庭, 知通塞也.",
+        yaoCi: "不出户庭, 知通塞也.",
         origin: "不出户庭, 无咎.",
         meaning: "不出自家内院 无灾祸",
         videoUrls: [
@@ -9943,9 +9941,9 @@ function answers(guaYao) {
     case "节九二":
       return {
         gua: "节",
-        daXiang: "亨. 苦节不可贞.",
+        guaCi: "亨. 苦节不可贞.",
         yao: "九二",
-        xiaoXiang: "不出门庭凶, 失时极也.",
+        yaoCi: "不出门庭凶, 失时极也.",
         origin: "不出门庭, 凶.",
         meaning: "不出自家前院 有凶险",
         videoUrls: [
@@ -9968,9 +9966,9 @@ function answers(guaYao) {
     case "节六三":
       return {
         gua: "节",
-        daXiang: "亨. 苦节不可贞.",
+        guaCi: "亨. 苦节不可贞.",
         yao: "六三",
-        xiaoXiang: "不节之嗟, 又谁咎也?",
+        yaoCi: "不节之嗟, 又谁咎也?",
         origin: "不节若, 则嗟若. 无咎.",
         meaning: "不节制自己 就会哀叹悲伤 无灾祸",
         videoUrls: [
@@ -9993,9 +9991,9 @@ function answers(guaYao) {
     case "节六四":
       return {
         gua: "节",
-        daXiang: "亨. 苦节不可贞.",
+        guaCi: "亨. 苦节不可贞.",
         yao: "六四",
-        xiaoXiang: "安节之亨, 承上道也.",
+        yaoCi: "安节之亨, 承上道也.",
         origin: "不节若, 则嗟若. 无咎.",
         meaning: "安守于节俭 通达顺畅",
         videoUrls: [
@@ -10018,9 +10016,9 @@ function answers(guaYao) {
     case "节九五":
       return {
         gua: "节",
-        daXiang: "亨. 苦节不可贞.",
+        guaCi: "亨. 苦节不可贞.",
         yao: "九五",
-        xiaoXiang: "甘节之吉, 居位中也.",
+        yaoCi: "甘节之吉, 居位中也.",
         origin: "甘节, 吉, 往有尚.",
         meaning: "以节俭为乐事 吉祥 有所行动必会得到奖赏",
         videoUrls: [
@@ -10043,9 +10041,9 @@ function answers(guaYao) {
     case "节上六":
       return {
         gua: "节",
-        daXiang: "亨. 苦节不可贞.",
+        guaCi: "亨. 苦节不可贞.",
         yao: "上六",
-        xiaoXiang: "苦节贞凶, 其道穷也.",
+        yaoCi: "苦节贞凶, 其道穷也.",
         origin: "苦节, 贞凶. 悔亡.",
         meaning: "过度节俭 即使正固也有凶险 忧悔消除",
         videoUrls: [
@@ -10068,9 +10066,9 @@ function answers(guaYao) {
     case "中孚初九":
       return {
         gua: "中孚",
-        daXiang: "豚鱼, 吉, 利涉大川, 利贞.",
+        guaCi: "豚鱼, 吉, 利涉大川, 利贞.",
         yao: "初九",
-        xiaoXiang: "初九虞吉, 志未变也.",
+        yaoCi: "初九虞吉, 志未变也.",
         origin: "虞吉, 有它不燕.",
         meaning: "安守诚信之徳吉祥之兆 假如有别的想法则不会安宁",
         videoUrls: [
@@ -10093,9 +10091,9 @@ function answers(guaYao) {
     case "中孚九二":
       return {
         gua: "中孚",
-        daXiang: "豚鱼, 吉, 利涉大川, 利贞.",
+        guaCi: "豚鱼, 吉, 利涉大川, 利贞.",
         yao: "九二",
-        xiaoXiang: "其子和之, 中心愿也.",
+        yaoCi: "其子和之, 中心愿也.",
         origin: "鸣鹤在阴, 其子和之. 我有好爵, 吾与尔靡之.",
         meaning: "鹤在树荫下鸣叫 小鹤应声附和 我有美酒一爵 愿与你共享其安乐",
         videoUrls: [
@@ -10118,9 +10116,9 @@ function answers(guaYao) {
     case "中孚六三":
       return {
         gua: "中孚",
-        daXiang: "豚鱼, 吉, 利涉大川, 利贞.",
+        guaCi: "豚鱼, 吉, 利涉大川, 利贞.",
         yao: "六三",
-        xiaoXiang: "可鼓或罢, 位不当也.",
+        yaoCi: "可鼓或罢, 位不当也.",
         origin: "得敌, 或鼓或罢, 或泣或歌.",
         meaning:
           "遭遇强大的对手 有时击鼓奋进 有时疲惫不前 有时悲愤哭泣 有时慷慨高歌",
@@ -10144,9 +10142,9 @@ function answers(guaYao) {
     case "中孚六四":
       return {
         gua: "中孚",
-        daXiang: "豚鱼, 吉, 利涉大川, 利贞.",
+        guaCi: "豚鱼, 吉, 利涉大川, 利贞.",
         yao: "六四",
-        xiaoXiang: "马匹亡, 绝类上也.",
+        yaoCi: "马匹亡, 绝类上也.",
         origin: "月几望, 马匹亡, 无咎.",
         meaning: "在既望这一天 走失了一匹好马 无灾祸",
         videoUrls: [
@@ -10169,9 +10167,9 @@ function answers(guaYao) {
     case "中孚九五":
       return {
         gua: "中孚",
-        daXiang: "豚鱼, 吉, 利涉大川, 利贞.",
+        guaCi: "豚鱼, 吉, 利涉大川, 利贞.",
         yao: "九五",
-        xiaoXiang: "有孚挛如, 位正当也.",
+        yaoCi: "有孚挛如, 位正当也.",
         origin: "有孚挛如, 无咎.",
         meaning: "胸怀诚信并惦念他人 无灾祸",
         videoUrls: [
@@ -10194,9 +10192,9 @@ function answers(guaYao) {
     case "中孚上九":
       return {
         gua: "中孚",
-        daXiang: "豚鱼, 吉, 利涉大川, 利贞.",
+        guaCi: "豚鱼, 吉, 利涉大川, 利贞.",
         yao: "上九",
-        xiaoXiang: "翰音登于天, 何可长也.",
+        yaoCi: "翰音登于天, 何可长也.",
         origin: "翰音登于天, 贞凶.",
         meaning: "鸡鸣之声响彻天空 有凶险",
         videoUrls: [
@@ -10219,9 +10217,9 @@ function answers(guaYao) {
     case "小过初六":
       return {
         gua: "小过",
-        daXiang: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
+        guaCi: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
         yao: "初六",
-        xiaoXiang: "飞鸟以凶, 不可如何也.",
+        yaoCi: "飞鸟以凶, 不可如何也.",
         origin: "飞鸟以凶.",
         meaning: "飞鸟带来了危险的兆头",
         videoUrls: [
@@ -10244,9 +10242,9 @@ function answers(guaYao) {
     case "小过六二":
       return {
         gua: "小过",
-        daXiang: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
+        guaCi: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
         yao: "六二",
-        xiaoXiang: "不及其君, 臣不可过也.",
+        yaoCi: "不及其君, 臣不可过也.",
         origin: "过其祖, 遇其妣. 不及其君, 遇其臣, 无咎.",
         meaning: "越过祖父 遇见祖母 没有赶上君王那里 而与其臣子接触 无灾祸",
         videoUrls: [
@@ -10269,9 +10267,9 @@ function answers(guaYao) {
     case "小过九三":
       return {
         gua: "小过",
-        daXiang: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
+        guaCi: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
         yao: "九三",
-        xiaoXiang: "从或戕之, 凶如何也.",
+        yaoCi: "从或戕之, 凶如何也.",
         origin: "弗过防之, 从或戕之, 凶.",
         meaning: "不严加防范 会有被杀害的危险 有凶险",
         videoUrls: [
@@ -10294,9 +10292,9 @@ function answers(guaYao) {
     case "小过九四":
       return {
         gua: "小过",
-        daXiang: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
+        guaCi: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
         yao: "九四",
-        xiaoXiang: "弗过遇之, 位不当也. 往厉必戒, 终不可长也.",
+        yaoCi: "弗过遇之, 位不当也. 往厉必戒, 终不可长也.",
         origin: "无咎, 弗过遇之, 往厉必戒. 勿用永贞.",
         meaning:
           "无灾祸 不要越过也会遇到 有所行动会有危险 必须加以警惕 不可以有所作为 长久保持正固",
@@ -10320,9 +10318,9 @@ function answers(guaYao) {
     case "小过六五":
       return {
         gua: "小过",
-        daXiang: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
+        guaCi: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
         yao: "六五",
-        xiaoXiang: "密云不雨, 已上也.",
+        yaoCi: "密云不雨, 已上也.",
         origin: "密云不雨, 自我西郊. 公弋取彼在穴.",
         meaning:
           "乌云密布却没有下雨 云气从西边郊区升起 王公狩猎射中了一只飞鸟 追到洞穴里才捕捉到",
@@ -10346,9 +10344,9 @@ function answers(guaYao) {
     case "小过上六":
       return {
         gua: "小过",
-        daXiang: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
+        guaCi: "亨, 利贞. 可小事, 不可大事. 飞鸟遗之音. 不宜上, 宜下, 大吉.",
         yao: "上六",
-        xiaoXiang: "弗遇过之, 已亢也.",
+        yaoCi: "弗遇过之, 已亢也.",
         origin: "弗遇过之, 飞鸟离之, 凶. 是谓灾眚.",
         meaning: "不要越过也会遇到 就像飞鸟容易被射中 捕获 非常凶险 这就是灾难",
         videoUrls: [
@@ -10371,9 +10369,9 @@ function answers(guaYao) {
     case "既济初九":
       return {
         gua: "既济",
-        daXiang: "亨小, 利贞. 初吉终乱.",
+        guaCi: "亨小, 利贞. 初吉终乱.",
         yao: "初九",
-        xiaoXiang: "曳其轮, 义无咎也.",
+        yaoCi: "曳其轮, 义无咎也.",
         origin: "曳其轮, 濡其尾, 无咎.",
         meaning: "牵引着车轮前行 水弄湿了车尾 无灾祸",
         videoUrls: [
@@ -10396,9 +10394,9 @@ function answers(guaYao) {
     case "既济六二":
       return {
         gua: "既济",
-        daXiang: "亨小, 利贞. 初吉终乱.",
+        guaCi: "亨小, 利贞. 初吉终乱.",
         yao: "六二",
-        xiaoXiang: "七日得, 以中道也.",
+        yaoCi: "七日得, 以中道也.",
         origin: "妇丧其茀, 勿逐, 七日得.",
         meaning: "妇人丢失了首饰 不要寻找 七日内会失而复得",
         videoUrls: [
@@ -10421,9 +10419,9 @@ function answers(guaYao) {
     case "既济九三":
       return {
         gua: "既济",
-        daXiang: "亨小, 利贞. 初吉终乱.",
+        guaCi: "亨小, 利贞. 初吉终乱.",
         yao: "九三",
-        xiaoXiang: "三年克之, 惫也.",
+        yaoCi: "三年克之, 惫也.",
         origin: "高宗伐鬼方, 三年克之. 小人勿用.",
         meaning: "殷商君王攻打鬼方国 历经三年才打败鬼方 事关重大 不能重用小人",
         videoUrls: [
@@ -10446,9 +10444,9 @@ function answers(guaYao) {
     case "既济六四":
       return {
         gua: "既济",
-        daXiang: "亨小, 利贞. 初吉终乱.",
+        guaCi: "亨小, 利贞. 初吉终乱.",
         yao: "六四",
-        xiaoXiang: "终日戒, 有所疑也.",
+        yaoCi: "终日戒, 有所疑也.",
         origin: "繻有衣袽, 终日戒.",
         meaning: "华服即将变成破衣 应当始终警惕以防灾祸",
         videoUrls: [
@@ -10471,9 +10469,9 @@ function answers(guaYao) {
     case "既济九五":
       return {
         gua: "既济",
-        daXiang: "亨小, 利贞. 初吉终乱.",
+        guaCi: "亨小, 利贞. 初吉终乱.",
         yao: "九五",
-        xiaoXiang: "东邻杀牛, 不如西邻之时也, 实受其福, 吉大来也.",
+        yaoCi: "东邻杀牛, 不如西邻之时也, 实受其福, 吉大来也.",
         origin: "东邻杀牛, 不如西郊之禴祭, 实受其福.",
         meaning:
           "东面的邻国杀牛举行盛大的祭祀 不入西边的邻国举行简单的祭祀那样实享天福",
@@ -10497,9 +10495,9 @@ function answers(guaYao) {
     case "既济上六":
       return {
         gua: "既济",
-        daXiang: "亨小, 利贞. 初吉终乱.",
+        guaCi: "亨小, 利贞. 初吉终乱.",
         yao: "上六",
-        xiaoXiang: "濡其首厉, 何可久也.",
+        yaoCi: "濡其首厉, 何可久也.",
         origin: "濡其首, 厉.",
         meaning: "水沾湿了头颅 有危险",
         videoUrls: [
@@ -10522,9 +10520,9 @@ function answers(guaYao) {
     case "未济初六":
       return {
         gua: "未济",
-        daXiang: "亨. 小狐汔济, 濡其尾, 无攸利.",
+        guaCi: "亨. 小狐汔济, 濡其尾, 无攸利.",
         yao: "初六",
-        xiaoXiang: "濡其尾, 亦不知极也.",
+        yaoCi: "濡其尾, 亦不知极也.",
         origin: "濡其尾, 吝.",
         meaning: "水沾湿了尾巴 灾祸",
         videoUrls: [
@@ -10547,9 +10545,9 @@ function answers(guaYao) {
     case "未济九二":
       return {
         gua: "未济",
-        daXiang: "亨. 小狐汔济, 濡其尾, 无攸利.",
+        guaCi: "亨. 小狐汔济, 濡其尾, 无攸利.",
         yao: "九二",
-        xiaoXiang: "九二贞吉, 中以行正也.",
+        yaoCi: "九二贞吉, 中以行正也.",
         origin: "曳其轮, 贞吉.",
         meaning: "向后拖拽车轮而放缓前进的速度 正固吉祥",
         videoUrls: [
@@ -10572,9 +10570,9 @@ function answers(guaYao) {
     case "未济六三":
       return {
         gua: "未济",
-        daXiang: "亨. 小狐汔济, 濡其尾, 无攸利.",
+        guaCi: "亨. 小狐汔济, 濡其尾, 无攸利.",
         yao: "六三",
-        xiaoXiang: "未济征凶, 位不当也.",
+        yaoCi: "未济征凶, 位不当也.",
         origin: "未济, 征凶, 利涉大川.",
         meaning: "事业未成 出门远行有凶险 但适宜跨越大江大河",
         videoUrls: [
@@ -10597,9 +10595,9 @@ function answers(guaYao) {
     case "未济九四":
       return {
         gua: "未济",
-        daXiang: "亨. 小狐汔济, 濡其尾, 无攸利.",
+        guaCi: "亨. 小狐汔济, 濡其尾, 无攸利.",
         yao: "九四",
-        xiaoXiang: "贞吉悔亡, 志行也.",
+        yaoCi: "贞吉悔亡, 志行也.",
         origin: "贞吉, 悔亡, 震用伐鬼方. 三年有赏于大国.",
         meaning: "正固吉祥 忧悔消除 兴兵讨伐鬼方 三年获胜而获得大国的封赏",
         videoUrls: [
@@ -10622,9 +10620,9 @@ function answers(guaYao) {
     case "未济六五":
       return {
         gua: "未济",
-        daXiang: "亨. 小狐汔济, 濡其尾, 无攸利.",
+        guaCi: "亨. 小狐汔济, 濡其尾, 无攸利.",
         yao: "六五",
-        xiaoXiang: "君子之光, 其晖吉也.",
+        yaoCi: "君子之光, 其晖吉也.",
         origin: "贞吉, 无悔, 君子之光. 有孚, 吉.",
         meaning: "正固吉祥 没有悔恨 君子的光辉在于诚实守信 吉祥",
         videoUrls: [
@@ -10647,9 +10645,9 @@ function answers(guaYao) {
     case "未济上九":
       return {
         gua: "未济",
-        daXiang: "亨. 小狐汔济, 濡其尾, 无攸利.",
+        guaCi: "亨. 小狐汔济, 濡其尾, 无攸利.",
         yao: "上九",
-        xiaoXiang: "饮酒濡首, 亦不知节也.",
+        yaoCi: "饮酒濡首, 亦不知节也.",
         origin: "有孚于饮酒, 无咎. 濡其首, 有孚失是.",
         meaning: "心怀诚信 来喝酒 无灾祸 水沾湿了头颅 即使心怀诚信 也会失去",
         videoUrls: [
@@ -10673,9 +10671,9 @@ function answers(guaYao) {
     default:
       return {
         gua: "无",
-        daXiang: "无",
+        guaCi: "无",
         yao: "无",
-        xiaoXiang: "无",
+        yaoCi: "无",
         origin: "无",
         meaning: "无",
         videoUrls: [],
