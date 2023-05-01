@@ -10,6 +10,7 @@ const {
   allYaos,
   answers,
 } = require("../../utils/zhouyi");
+const { getAIAnswer } = require("../../utils/chatgpt");
 
 function request(data) {
   // calculate the gua & yao
@@ -64,7 +65,7 @@ module.exports = {
     const zhouYiLink = hyperlink("周易数字卦", "https://zhouyi.netlify.app/");
 
     const resultCard = new EmbedBuilder()
-      .setTitle("此卦爻为 [结果]")
+      .setTitle(`此卦爻为 [${result.gua} - ${result.yao}]`)
       .setDescription(
         `易经数字卦是一种占问的方式\n(请务必做到 不诚不占 不义不占 不疑不占) ☯️☯️☯️`
       )
@@ -101,6 +102,10 @@ module.exports = {
         {
           name: "网站",
           value: zhouYiLink,
+        },
+        {
+          name: "AI解释",
+          value: await getAIAnswer(result.gua),
         }
       )
       .setTimestamp();
