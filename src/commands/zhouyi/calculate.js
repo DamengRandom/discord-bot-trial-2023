@@ -10,7 +10,7 @@ const {
   allYaos,
   answers,
 } = require("../../utils/zhouyi");
-const { getAIAnswer } = require("../../utils/chatgpt");
+// const { getAIAnswer } = require("../../utils/chatgpt");
 
 function request(data) {
   // calculate the gua & yao
@@ -102,11 +102,11 @@ module.exports = {
         {
           name: "网站",
           value: zhouYiLink,
-        },
-        {
-          name: "AI解释",
-          value: await getAIAnswer(result.gua),
         }
+        // {
+        //   name: "AI解释",
+        //   value: await getAIAnswer(result.gua),
+        // }
       )
       .setTimestamp();
 
