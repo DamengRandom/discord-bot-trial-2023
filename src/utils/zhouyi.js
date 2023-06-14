@@ -1,6 +1,7 @@
-function convertToGua(number) {
+export function convertToGua(number) {
   switch (number) {
     case 0:
+    case 8:
       return "land";
     case 1:
       return "sky";
@@ -17,13 +18,14 @@ function convertToGua(number) {
     case 7:
       return "mountain";
     default:
-      return "land";
+      return "none";
   }
 }
 
-function convertToYao(number) {
+export function convertToYao(number) {
   switch (number) {
     case 0:
+    case 6:
       return 6;
     case 1:
       return 1;
@@ -36,7 +38,7 @@ function convertToYao(number) {
     case 5:
       return 5;
     default:
-      return 6;
+      return -1;
   }
 }
 
@@ -76,7 +78,7 @@ function allGuas(result) {
       return "豫";
     case "swamp-thunder":
       return "随";
-    case "mountian-wind":
+    case "mountain-wind":
       return "蛊";
     case "land-swamp":
       return "临";
@@ -84,17 +86,17 @@ function allGuas(result) {
       return "观";
     case "fire-thunder":
       return "噬嗑";
-    case "mountian-fire":
+    case "mountain-fire":
       return "贲";
-    case "mountian-land":
+    case "mountain-land":
       return "剥";
     case "land-thunder":
       return "复";
     case "sky-thunder":
       return "无妄";
-    case "mountian-sky":
+    case "mountain-sky":
       return "大畜";
-    case "mountian-thunder":
+    case "mountain-thunder":
       return "颐";
     case "swamp-wind":
       return "大过";
@@ -228,7 +230,7 @@ function allYaos(gua) {
     case "swamp-thunder":
     case "随":
       return ["初九", "六二", "六三", "九四", "九五", "上六"];
-    case "mountian-wind":
+    case "mountain-wind":
     case "蛊":
       return ["初六", "九二", "九三", "六四", "六五", "上九"];
     case "land-swamp":
@@ -240,10 +242,10 @@ function allYaos(gua) {
     case "fire-thunder":
     case "噬嗑":
       return ["初九", "六二", "六三", "九四", "六五", "上九"];
-    case "mountian-fire":
+    case "mountain-fire":
     case "贲":
       return ["初九", "六二", "九三", "六四", "六五", "上九"];
-    case "mountian-land":
+    case "mountain-land":
     case "剥":
       return ["初六", "六二", "六三", "六四", "六五", "上九"];
     case "land-thunder":
@@ -252,10 +254,10 @@ function allYaos(gua) {
     case "sky-thunder":
     case "无妄":
       return ["初九", "六二", "六三", "九四", "九五", "上九"];
-    case "mountian-sky":
+    case "mountain-sky":
     case "大畜":
       return ["初九", "九二", "九三", "六四", "六五", "上九"];
-    case "mountian-thunder":
+    case "mountain-thunder":
     case "颐":
       return ["初九", "六二", "六三", "六四", "六五", "上九"];
     case "swamp-wind":

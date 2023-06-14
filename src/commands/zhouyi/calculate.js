@@ -14,13 +14,13 @@ const {
 
 function request(data) {
   // calculate the gua & yao
-  const xiaGua = convertToGua(data["xia"] % 8);
-  const shangGua = convertToGua(data["shang"] % 8);
-  const theYao = convertToYao(data["yao"] % 6);
+  const xiaGua = convertToGua(parseInt(data["xia"]) % 8);
+  const shangGua = convertToGua(parseInt(data["shang"]) % 8);
+  const theYao = convertToYao(parseInt(data["yao"]) % 6);
 
   // convert gua & yao to one of 64 varients
   const gua = allGuas(`${shangGua}-${xiaGua}`);
-  const yao = allYaos(gua)?.[theYao - 1];
+  const yao = allYaos(gua)?.[theYao === 0 || theYao === 6 ? 5 : theYao - 1];
 
   // release final result answer
   // const finalResult = answer(`${gua}${yao}`); // single result
