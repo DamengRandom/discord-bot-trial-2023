@@ -1,4 +1,4 @@
-export function convertToGua(number) {
+function convertToGua(number) {
   switch (number) {
     case 0:
     case 8:
@@ -22,7 +22,7 @@ export function convertToGua(number) {
   }
 }
 
-export function convertToYao(number) {
+function convertToYao(number) {
   switch (number) {
     case 0:
     case 6:
