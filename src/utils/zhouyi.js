@@ -2730,7 +2730,7 @@ function answers(guaYao) {
         guaCi: "小往大来, 吉亨.",
         yao: "九三",
         yaoCi: "无往不复, 天地际也.",
-        origin: "无平不陂, 无往不复; 艰贞无咎, 勿悔恤其孚, 于食有福.",
+        origin: "无平不陂, 无往不复; 艰贞无咎, 勿恤其孚, 于食有福.",
         meaning:
           "处境艰难 正固 没有灾祸 不要怕不能取信于人 在饮食方面有口福之吉",
         videoUrls: [
@@ -4269,7 +4269,7 @@ function answers(guaYao) {
     case "贲初九":
       return {
         gua: "贲",
-        guaCi: "亨. 小利有所往.",
+        guaCi: "亨. 小利有攸往.",
         yao: "初九",
         yaoCi: "舍车而徒, 义弗乘也.",
         origin: "贲其趾, 舍车而徒.",
@@ -4293,7 +4293,7 @@ function answers(guaYao) {
     case "贲六二":
       return {
         gua: "贲",
-        guaCi: "亨. 小利有所往.",
+        guaCi: "亨. 小利有攸往.",
         yao: "六二",
         yaoCi: "贲其须, 与上兴也.",
         origin: "贲其须.",
@@ -4317,7 +4317,7 @@ function answers(guaYao) {
     case "贲九三":
       return {
         gua: "贲",
-        guaCi: "亨. 小利有所往.",
+        guaCi: "亨. 小利有攸往.",
         yao: "九三",
         yaoCi: "永贞之吉, 终莫之陵也.",
         origin: "贲如, 濡如, 永贞吉.",
@@ -4341,7 +4341,7 @@ function answers(guaYao) {
     case "贲六四":
       return {
         gua: "贲",
-        guaCi: "亨. 小利有所往.",
+        guaCi: "亨. 小利有攸往.",
         yao: "六四",
         yaoCi: "六四, 当位疑也. 匪寇婚媾, 终无尤也.",
         origin: "贲如, 皤如, 白马翰如, 匪寇婚媾.",
@@ -4366,7 +4366,7 @@ function answers(guaYao) {
     case "贲六五":
       return {
         gua: "贲",
-        guaCi: "亨. 小利有所往.",
+        guaCi: "亨. 小利有攸往.",
         yao: "六五",
         yaoCi: "六五之吉, 有喜也.",
         origin: "贲于丘园, 束帛戋戋, 吝, 终吉.",
@@ -4390,7 +4390,7 @@ function answers(guaYao) {
     case "贲上九":
       return {
         gua: "贲",
-        guaCi: "亨. 小利有所往.",
+        guaCi: "亨. 小利有攸往.",
         yao: "上九",
         yaoCi: "白贲无咎, 上得志也.",
         origin: "白贲, 无咎.",
@@ -6369,7 +6369,7 @@ function answers(guaYao) {
         guaCi: "利艰贞.",
         yao: "六四",
         yaoCi: "入于左腹, 获心意也.",
-        origin: "入于左腹, 获明夷之心, 出于门庭.",
+        origin: "入于左腹, 获明夷之心, 于出门庭.",
         meaning: "进入王宫内部 洞悉昏暗的内部情况 最后离开王宫庭院", // 薇子 离开 商纣 王
         videoUrls: [
           "https://www.youtube.com/embed/_H3ysGIPp8M",
@@ -9996,7 +9996,7 @@ function answers(guaYao) {
         guaCi: "亨. 苦节不可贞.",
         yao: "六四",
         yaoCi: "安节之亨, 承上道也.",
-        origin: "不节若, 则嗟若. 无咎.",
+        origin: "安节，亨",
         meaning: "安守于节俭 通达顺畅",
         videoUrls: [
           "https://www.youtube.com/embed/CZm-D1a6gew",
