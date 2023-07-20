@@ -9996,7 +9996,7 @@ function answers(guaYao) {
         guaCi: "亨. 苦节不可贞.",
         yao: "六四",
         yaoCi: "安节之亨, 承上道也.",
-        origin: "安节，亨",
+        origin: "安节, 亨",
         meaning: "安守于节俭 通达顺畅",
         videoUrls: [
           "https://www.youtube.com/embed/CZm-D1a6gew",
