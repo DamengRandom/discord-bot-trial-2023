@@ -1510,7 +1510,7 @@ function answers(guaYao) {
         guaCi: "元亨利贞. 勿用有攸往, 利建侯.",
         yao: "初九",
         yaoCi: "虽磐桓, 志行正也. 以贵下贱, 大得民也.",
-        origin: "盘桓, 利居贞, 利建侯.",
+        origin: "磐桓, 利居贞, 利建侯.",
         meaning: "虽然徘徊难进 但志行贞正 可坚持以退为进的策略",
         videoUrls: [
           "https://www.youtube.com/embed/IOpg_Tt47NQ",
@@ -1651,7 +1651,7 @@ function answers(guaYao) {
     case "蒙初六":
       return {
         gua: "蒙",
-        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初筮告, 再三渎, 渎则不告. 利贞.",
         yao: "初六",
         yaoCi: "利用刑人, 以正法也.",
         origin: "发蒙, 利用刑人, 用说桎梏; 以往吝.",
@@ -1677,7 +1677,7 @@ function answers(guaYao) {
     case "蒙九二":
       return {
         gua: "蒙",
-        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初筮告, 再三渎, 渎则不告. 利贞.",
         yao: "九二",
         yaoCi: "子克家, 刚柔接也.",
         origin: "包蒙吉. 纳妇吉. 子克家.",
@@ -1701,10 +1701,10 @@ function answers(guaYao) {
     case "蒙六三":
       return {
         gua: "蒙",
-        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初筮告, 再三渎, 渎则不告. 利贞.",
         yao: "六三",
-        yaoCi: "勿用娶女, 行不顺也.",
-        origin: "勿用娶女, 见金夫, 不有躬. 无攸利.",
+        yaoCi: "勿用取女, 行不顺也.",
+        origin: "勿用取女, 见金夫, 不有躬. 无攸利.",
         meaning:
           "不适合娶这个女人为妻 因为此女子会遇男色而失身 这种行为不好导致不适合结婚 结果也不会好",
         videoUrls: [
@@ -1727,7 +1727,7 @@ function answers(guaYao) {
     case "蒙六四":
       return {
         gua: "蒙",
-        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初筮告, 再三渎, 渎则不告. 利贞.",
         yao: "六四",
         yaoCi: "困蒙之吝, 独远实也.",
         origin: "困蒙, 吝.",
@@ -1752,7 +1752,7 @@ function answers(guaYao) {
     case "蒙六五":
       return {
         gua: "蒙",
-        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初筮告, 再三渎, 渎则不告. 利贞.",
         yao: "六五",
         yaoCi: "童蒙之吉, 顺以巽也.",
         origin: "童蒙, 吉.",
@@ -1777,7 +1777,7 @@ function answers(guaYao) {
     case "蒙上九":
       return {
         gua: "蒙",
-        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初噬告, 再三渎, 渎则不告. 利贞.",
+        guaCi: "亨. 匪我求童蒙, 童蒙求我. 初筮告, 再三渎, 渎则不告. 利贞.",
         yao: "上九",
         yaoCi: "利用御寇, 上下顺也.",
         origin: "击蒙. 不利为寇, 利御寇.",
@@ -3067,7 +3067,7 @@ function answers(guaYao) {
         guaCi: "同人于野, 亨. 利涉大川, 利君子贞.",
         yao: "九五",
         yaoCi: "同人之先, 以中直也. 大师相遇, 言相克也.",
-        origin: "同人, 先号啕而后笑, 大师克相遇.",
+        origin: "同人, 先号咷而后笑, 大师克相遇.",
         meaning: "与人同心同德 先哭后笑 大军会师 庆祝胜利",
         videoUrls: [
           "https://www.youtube.com/embed/2nuX-Zgrlfk",
@@ -3888,7 +3888,7 @@ function answers(guaYao) {
         guaCi: "元, 亨, 利, 贞. 至于八月有凶.",
         yao: "六三",
         yaoCi: "甘临, 位不当也. 既忧之, 咎不长也.",
-        origin: "甘临, 无攸利. 即忧之, 无咎.",
+        origin: "甘临, 无攸利. 既忧之, 无咎.",
         meaning: "用钳制的政策治理民众 无益处 已然知晓自己的过失 无灾祸",
         videoUrls: [
           "https://www.youtube.com/embed/XBgf37CIkk0",
@@ -4561,7 +4561,7 @@ function answers(guaYao) {
         guaCi: "亨. 出入无疾, 朋来无咎. 反复其道, 七日来复, 利有攸往.",
         yao: "初九",
         yaoCi: "不远之复, 以修身也.",
-        origin: "不远复, 无只悔, 元吉.",
+        origin: "不远复, 无衹悔, 元吉.",
         meaning: "行而未远就适时而返 没有造成很大的悔意 大吉大利",
         videoUrls: [
           "https://www.youtube.com/embed/AT_tZwbRG3I",
@@ -5231,7 +5231,7 @@ function answers(guaYao) {
         guaCi: "栋桡, 利有攸往, 亨.",
         yao: "九五",
         yaoCi: "枯杨生华, 何可久也? 老妇士夫, 亦可丑也.",
-        origin: "枯杨生花, 老妇得其士夫, 无咎无誉.",
+        origin: "枯杨生华, 老妇得其士夫, 无咎无誉.",
         meaning: "枯树开花 老妇与少男结合 无灾祸 无赞誉",
         videoUrls: [
           "https://www.youtube.com/embed/ENDIi0PFR90",
@@ -5377,7 +5377,7 @@ function answers(guaYao) {
         guaCi: "习坎, 有孚, 维心亨. 行有尚.",
         yao: "九五",
         yaoCi: "坎不盈, 中未大也.",
-        origin: "坎不盈, 只既平, 无咎.",
+        origin: "坎不盈, 衹既平, 无咎.",
         meaning: "陷穴尚未满溢 到需要稳定时则艰难自平 无灾祸",
         videoUrls: [
           "https://www.youtube.com/embed/NocLlveOsS0",
@@ -5401,7 +5401,7 @@ function answers(guaYao) {
         guaCi: "习坎, 有孚, 维心亨. 行有尚.",
         yao: "上六",
         yaoCi: "上六失道, 凶三岁也.",
-        origin: "系用徵纆, 寘于丛棘, 三岁不得, 凶.",
+        origin: "系用徽纆, 寘于丛棘, 三岁不得, 凶.",
         meaning: "用绳索将犯人捆绑起来放入荆棘草丛之中 三年不让解脱 比有凶险",
         videoUrls: [
           "https://www.youtube.com/embed/NocLlveOsS0",
@@ -9213,7 +9213,7 @@ function answers(guaYao) {
         guaCi: "亨. 王假之, 勿忧, 宜日中.",
         yao: "九三",
         yaoCi: "丰其沛, 不可大事也. 折其右肱, 终不可用也.",
-        origin: "丰其沛, 日中见昧. 折其右肱, 无咎.",
+        origin: "丰其沛, 日中见沫. 折其右肱, 无咎.",
         meaning: "丰厚遮掩了光明的幔帐 中午一片昏暗 此时折断了右臂 无灾祸",
         videoUrls: [
           "https://www.youtube.com/embed/dQvW4bxWbAQ",
@@ -9447,7 +9447,7 @@ function answers(guaYao) {
         guaCi: "小亨, 旅贞吉.",
         yao: "上九",
         yaoCi: "以旅在上, 其义焚也. 丧牛于易, 终莫之闻也.",
-        origin: "鸟焚其巢, 旅人先笑后号啕. 丧牛于易, 凶.",
+        origin: "鸟焚其巢, 旅人先笑后号咷. 丧牛于易, 凶.",
         meaning:
           "树上的鸟烧了自己的巢穴 旅行的人先笑后大哭 田边丢了牛 凶险之兆",
         videoUrls: [
@@ -9695,7 +9695,7 @@ function answers(guaYao) {
         guaCi: "亨, 利贞.",
         yao: "九四",
         yaoCi: "九四之喜, 有庆也.",
-        origin: "商未宁, 介疾有喜.",
+        origin: "商兑未宁, 介疾有喜.",
         meaning: "商议之中和睦欢愉 但事情没有办成 消除小毛病会有喜庆之事",
         videoUrls: [
           "https://www.youtube.com/embed/QGSjxXkQ5Ws",
