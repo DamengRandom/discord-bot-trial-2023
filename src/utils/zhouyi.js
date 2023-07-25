@@ -3236,7 +3236,7 @@ function answers(guaYao) {
         guaCi: "元亨.",
         yao: "上九",
         yaoCi: "大有上吉, 自天佑也.",
-        origin: "自天祐之, 吉无不利.",
+        origin: "自天佑之, 吉无不利.",
         meaning: "会得到上天的帮助 吉祥而无不利",
         videoUrls: [
           "https://www.youtube.com/embed/r4LmwhY5RQY",
